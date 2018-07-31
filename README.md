@@ -1,2 +1,3 @@
 # ORTHOSCOPE
-Please check Wiki.
+Web servise is avaialbe from the following link:
+http://fish-evol.unit.oist.jp/yurai/
