@@ -89,6 +89,7 @@ Case 2: Query seqeunce is not present in ORTHOSCOPE database
 
 ![unregistered sequence search](images/yourOwnSequence.jpg)
 
+---
 ## Species tree hypothesis
 
 ![species tree](images/Metazoa.tre.jpg)
@@ -149,4 +150,5 @@ Supported | Supported | 11.0 or later | Not supported
 Inoue J. and Satoh N. ORTHOSCOPE: an automatic web tool of analytical pipeline for ortholog identification using a species tree. in prep.
 
 ---
-Previous versions: [_jun.inoue_ AT _oist.jp_](http://www.geocities.jp/ancientfishtree/index_eng.html)
+Previous versions: 
+Email: [_jun.inoue_ AT _oist.jp_](http://www.geocities.jp/ancientfishtree/index_eng.html)
