@@ -105,6 +105,7 @@ The tree file can be modifed using [TreeGraph2](http://treegraph.bioinfweb.info/
 ![sequence alignment](images/Aligned-site_rate.jpg)
 
 ---
+<a name="treeSearch"></a>
 ## Tree search
 Dataset
 
@@ -121,7 +122,7 @@ NJ analysis is conducted using the software package [Ape](https://cran.r-project
 Mac only
 1. Select only orthologs and save 010_candidates_nucl.txt file
 
-![query sequences](images/treeSearchWithOrthologsL.jpg)
+![query sequences](images/treeSearchWithOrthologs.jpg)
 
 2. Decompress 100_2ndTree.tar.gz file
 3. cd into 100_2ndTree file
