@@ -1,3 +1,3 @@
 # ORTHOSCOPE
-Our web servise is avaialbe from 
+Our web servise is available from 
 https://fish-evol.unit.oist.jp//yurai
