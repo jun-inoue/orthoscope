@@ -112,6 +112,7 @@ Dataset
 
 ![codon mode](images/dataset.jpg)
 
+<br />
 Rearrangement BS value threshold 
 
 ![branch rearrangement](images/rearrangeBS.jpg)
