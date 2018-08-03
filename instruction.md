@@ -89,8 +89,7 @@ Case 2: Query seqeunce is not present in ORTHOSCOPE database
 
 ![unregistered sequence search](images/yourOwnSequence.jpg)
 
----
-Species tree hypothesis
+## Species tree hypothesis
 
 ![species tree](images/Metazoa.tre.jpg)
 
