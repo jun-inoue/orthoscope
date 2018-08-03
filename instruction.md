@@ -69,6 +69,8 @@ blastdbcmd -db longest_orfs.cds -dbtype nucl -entry_batch queryIDs.txt -out 020_
 [t2-11]:images/Deuterostomia_MHC6spp.txt.tar.gz
 [t2-12]:images/Protostomia_MHC.txt.tar.gz
 
+<br />
+
 ---
 ## Analysis group
 ![analisis group](images/analysisGroup.jpg)
@@ -105,7 +107,6 @@ The tree file can be modifed using [TreeGraph2](http://treegraph.bioinfweb.info/
 ![sequence alignment](images/Aligned-site_rate.jpg)
 
 ---
-<a name="treeSearch"></a>
 ## Tree search
 Dataset
 
