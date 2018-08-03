@@ -1,5 +1,7 @@
 # ORTHOSCOPE: instruction
-This page is an instruction for [ORTHOSCOPE](https://fish-evol.unit.oist.jp/yurai/index.html).
+This page is an instruction for [orthoscope](https://fish-evol.unit.oist.jp/yurai/index.html).
+
+---
 
 ## Two analyses (mode) of ORTHOSCOPE
 ![mode](https://fish-evol.unit.oist.jp/yurai/examples/mode.jpg)
@@ -65,7 +67,7 @@ blastdbcmd -db longest_orfs.cds -dbtype nucl -entry_batch queryIDs.txt -out 020_
 [t2-12]:https://fish-evol.unit.oist.jp/yurai/examples/Protostomia_MHC.txt.tar.gz
 
 ## Analysis group
-![analisis group](https://fish-evol.unit.oist.jp/yurai/examples/analysisGroup.jpg)
+![analisis group](images/analysisGroup.jpg)
 
 ## Upload files
 Contents
