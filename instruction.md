@@ -3,7 +3,7 @@ This page is an instruction for <a href="https://fish-evol.unit.oist.jp/orthosco
 
 ---
 
-## Two analyses (modes) of ORTHOSCOPE
+## Mode
 ![mode](images/mode.jpg)
 
 ---
