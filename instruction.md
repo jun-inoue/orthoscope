@@ -128,7 +128,7 @@ Supported | Supported | 11.0 or later | Not supported
 ---
 ## Databaase
 Our web servise is available from 
-![v1](https://zenodo.org/record/1327268#.W2e9VS09wo8)
+[v1](https://zenodo.org/record/1327268#.W2e9VS09wo8)
 
 ---
 ## Citation
