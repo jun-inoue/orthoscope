@@ -126,10 +126,16 @@ Supported | Supported | 11.0 or later | Not supported
 10 July 2018 	Version 1.0.
 
 ---
+## Databaase
+Our web servise is available from 
+![v1](https://zenodo.org/record/1327268#.W2e9VS09wo8)
+
+---
 ## Citation
 Inoue J. and Satoh N. ORTHOSCOPE: an automatic web tool of analytical pipeline for ortholog identification using a species tree. in prep.
 
 ---
 Previous versions: 
+
 
 Email: [_jun.inoue_ AT _oist.jp_](http://www.geocities.jp/ancientfishtree/index_eng.html)
