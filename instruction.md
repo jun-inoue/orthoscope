@@ -127,7 +127,7 @@ Supported | Supported | 11.0 or later | Not supported
 
 ---
 ## Database
-[v1](https://zenodo.org/record/1327268#.W2e9VS09wo8)
+Available from [here](https://zenodo.org/record/1327268#.W2e9VS09wo8)
 
 ---
 ## Citation
