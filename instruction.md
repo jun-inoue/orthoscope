@@ -83,7 +83,7 @@ The tree file can be modifed using [TreeGraph2](http://treegraph.bioinfweb.info/
 
 ---
 ## Alignment
-![sequence alignment](images/Aligned-site_rate.jpg)
+![sequence alignment](images/Aligned-site_rate1.jpg)
 
 ---
 ## Tree search
