@@ -126,8 +126,7 @@ Supported | Supported | 11.0 or later | Not supported
 10 July 2018 	Version 1.0.
 
 ---
-## Databaase
-Our web servise is available from 
+## Database
 [v1](https://zenodo.org/record/1327268#.W2e9VS09wo8)
 
 ---
