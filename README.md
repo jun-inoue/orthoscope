@@ -14,7 +14,7 @@ Query seqeunces from genes with known function.
 
 | Actinopterygii | Vertebrata | Deuterostomia | Protostomia |
 :---: | :---: | :---: | :---:
-| PLCB1* | ALDH1A* | Bra | Bra |
+| PLCB1* | ALDH1A* | Brachyury | Brachyury |
 | [Queries][t1-1] | [Queries][t1-2] | [Queries][t1-3] | [Queries][t1-4] |
 | [Result][t1-5] | [Result][t1-6] | [Result][t1-7] | [Result][t1-8] |
 
