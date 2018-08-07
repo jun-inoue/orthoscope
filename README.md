@@ -18,14 +18,14 @@ Query seqeunces from genes with known function.
 | [Queries][t1-1] | [Queries][t1-2] | [Queries][t1-3] | [Queries][t1-4] |
 | [Result][t1-5] | [Result][t1-6] | [Result][t1-7] | [Result][t1-8] |
 
-[t1-1]:tarfiles/ActinopterygianPLCB1.txt.tar.gz
-[t1-2]:tarfiles/VertebrateALDH1A.txt.tar.gz
-[t1-3]:tarfiles/DeuterostomeBra.txt.tar.gz
-[t1-4]:tarfiles/ProtostomeBra.txt.tar.gz
-[t1-5]:tarfiles/ActinopterygianPLCB1.tar.gz
-[t1-6]:tarfiles/VertebrateALDH1A.tar.gz
-[t1-7]:tarfiles/DeuterostomeBra.tar.gz
-[t1-8]:tarfiles/ProtostomeBra.tar.gz  
+[t1-1]:https://github.com/jun-inoue/orthoscope/tree/master/tarfiles/tarfiles/ActinopterygianPLCB1.txt.tar.gz
+[t1-2]:https://github.com/jun-inoue/orthoscope/tree/master/tarfiles/tarfiles/VertebrateALDH1A.txt.tar.gz
+[t1-3]:https://github.com/jun-inoue/orthoscope/tree/master/tarfiles/tarfiles/DeuterostomeBra.txt.tar.gz
+[t1-4]:https://github.com/jun-inoue/orthoscope/tree/master/tarfiles/tarfiles/ProtostomeBra.txt.tar.gz
+[t1-5]:https://github.com/jun-inoue/orthoscope/tree/master/tarfiles/tarfiles/ActinopterygianPLCB1.tar.gz
+[t1-6]:https://github.com/jun-inoue/orthoscope/tree/master/tarfiles/tarfiles/VertebrateALDH1A.tar.gz
+[t1-7]:https://github.com/jun-inoue/orthoscope/tree/master/tarfiles/tarfiles/DeuterostomeBra.tar.gz
+[t1-8]:https://github.com/jun-inoue/orthoscope/tree/master/tarfiles/tarfiles/ProtostomeBra.tar.gz  
 
 #         
 Query sequence collectoin from assemble database*
