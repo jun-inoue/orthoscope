@@ -31,20 +31,20 @@ Query seqeunces from genes with known function.
 Query sequence collectoin from assemble database*
 
 1. Download Coregonus lavaretus TSA file ([GFIG00000000.1](https://www.ncbi.nlm.nih.gov/nuccore/GFIG00000000.1)) form NCBI.
-2. Translate raw sequences into amino acid and cDNA sequences using [TransDecoder](https://github.com/TransDecoder/TransDecoder/wiki).
+2. Translate raw sequences into amino acid and coding sequences using [TransDecoder](https://github.com/TransDecoder/TransDecoder/wiki).
 ```
-    ./TransDecoder.LongOrfs -t GFIG01.1.fsa_nt
+./TransDecoder.LongOrfs -t GFIG01.1.fsa_nt
 ```
 3. Make blast databases using [BLAST+](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download).
 ```
-    makeblastdb -in longest_orfs.pep -dbtype prot -parse_seqids 
-    makeblastdb -in longest_orfs.cds -dbtype nucl -parse_seqids
+makeblastdb -in longest_orfs.pep -dbtype prot -parse_seqids 
+makeblastdb -in longest_orfs.cds -dbtype nucl -parse_seqids
 ```
 4. BLASTP seaech against amino acid database.
 ```
 blastp -query query.txt -db longest_orfs.pep -num_alignments 10 -evalue 1e-12 -out 010_out.txt
 ```
-5. Retrieve blast top hit sequences from cDNA file using seq id.
+5. Retrieve blast top hit sequences from coding sequence file using sequence id.
 ```
 blastdbcmd -db longest_orfs.cds -dbtype nucl -entry_batch queryIDs.txt -out 020_out.txt
 ```
@@ -57,7 +57,7 @@ blastdbcmd -db longest_orfs.cds -dbtype nucl -entry_batch queryIDs.txt -out 020_
 
 ---
 ## Upload files
-cDNA sequence
+Coding sequence
 
 ![file format](images/UplodFile.jpg)
 
@@ -72,7 +72,7 @@ Case 2: Query seqeunce is not present in the ORTHOSCOPE database
 ---
 ## Species tree hypothesis
 
-Our hypothetical species tree can be downloaded from [here](http://fish-evol.unit.oist.jp/orthoscope/examples/SpeciesTreeHypothesis.tre.tar.gz).
+Our hypothetical species tree can be downloaded from [here](https://fish-evol.unit.oist.jp/orthoscope/examples/SpeciesTreeHypothesis.tre).
 
 The tree file can be modifed using [TreeGraph2](http://treegraph.bioinfweb.info/).
 
@@ -97,7 +97,7 @@ Rearrangement BS value threshold
 
 ![branch rearrangement](images/rearrangeBS.jpg)
 
-NJ analysis is conducted using the software package [Ape](https://cran.r-project.org/web/packages/ape/ape.pdf) in R (cDNA) and [FastME](http://www.atgc-montpellier.fr/fastme/) (amino acid). Rearrangement analysis is done using a method implemented in [NOTUNG](http://www.cs.cmu.edu/~durand/Notung/).
+NJ analysis is conducted using the software package [Ape](https://cran.r-project.org/web/packages/ape/ape.pdf) in R (coding) and [FastME](http://www.atgc-montpellier.fr/fastme/) (amino acid). Rearrangement analysis is done using a method implemented in [NOTUNG](http://www.cs.cmu.edu/~durand/Notung/).
 
 ---
 ## Tree estimation using identified orthologs
