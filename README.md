@@ -102,9 +102,10 @@ NJ analysis is conducted using the software package [Ape](https://cran.r-project
 ---
 ## Tree estimation of orthologs using additional sequence
 The script is specialized for a Macintosh use. Windows users need some modifications.
+[Example][t1-6].
 1. Select only orthologs and save 010_candidates_nucl.txt file with additional sequence.
 
-[![query sequences](images/treeSearchWithOrthologs.jpg)](images/treeSearchWithOrthologsL.jpg)
+[![query sequences](images/DeuterostomeBra_2ndAnalysis.zip)
 
 2. Decompress 100_2ndTree.tar.gz file
 3. cd into 100_2ndTree file
