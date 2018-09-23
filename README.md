@@ -102,7 +102,7 @@ NJ analysis is conducted using the software package [Ape](https://cran.r-project
 ---
 ## Tree estimation of orthologs using additional sequence
 Mac only
-1. Select only orthologs and save 010_candidates_nucl.txt file
+1. Select only orthologs and save 010_candidates_nucl.txt file with additional sequence.
 
 [![query sequences](images/treeSearchWithOrthologs.jpg)](images/treeSearchWithOrthologsL.jpg)
 
