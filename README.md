@@ -33,12 +33,12 @@ Query sequence collectoin from assemble database*
 1. Download Coregonus lavaretus TSA file ([GFIG00000000.1](https://www.ncbi.nlm.nih.gov/nuccore/GFIG00000000.1)) form NCBI.
 2. Translate raw sequences into amino acid and coding sequences using [TransDecoder](https://github.com/TransDecoder/TransDecoder/wiki).
 ```
-    ./TransDecoder.LongOrfs -t GFIG01.1.fsa_nt
+./TransDecoder.LongOrfs -t GFIG01.1.fsa_nt
 ```
 3. Make blast databases using [BLAST+](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download).
 ```
-    makeblastdb -in longest_orfs.pep -dbtype prot -parse_seqids 
-    makeblastdb -in longest_orfs.cds -dbtype nucl -parse_seqids
+makeblastdb -in longest_orfs.pep -dbtype prot -parse_seqids 
+makeblastdb -in longest_orfs.cds -dbtype nucl -parse_seqids
 ```
 4. BLASTP seaech against amino acid database.
 ```
