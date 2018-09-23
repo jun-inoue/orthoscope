@@ -72,7 +72,7 @@ Case 2: Query seqeunce is not present in the ORTHOSCOPE database
 ---
 ## Species tree hypothesis
 
-Our hypothetical species tree can be downloaded from [here](http://fish-evol.unit.oist.jp/orthoscope/examples/SpeciesTreeHypothesis.tre.tar.gz).
+Our hypothetical species tree can be downloaded from [here](https://fish-evol.unit.oist.jp/orthoscope/examples/SpeciesTreeHypothesis.tre).
 
 The tree file can be modifed using [TreeGraph2](http://treegraph.bioinfweb.info/).
 
