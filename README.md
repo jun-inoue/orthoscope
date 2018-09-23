@@ -104,7 +104,7 @@ NJ analysis is conducted using the software package [Ape](https://cran.r-project
 Mac only
 1. Select only orthologs and save 010_candidates_nucl.txt file
 
-![query sequences](images/treeSearchWithOrthologs.jpg)
+[![query sequences](images/treeSearchWithOrthologs.jpg)](http://treegraph.bioinfweb.info/)
 
 2. Decompress 100_2ndTree.tar.gz file
 3. cd into 100_2ndTree file
