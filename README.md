@@ -112,9 +112,9 @@ Dependencies:
 
 [![query sequences](images/treeSearchWithOrthologs.jpg)](images/treeSearchWithOrthologsL.jpg)
 
-2. Decompress 100_2ndTree.tar.gz file
-3. cd into 100_2ndTree file
-4. Run the pipeline
+2. Decompress 100_2ndTree.tar.gz file.
+3. cd into 100_2ndTree file.
+4. Run the pipeline.
 ```
 ./100_estimate2ndTree.py
 ```
