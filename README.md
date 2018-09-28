@@ -110,7 +110,7 @@ Dependencies:
 
 1. Select only orthologs and save 010_candidates_nucl.txt file with additional sequence.
 
-[[![query sequences](images/treeSearchWithOrthologs.jpg)](images/treeSearchWithOrthologsL.jpg)
+[![query sequences](images/treeSearchWithOrthologs.jpg)](images/treeSearchWithOrthologsL.jpg)
 
 2. Decompress 100_2ndTree.tar.gz file
 3. cd into 100_2ndTree file
