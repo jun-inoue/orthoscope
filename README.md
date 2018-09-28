@@ -120,7 +120,7 @@ Dependencies:
 ```
 5. ML tree is saved in 200_RAxMLtree_Exc3rd.pdf.
 
-![ML tree](images/200_RAxMLtree_Exc3rd.jpg)
+[![ML tree](images/200_RAxMLtree_Exc3rd.jpg)](images/200_RAxMLtree_Exc3rdL.jpg)
 
 ---
 ## Supported browsers
