@@ -108,7 +108,7 @@ Dependencies:
 [RAxML](https://sco.h-its.org/exelixis/web/software/raxml/index.html), [trimAl](http://trimal.cgenomics.org), [PAL2NAL](http://www.bork.embl.de/pal2nal/#Download), [R](https://cran.ism.ac.jp), [rscript](https://stat.ethz.ch/R-manual/R-devel/library/utils/html/Rscript.html), [APE in R](http://ape-package.ird.fr)
 
 
-1. Select an appropriate outgroup and orthogroup members and save 010_candidates_nucl.txt file. Additional sequence can be included.
+1. Select an appropriate outgroup and orthogroup members and save 010_candidates_nucl.txt file. The outgroup sequence should be placed at the top of alignment. Additional sequences can be included.
 
 [![query sequences](images/treeSearchWithOrthologs.jpg)](images/treeSearchWithOrthologsL.jpg)
 
