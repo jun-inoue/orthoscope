@@ -100,7 +100,7 @@ Rearrangement BS value threshold
 NJ analysis is conducted using the software package [Ape](https://cran.r-project.org/web/packages/ape/ape.pdf) in R (coding) and [FastME](http://www.atgc-montpellier.fr/fastme/) (amino acid). Rearrangement analysis is done using a method implemented in [NOTUNG](http://www.cs.cmu.edu/~durand/Notung/).
 
 ---
-## Tree estimation of orthologs using additional sequence
+## Tree estimation of orthologs using additional sequences
 The script is specialized for a Macintosh use. Windows users need some modifications.
 [Example](https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/DeuterostomeBra_2ndAnalysis.zip).
 
