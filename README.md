@@ -118,7 +118,7 @@ Dependencies:
 ```
 ./100_estimate2ndTree.py
 ```
-5. ML tree is saved in 200_RAxMLtree_Exc3rd.pdf.
+5. ML tree is saved in 200_RAxMLtree_Exc3rd.pdf automatically.
 
 [![ML tree](images/200_RAxMLtree_Exc3rd.jpg)](images/200_RAxMLtree_Exc3rdL.jpg)
 
