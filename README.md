@@ -105,7 +105,7 @@ The script is specialized for a Macintosh use. Windows users need some modificat
 [Example](https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/DeuterostomeBra_2ndAnalysis.zip).
 
 Dependencies:
-[RAxML](https://sco.h-its.org/exelixis/web/software/raxml/index.html), [trimAl](http://trimal.cgenomics.org), [PAL2NAL](http://www.bork.embl.de/pal2nal/#Download), [R](https://cran.ism.ac.jp), [APE in R](http://ape-package.ird.fr)
+[RAxML](https://sco.h-its.org/exelixis/web/software/raxml/index.html), [trimAl](http://trimal.cgenomics.org), [PAL2NAL](http://www.bork.embl.de/pal2nal/#Download), [R](https://cran.ism.ac.jp), [rscript](https://stat.ethz.ch/R-manual/R-devel/library/utils/html/Rscript.html), [APE in R](http://ape-package.ird.fr)
 
 
 1. Select an appropriate outgroup and orthogroup members and save 010_candidates_nucl.txt file. Additional sequence can be included.
