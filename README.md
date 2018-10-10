@@ -100,15 +100,15 @@ Rearrangement BS value threshold
 NJ analysis is conducted using the software package [Ape](https://cran.r-project.org/web/packages/ape/ape.pdf) in R (coding) and [FastME](http://www.atgc-montpellier.fr/fastme/) (amino acid). Rearrangement analysis is done using a method implemented in [NOTUNG](http://www.cs.cmu.edu/~durand/Notung/).
 
 ---
-## Tree estimation of orthologs using additional sequence
+## Tree estimation of orthologs using additional sequences
 The script is specialized for a Macintosh use. Windows users need some modifications.
 [Example](https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/DeuterostomeBra_2ndAnalysis.zip).
 
 Dependencies:
-[RAxML](https://sco.h-its.org/exelixis/web/software/raxml/index.html), [TrimAl](http://trimal.cgenomics.org), [PAL2NAL](http://www.bork.embl.de/pal2nal/), [R](https://cran.ism.ac.jp), [APE in R](http://ape-package.ird.fr)
+[RAxML](https://sco.h-its.org/exelixis/web/software/raxml/index.html), [trimAl](http://trimal.cgenomics.org), [PAL2NAL](http://www.bork.embl.de/pal2nal/#Download), [R](https://cran.ism.ac.jp), [rscript](https://stat.ethz.ch/R-manual/R-devel/library/utils/html/Rscript.html), [APE in R](http://ape-package.ird.fr)
 
 
-1. Select an appropriate outgroup and orthogroup members and save 010_candidates_nucl.txt file. Additional sequence can be included.
+1. Select an appropriate outgroup and orthogroup members and save 010_candidates_nucl.txt file. The outgroup sequence should be placed at the top of alignment. Additional sequences can be included.
 
 [![query sequences](images/treeSearchWithOrthologs.jpg)](images/treeSearchWithOrthologsL.jpg)
 
@@ -118,7 +118,7 @@ Dependencies:
 ```
 ./100_estimate2ndTree.py
 ```
-5. ML tree is saved in 200_RAxMLtree_Exc3rd.pdf.
+5. ML tree is saved in 200_RAxMLtree_Exc3rd.pdf automatically.
 
 [![ML tree](images/200_RAxMLtree_Exc3rd.jpg)](images/200_RAxMLtree_Exc3rdL.jpg)
 
@@ -134,8 +134,8 @@ Supported | Supported | 11.0 or later | Not supported
 
 ---
 ## Database
-Available from [here](https://zenodo.org/record/1327268#.W2e9VS09wo8)
-(10.5281/zenodo.1327268)
+Available from [here](https://zenodo.org/record/1452077#.W7xEfS_ANsM)
+(10.5281/zenodo.1452077). 10 October 2018.
 
 ---
 ## Citation
