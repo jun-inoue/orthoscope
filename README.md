@@ -137,7 +137,7 @@ Supported | Supported | 11.0 or later | Not supported
 Available from [here](https://zenodo.org/record/1452077#.W7xEfS_ANsM)
 (10.5281/zenodo.1452077). 10 October 2018.
 
-ORTHOSCOPE employs a genome-scale protein-coding gene database (coding and amino acid sequence datasets) constructed for each species. In order to count numbers of orthologs in each species/lineage, only the longest sequence is used When transcript variants exist for single locus.
+ORTHOSCOPE employs a genome-scale protein-coding gene database (coding and amino acid sequence datasets) constructed for each species. In order to count numbers of orthologs in each species, only the longest sequence is used, when transcript variants exist for single locus.
 
 ---
 ## Citation
