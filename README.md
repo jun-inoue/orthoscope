@@ -1,6 +1,6 @@
 # ORTHOSCOPE
 Our web servise is available from 
-https://fish-evol.unit.oist.jp/orthoscope.
+http://orthoscope.jp
 
 ---
 
@@ -74,6 +74,12 @@ Case 2: Query seqeunce is not present in the ORTHOSCOPE database
 
 Our hypothetical species tree can be downloaded from [here](https://fish-evol.unit.oist.jp/orthoscope/examples/SpeciesTreeHypothesis.tre).
 
+| [Metazoa][t1-1] | Hexapoda | Vertebrata | Actinopterygii |
+:---: | :---: | :---: | :---:
+
+[t1-1]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Metazoa.pdf
+
+
 The tree file can be modifed using [TreeGraph2](http://treegraph.bioinfweb.info/).
 
 ![treegraph2](images/treeGraph2.jpg)
@@ -136,6 +142,8 @@ Supported | Supported | 11.0 or later | Not supported
 ## Database
 Available from [here](https://zenodo.org/record/1452077#.W7xEfS_ANsM)
 (10.5281/zenodo.1452077). 10 October 2018.
+
+ORTHOSCOPE employs a genome-scale protein-coding gene database (coding and amino acid sequence datasets) constructed for each species. In order to count numbers of orthologs in each species, only the longest sequence is used, when transcript variants exist for single locus.
 
 ---
 ## Citation
