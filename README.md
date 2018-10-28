@@ -74,10 +74,10 @@ Case 2: Query seqeunce is not present in the ORTHOSCOPE database
 
 Our hypothetical species tree can be downloaded from [here](https://fish-evol.unit.oist.jp/orthoscope/examples/SpeciesTreeHypothesis.tre).
 
-| [Metazoa][t1-1] | Hexapoda | Vertebrata | Actinopterygii |
+| [Metazoa][tree1-1] | Hexapoda | Vertebrata | Actinopterygii |
 :---: | :---: | :---: | :---:
 
-[t1-1]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Metazoa.pdf
+[tree1-1]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Metazoa.pdf
 
 
 The tree file can be modifed using [TreeGraph2](http://treegraph.bioinfweb.info/).
