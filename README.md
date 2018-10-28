@@ -76,6 +76,7 @@ Our hypothetical species tree can be downloaded from [here](https://fish-evol.un
 
 | [Metazoa][t1-1] | Hexapoda | Vertebrata | Actinopterygii |
 :---: | :---: | :---: | :---:
+
 [t1-1]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Metazoa.pdf
 
 
