@@ -80,7 +80,7 @@ Our hypothetical species tree can be downloaded from [here](https://fish-evol.un
 [tree1-1]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Metazoa.pdf
 
 
-The tree file can be modifed using [TreeGraph2](http://treegraph.bioinfweb.info/).
+Newick formats can be modifed using [TreeGraph2](http://treegraph.bioinfweb.info/).
 
 ![treegraph2](images/treeGraph2.jpg)
 
