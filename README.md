@@ -72,15 +72,17 @@ Case 2: Query seqeunce is not present in the ORTHOSCOPE database
 ---
 ## Species tree hypothesis
 
-Our hypothetical species tree can be downloaded from [here](https://fish-evol.unit.oist.jp/orthoscope/examples/SpeciesTreeHypothesis.tre).
+Our hypothetical species tree (newick) can be downloaded from [here](https://fish-evol.unit.oist.jp/orthoscope/examples/SpeciesTreeHypothesis.tre).
 
-| [Metazoa][t1-1] | Hexapoda | Vertebrata | Actinopterygii |
+| [Metazoa][treeA] | Hexapoda | [Vertebrata][treeC] | Actinopterygii |
 :---: | :---: | :---: | :---:
 
-[t1-1]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Metazoa.pdf
+[treeA]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Metazoa.pdf
+[treeC]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Vertebrata.pdf
 
+Phylogenetic relationships without references follow the [NCBI Taxonomy Common Tree](https://www.ncbi.nlm.nih.gov/Taxonomy/CommonTree/wwwcmt.cgi).
 
-The tree file can be modifed using [TreeGraph2](http://treegraph.bioinfweb.info/).
+Newick formats can be modifed using [TreeGraph2](http://treegraph.bioinfweb.info/).
 
 ![treegraph2](images/treeGraph2.jpg)
 
