@@ -78,7 +78,7 @@ Our hypothetical species tree (newick) can be downloaded from [here](https://fis
 :---: | :---: | :---: | :---: | :---:
 
 [treeA]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Metazoa.pdf
-[treeA]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Avian.pdf
+[treeD]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Avian.pdf
 [treeC]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Vertebrata.pdf
 
 Phylogenetic relationships without references follow the [NCBI Taxonomy Common Tree](https://www.ncbi.nlm.nih.gov/Taxonomy/CommonTree/wwwcmt.cgi).
