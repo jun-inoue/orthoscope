@@ -114,6 +114,7 @@ NJ analysis is conducted using the software package [Ape](https://cran.r-project
 ## Genome taxon sampling
 
 Feasibility of completion
+
 Number of hits to report per genome | Number of species
 :---: | :---:
 3 | <50
