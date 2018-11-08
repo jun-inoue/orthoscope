@@ -153,7 +153,7 @@ Supported | Supported | 11.0 or later | Not supported
 
 ---
 ## History
-10 July 2018 	Version 1.0.
+10 July 2018 	Version 1.0 (Published in Inoue and Satoh under review).
 
 ---
 ## Database
