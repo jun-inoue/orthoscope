@@ -112,11 +112,11 @@ NJ analysis is conducted using the software package [Ape](https://cran.r-project
 
 ---
 ## Genome taxon sampling
-number of hits to report per genome | # of species | Safari | IE
-:---: | :---: | 
-3 | 50 
+number of hits to report per genome | # of species
+:---: | :---:
+3 | 50
 5 | 40 
-10 | 30 
+10 | 30
 
 
 ---
