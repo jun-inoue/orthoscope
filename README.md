@@ -119,7 +119,6 @@ Number of hits to report per genome | Number of species
 :---: | :---:
 3 | <50
 5 | <40 
-10 | <30
 
 
 ---
