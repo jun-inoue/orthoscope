@@ -144,8 +144,6 @@ cp raxmlHPC-PTHREADS-SSE3 ~/bin
 ```
 Add the directory containing the directory to your PATH variable. e.g.:
 ```
-make
-cp raxmlHPC-PTHREADS-SSE3 ~/bin
 export PATH=$PATH:~/bin/
 ``` 
 
