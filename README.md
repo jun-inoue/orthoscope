@@ -123,14 +123,35 @@ Number of hits to report per genome | Number of species
 
 
 ---
-## Tree estimation of orthologs using additional sequences
+## Tree estimation of orthogroup members using additional sequences
 The script is specialized for a Macintosh use. Windows users need some modifications.
 [Example](https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/DeuterostomeBra_2ndAnalysis.zip).
 
-Dependencies:
-[RAxML](https://sco.h-its.org/exelixis/web/software/raxml/index.html), [trimAl](http://trimal.cgenomics.org), [PAL2NAL](http://www.bork.embl.de/pal2nal/#Download), [R](https://cran.ism.ac.jp), [rscript](https://stat.ethz.ch/R-manual/R-devel/library/utils/html/Rscript.html), [APE in R](http://ape-package.ird.fr)
+# Installing Dependencies:
+
+Estimation of the small tree requires some dependencies to be installed and in the system path.
+
+RAxML
+
+Available here: [https://sco.h-its.org/exelixis/web/software/raxml/index.html](https://sco.h-its.org/exelixis/web/software/raxml/index.html)
 
 
+trimAL
+Available here: [http://trimal.cgenomics.org](http://trimal.cgenomics.org)
+
+PAL2NAL
+Available here: [http://www.bork.embl.de/pal2nal/#Download](http://www.bork.embl.de/pal2nal/#Download)
+
+Ape in R
+R is availab here [R](https://cran.ism.ac.jp), 
+
+
+[rscript](https://stat.ethz.ch/R-manual/R-devel/library/utils/html/Rscript.html) will be installed automatically.
+
+[APE in R](http://ape-package.ird.fr)
+
+
+# Analysis procedure
 1. Select an appropriate outgroup and orthogroup members and save 010_candidates_nucl.txt file. The outgroup sequence should be placed at the top of alignment. Additional sequences can be included.
 
 [![query sequences](images/treeSearchWithOrthologs.jpg)](images/treeSearchWithOrthologsL.jpg)
