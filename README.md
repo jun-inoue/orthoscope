@@ -201,13 +201,13 @@ install.packages("ape")
 ### Duplicated node estimation
 Select an By using [Notung](http://www.cs.cmu.edu/~durand/Notung/), duplicated nodes can be identified.
 
-Double click Notung-2.9.jar.　　
-Save the species tree from 000_summary.txt as a new file (here, speciesTree.tre).　　
-Open the species tree, speciesTree.tre (File > Open Gene Tree).　　
-Open the gene tree, RAxML_bootstrap.txt (File > Open Gene Tree).　　
-Set "Edge Weight THreshold" from Edit Values bottun (here 70).　　
-From Rearrange tab in the bottum, select "Prefix of the general label".　　
-Push "Reconcile" button.　　
+Double click Notung-2.9.jar.  
+Save the species tree from 000_summary.txt as a new file (here, speciesTree.tre).  
+Open the species tree, speciesTree.tre (File > Open Gene Tree).  
+Open the gene tree, RAxML_bootstrap.txt (File > Open Gene Tree).  
+Set "Edge Weight THreshold" from Edit Values bottun (here 70).  
+From Rearrange tab in the bottum, select "Prefix of the general label".  
+Push "Reconcile" button.  
 Duplicated nodes are shown with "D".  
 
 [![Rearranged tree](images/rearrangedTree.jpg)](images/rearrangedTreeL.jpg)
