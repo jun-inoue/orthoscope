@@ -147,7 +147,7 @@ Add the directory containing the directory to your PATH variable. e.g.:
 make
 cp raxmlHPC-PTHREADS-SSE3 ~/bin
 export PATH=$PATH:~/bin/
-```
+``` 
 
 #### trimAL:
 Available here: [http://trimal.cgenomics.org](http://trimal.cgenomics.org)
