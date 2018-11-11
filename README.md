@@ -127,7 +127,7 @@ Number of hits to report per genome | Number of species
 The script is specialized for a Macintosh use. Windows users need some modifications.
 [Example](https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/DeuterostomeBra_2ndAnalysis.zip).
 
-# Installing Dependencies:
+### Installing Dependencies:
 
 Estimation of the small tree requires some dependencies to be installed and in the system path.
 
@@ -151,7 +151,7 @@ R is availab here [R](https://cran.ism.ac.jp),
 [APE in R](http://ape-package.ird.fr)
 
 
-# Analysis procedure
+### Analysis procedure
 1. Select an appropriate outgroup and orthogroup members and save 010_candidates_nucl.txt file. The outgroup sequence should be placed at the top of alignment. Additional sequences can be included.
 
 [![query sequences](images/treeSearchWithOrthologs.jpg)](images/treeSearchWithOrthologsL.jpg)
