@@ -200,7 +200,8 @@ install.packages("ape")
 
 ### Duplicated node estimation
 Select an By using [Notung](http://www.cs.cmu.edu/~durand/Notung/), duplicated nodes can be identified.
-![Rearranged tree](images/rearrangedTree.jpg)
+
+[![Rearranged tree](images/rearrangedTree.jpg)](images/rearrangedTreeL.jpg)
 
 
 
