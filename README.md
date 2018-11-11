@@ -199,10 +199,10 @@ install.packages("ape")
 
 
 ### Duplicated node estimation
-Select an By using [Notung](http://www.cs.cmu.edu/~durand/Notung/), duplicated nodes can be identified.
+Using [Notung](http://www.cs.cmu.edu/~durand/Notung/), duplicated nodes can be identified.
 
-1. Double click Notung-2.9.jar.  
-2. Save the species tree from 000_summary.txt as a new file (here, speciesTree.tre).  
+1. Double click the .jar file (here, Notung-2.9.jar).  
+2. Save the species tree (newick format) from 000_summary.txt as a new file (here, speciesTree.tre).  
 3. Open the species tree file, speciesTree.tre (File > Open Gene Tree).  
 4. Open the gene tree file, RAxML_bootstrap.txt (File > Open Gene Tree).  
 5. Set "Edge Weight THreshold" from Edit Values button (here 70). This value corresponds to
