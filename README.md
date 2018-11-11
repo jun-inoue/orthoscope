@@ -133,7 +133,7 @@ Estimation of the small tree requires some dependencies to be installed and in t
 
 #### RAxML:
 
-Available here: [https://sco.h-its.org/exelixis/web/software/raxml/index.html](https://sco.h-its.org/exelixis/web/software/raxml/index.html)
+Available here: [https://sco.h-its.org/exelixis/web/software/raxml/index.html](https://sco.h-its.org/exelixis/web/software/raxml/index.html) 
 Cd into RAxML/source, type make, and copy the executable to a directory in your system path, e.g.:
 ```
 make
