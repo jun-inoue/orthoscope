@@ -127,7 +127,7 @@ Number of hits to report per genome | Number of species
 The script is specialized for a Macintosh use. Windows users need some modifications.
 [Example](https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/DeuterostomeBra_2ndAnalysis.zip).
 
-### Installing Dependencies:
+### Installing Dependencies
 
 Estimation of the small tree requires some dependencies to be installed and in the system path.
 
@@ -200,6 +200,8 @@ install.packages("ape")
 
 ### Duplicated node estimation
 Select an By using [Notung](http://www.cs.cmu.edu/~durand/Notung/), duplicated nodes can be identified.
+
+[![Rearranged tree](images/rearrangedTree.jpg)](images/rearrangedTreeL.jpg)
 
 
 
