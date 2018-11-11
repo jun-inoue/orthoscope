@@ -148,6 +148,11 @@ Add the directory containing the directory to your PATH variable. e.g.:
 export PATH=$PATH:~/bin/
 ``` 
 
+#### Mafft:
+Available here: [https://mafft.cbrc.jp/alignment/software/](https://mafft.cbrc.jp/alignment/software/)
+After compilation, set your PATH [following this site](https://mafft.cbrc.jp/alignment/software/add_path.html).
+
+
 
 #### trimAL:
 Available here: [https://github.com/scapella/trimal](https://github.com/scapella/trimal)
