@@ -134,24 +134,37 @@ Estimation of the small tree requires some dependencies to be installed and in t
 #### RAxML:
 
 Available here: [https://sco.h-its.org/exelixis/web/software/raxml/index.html](https://sco.h-its.org/exelixis/web/software/raxml/index.html)
+Cd into RAxML/source, type make, and copy the executable to a directory in your system path, e.g.:
+```
+make
+cp raxmlHPC-PTHREADS-SSE3 ~/bin
+export PATH=$PATH:~/bin/
+```
 
-
-trimAL
+#### trimAL:
 Available here: [http://trimal.cgenomics.org](http://trimal.cgenomics.org)
+Cd into trimAl/source, type make, and copy the executable.
+```
+make
+cp trimal ~/bin
+```
 
-PAL2NAL
+#### PAL2NAL: 
 Available here: [http://www.bork.embl.de/pal2nal/#Download](http://www.bork.embl.de/pal2nal/#Download)
+Cop
+```
+cp pal2nal.pl ~/bin
+```
 
-Ape in R
-R is availab here [R](https://cran.ism.ac.jp), 
+#### Ape in R:
+R is availab here [R](https://cran.ism.ac.jp). 
+[rscript](https://stat.ethz.ch/R-manual/R-devel/library/utils/html/Rscript.html) will be installed automatically. 
+[APE in R](http://ape-package.ird.fr) can be installed from R console.
+```
+install.packages("ape")
+```
 
-
-[rscript](https://stat.ethz.ch/R-manual/R-devel/library/utils/html/Rscript.html) will be installed automatically.
-
-[APE in R](http://ape-package.ird.fr)
-
-
-### Analysis procedure
+### Tree estimation
 1. Select an appropriate outgroup and orthogroup members and save 010_candidates_nucl.txt file. The outgroup sequence should be placed at the top of alignment. Additional sequences can be included.
 
 [![query sequences](images/treeSearchWithOrthologs.jpg)](images/treeSearchWithOrthologsL.jpg)
@@ -165,6 +178,11 @@ R is availab here [R](https://cran.ism.ac.jp),
 5. ML tree is saved in 200_RAxMLtree_Exc3rd.pdf automatically.
 
 [![ML tree](images/200_RAxMLtree_Exc3rd.jpg)](images/200_RAxMLtree_Exc3rdL.jpg)
+
+
+### Duplicated node estimation
+Select an By using [Notung](http://www.cs.cmu.edu/~durand/Notung/), duplicated nodes can be identified.
+
 
 ---
 ## Supported browsers
