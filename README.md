@@ -199,7 +199,7 @@ install.packages("ape")
 
 
 ### Duplicated node estimation
-Select an By using [Notung](http://www.cs.cmu.edu/~durand/Notung/), duplicated nodes can be identified.
+Using [Notung](http://www.cs.cmu.edu/~durand/Notung/), duplicated nodes can be identified.
 
 1. Double click Notung-2.9.jar.  
 2. Save the species tree from 000_summary.txt as a new file (here, speciesTree.tre).  
