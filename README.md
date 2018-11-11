@@ -131,7 +131,7 @@ The script is specialized for a Macintosh use. Windows users need some modificat
 
 Estimation of the small tree requires some dependencies to be installed and in the system path.
 
-RAxML
+#### RAxML:
 
 Available here: [https://sco.h-its.org/exelixis/web/software/raxml/index.html](https://sco.h-its.org/exelixis/web/software/raxml/index.html)
 
