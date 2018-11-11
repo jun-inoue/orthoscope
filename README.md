@@ -211,8 +211,7 @@ Select an By using [Notung](http://www.cs.cmu.edu/~durand/Notung/), duplicated n
 7. Push "Reconcile" button.  
 8. Duplicated nodes are shown with "D".  
 
-[![Rearranged tree](images/rearrangedTree.jpg)](images/rearrangedTreeL.jpg)
-[![Rearranged tree](images/Notung_rearrangement.jpg)](images/Notung_rearrangementL.jpg)
+[![Rearranged tree](images/Notung_rearrangement1.jpg)](images/Notung_rearrangement1L.jpg)
 
 
 
