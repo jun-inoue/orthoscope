@@ -150,7 +150,7 @@ export PATH=$PATH:~/bin/
 
 
 #### trimAL:
-Available here: [http://trimal.cgenomics.org](http://trimal.cgenomics.org)
+Available here: [https://github.com/scapella/trimal](https://github.com/scapella/trimal)
 Cd into trimAl/source, type make, and copy the executable.
 ```
 make
@@ -160,8 +160,9 @@ cp trimal ~/bin
 
 #### PAL2NAL: 
 Available here: [http://www.bork.embl.de/pal2nal/#Download](http://www.bork.embl.de/pal2nal/#Download)
-Cop
+Change the permission of perl script and copy it.
 ```
+chmod 755 pal2nal.pl
 cp pal2nal.pl ~/bin
 ```
 
