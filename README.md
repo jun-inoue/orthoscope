@@ -203,8 +203,8 @@ Select an By using [Notung](http://www.cs.cmu.edu/~durand/Notung/), duplicated n
 
 Double click Notung-2.9.jar.  
 Save the species tree from 000_summary.txt as a new file (here, speciesTree.tre).  
-Open the species tree, speciesTree.tre (File > Open Gene Tree).  
-Open the gene tree, RAxML_bootstrap.txt (File > Open Gene Tree).  
+Open the species tree file, speciesTree.tre (File > Open Gene Tree).  
+Open the gene tree file, RAxML_bootstrap.txt (File > Open Gene Tree).  
 Set "Edge Weight THreshold" from Edit Values button (here 70).  
 From Rearrange tab in the bottum, select "Prefix of the general label".  
 Push "Reconcile" button.  
