@@ -111,14 +111,77 @@ Rearrangement BS value threshold
 NJ analysis is conducted using the software package [Ape](https://cran.r-project.org/web/packages/ape/ape.pdf) in R (coding) and [FastME](http://www.atgc-montpellier.fr/fastme/) (amino acid). Rearrangement analysis is done using a method implemented in [NOTUNG](http://www.cs.cmu.edu/~durand/Notung/).
 
 ---
-## Tree estimation of orthologs using additional sequences
+## Genome taxon sampling
+
+Feasibility of completion
+
+Number of hits to report per genome | Number of species
+:---: | :---:
+3 | <50
+5 | <40 
+10 | <30 
+
+
+---
+## Tree estimation of orthogroup members using additional sequences
 The script is specialized for a Macintosh use. Windows users need some modifications.
 [Example](https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/DeuterostomeBra_2ndAnalysis.zip).
 
-Dependencies:
-[RAxML](https://sco.h-its.org/exelixis/web/software/raxml/index.html), [trimAl](http://trimal.cgenomics.org), [PAL2NAL](http://www.bork.embl.de/pal2nal/#Download), [R](https://cran.ism.ac.jp), [rscript](https://stat.ethz.ch/R-manual/R-devel/library/utils/html/Rscript.html), [APE in R](http://ape-package.ird.fr)
+### Installing Dependencies:
+
+Estimation of the small tree requires some dependencies to be installed and in the system path.
 
 
+#### RAxML:
+
+Available here: [https://github.com/stamatak/standard-RAxML](https://github.com/stamatak/standard-RAxML)
+
+Download the the latest release and extract it.
+Cd into the extracted directry (e.g., standard-RAxML-8.2.12), compile the PThreads version, and copy the executable to a directory in your system path, e.g.:
+```
+cd standard-RAxML-8.2.12
+make -f Makefile.SSE3.PTHREADS.gcc
+cp raxmlHPC-PTHREADS-SSE3 ~/bin
+```
+Add the directory containing the directory to your PATH variable. e.g.:
+```
+export PATH=$PATH:~/bin/
+``` 
+
+#### Mafft:
+Available here: [https://mafft.cbrc.jp/alignment/software/](https://mafft.cbrc.jp/alignment/software/)
+
+After compilation, set your PATH [following this site](https://mafft.cbrc.jp/alignment/software/add_path.html).
+
+
+
+#### trimAL:
+Available here: [https://github.com/scapella/trimal](https://github.com/scapella/trimal)
+Cd into trimAl/source, type make, and copy the executable.
+```
+make
+cp trimal ~/bin
+```
+
+
+#### PAL2NAL: 
+Available here: [http://www.bork.embl.de/pal2nal/#Download](http://www.bork.embl.de/pal2nal/#Download)
+Change the permission of perl script and copy it.
+```
+chmod 755 pal2nal.pl
+cp pal2nal.pl ~/bin
+```
+
+
+#### Ape in R:
+R is availab here [R](https://cran.ism.ac.jp). By installing R, [rscript](https://stat.ethz.ch/R-manual/R-devel/library/utils/html/Rscript.html) will be installed automatically. 
+[APE in R](http://ape-package.ird.fr) can be installed from the R console.
+```
+install.packages("ape")
+```
+
+
+### Tree estimation
 1. Select an appropriate outgroup and orthogroup members and save 010_candidates_nucl.txt file. The outgroup sequence should be placed at the top of alignment. Additional sequences can be included.
 
 [![query sequences](images/treeSearchWithOrthologs.jpg)](images/treeSearchWithOrthologsL.jpg)
@@ -133,6 +196,13 @@ Dependencies:
 
 [![ML tree](images/200_RAxMLtree_Exc3rd.jpg)](images/200_RAxMLtree_Exc3rdL.jpg)
 
+
+
+### Duplicated node estimation
+Select an By using [Notung](http://www.cs.cmu.edu/~durand/Notung/), duplicated nodes can be identified.
+
+
+
 ---
 ## Supported browsers
 Chrome | Firefox | Safari | IE
@@ -141,7 +211,7 @@ Supported | Supported | 11.0 or later | Not supported
 
 ---
 ## History
-10 July 2018 	Version 1.0.
+10 July 2018 	Version 1.0 (Published in Inoue and Satoh under review).
 
 ---
 ## Database
