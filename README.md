@@ -199,7 +199,7 @@ install.packages("ape")
 
 
 ### Duplicated node estimation
-Using [Notung](http://www.cs.cmu.edu/~durand/Notung/), duplicated nodes can be identified.
+Using [Notung](http://www.cs.cmu.edu/~durand/Notung/), duplicated nodes can be identified. Here, we will analyze the gene tree of orthogroup members.
 
 1. Double click the .jar file (here, Notung-2.9.jar).  
 2. Save the species tree (newick format) from 000_summary.txt as a new file (here, speciesTree.tre).  
