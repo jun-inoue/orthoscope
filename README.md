@@ -205,9 +205,9 @@ Using [Notung](http://www.cs.cmu.edu/~durand/Notung/), duplicated nodes can be i
 2. Save the species tree (newick format) from 000_summary.txt as a new file (here, speciesTree.tre).  
 3. Open the species tree file, speciesTree.tre (File > Open Gene Tree).  
 4. Open the gene tree file, RAxML_bootstrap.txt (File > Open Gene Tree).  
-5. Set "Edge Weight THreshold" from Edit Values button (here 70). This value corresponds to
+5. Set "Edge Weight THreshold" (here 70) from “Edit Values button“. This value corresponds to
 “Rearrangement BS value threshold” in ORTHOSCOPE.  
-6. From Rearrange tab in the bottum, select "Prefix of the general label".  
+6. From "Rearrange" tab in the bottum, select "Prefix of the general label".  
 7. Push "Reconcile" button.  
 8. Duplicated nodes are shown with "D".  
 
