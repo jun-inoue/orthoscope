@@ -135,7 +135,12 @@ Estimation of the small tree requires some dependencies to be installed and in t
 
 Available here: [https://github.com/stamatak/standard-RAxML](https://github.com/stamatak/standard-RAxML)
 
-Cd into RAxML/source, type make, and copy the executable to a directory in your system path, e.g.:
+Cd into RAxML/source, compile the PThreads version, and copy the executable to a directory in your system path, e.g.:
+```
+make -f Makefile.SSE3.PTHREADS.gcc
+cp raxmlHPC-PTHREADS-SSE3 ~/bin
+```
+Add the directory containing the directory to your PATH variable. e.g.:
 ```
 make
 cp raxmlHPC-PTHREADS-SSE3 ~/bin
