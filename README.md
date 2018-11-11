@@ -131,6 +131,7 @@ The script is specialized for a Macintosh use. Windows users need some modificat
 
 Estimation of the small tree requires some dependencies to be installed and in the system path.
 
+
 #### RAxML:
 
 Available here: [https://github.com/stamatak/standard-RAxML](https://github.com/stamatak/standard-RAxML)
@@ -147,6 +148,7 @@ Add the directory containing the directory to your PATH variable. e.g.:
 export PATH=$PATH:~/bin/
 ``` 
 
+
 #### trimAL:
 Available here: [http://trimal.cgenomics.org](http://trimal.cgenomics.org)
 Cd into trimAl/source, type make, and copy the executable.
@@ -155,12 +157,14 @@ make
 cp trimal ~/bin
 ```
 
+
 #### PAL2NAL: 
 Available here: [http://www.bork.embl.de/pal2nal/#Download](http://www.bork.embl.de/pal2nal/#Download)
 Cop
 ```
 cp pal2nal.pl ~/bin
 ```
+
 
 #### Ape in R:
 R is availab here [R](https://cran.ism.ac.jp). 
@@ -169,6 +173,7 @@ R is availab here [R](https://cran.ism.ac.jp).
 ```
 install.packages("ape")
 ```
+
 
 ### Tree estimation
 1. Select an appropriate outgroup and orthogroup members and save 010_candidates_nucl.txt file. The outgroup sequence should be placed at the top of alignment. Additional sequences can be included.
@@ -186,8 +191,10 @@ install.packages("ape")
 [![ML tree](images/200_RAxMLtree_Exc3rd.jpg)](images/200_RAxMLtree_Exc3rdL.jpg)
 
 
+
 ### Duplicated node estimation
 Select an By using [Notung](http://www.cs.cmu.edu/~durand/Notung/), duplicated nodes can be identified.
+
 
 
 ---
