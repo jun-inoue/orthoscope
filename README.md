@@ -203,7 +203,7 @@ Using [Notung](http://www.cs.cmu.edu/~durand/Notung/), duplicated nodes can be i
 
 1. Double click the downloaded .jar file (here, Notung-2.9.jar).  
 2. Save the species tree (newick format) as a new file (here, speciesTree.tre), from 000_summary.txt file.  
-3. Open the species tree file, speciesTree.tre (File > Open Gene Tree).  
+3. Open the species tree file, speciesTree.tre (File > Open Gene Tree), from Notung.  
 4. Open the gene tree file, RAxML_bootstrap.txt (File > Open Gene Tree).  
 5. Set "Edge Weight THreshold" (here 70) from “Edit Values button“. This value corresponds to
 “Rearrangement BS value threshold” in ORTHOSCOPE.  
