@@ -52,7 +52,7 @@ blastdbcmd -db longest_orfs.cds -dbtype nucl -entry_batch queryIDs.txt -out 020_
 <br />
 
 ---
-## Focal-species group
+## Focal group
 ![analisis group](images/analysisGroup.jpg)
 
 ---
