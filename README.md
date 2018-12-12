@@ -155,9 +155,9 @@ After compilation, set your PATH [following this site](https://mafft.cbrc.jp/ali
 
 
 
-#### trimAL:
-Available here: [https://github.com/scapella/trimal](https://github.com/scapella/trimal)
-Cd into trimAl/source, type make, and copy the executable.
+#### trimAl v1.2 (Official release):
+Available here: [https://github.com/scapella/trimal](https://github.com/scapella/trimal).  
+Cd to trimAl/source, type make, and copy the executable.
 ```
 make
 cp trimal ~/bin
