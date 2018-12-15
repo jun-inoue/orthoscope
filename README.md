@@ -77,12 +77,14 @@ Case 2: Query seqeunce is not present in the ORTHOSCOPE database
 Our hypothetical species tree (newick) can be downloaded from [here](https://fish-evol.unit.oist.jp/orthoscope/examples/SpeciesTreeHypothesis.tre).
 
 
-| [Metazoa][treeA] | Hexapoda | [Vertebrata][treeC] | [Aves][treeD] | Actinopterygii |
+| [Metazoa][treeA] | Hexapoda[treeB] | [Vertebrata][treeC] | [Aves][treeD] | Actinopterygii[treeE] |
 :---: | :---: | :---: | :---: | :---:
 
 [treeA]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Metazoa.pdf
+[treeB]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Hexapoda.pdf
 [treeD]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Aves.pdf
 [treeC]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Vertebrata.pdf
+[treeE]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Acrinopterygii.pdf
 
 
 Phylogenetic relationships without references follow the [NCBI Taxonomy Common Tree](https://www.ncbi.nlm.nih.gov/Taxonomy/CommonTree/wwwcmt.cgi).
