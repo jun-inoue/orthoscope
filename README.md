@@ -234,7 +234,7 @@ ORTHOSCOPE employs a genome-scale, protein-coding gene database (coding and amin
 
 ---
 ## Citation
-Inoue J. and Satoh N. ORTHOSCOPE: an automatic web tool of analytical pipeline for ortholog identification using a species tree. in prep.
+Inoue J. and Satoh N. ORTHOSCOPE: an automatic web tool of analytical pipeline for ortholog identification using a species tree. in press. [MBE](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msy226/5229933).
 
 ---
 Previous versions: 
