@@ -72,7 +72,7 @@ Case 2: Query seqeunce is not present in the ORTHOSCOPE database
 ---
 ## Species tree hypothesis
 
-![SpeciesTree](images/SpeciesTree.pdf)
+![SpeciesTree](images/SpeciesTree.jpg)
 
 Our hypothetical species tree (newick) can be downloaded from [here](https://fish-evol.unit.oist.jp/orthoscope/examples/SpeciesTreeHypothesis.tre).
 
