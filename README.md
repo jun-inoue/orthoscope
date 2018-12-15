@@ -84,7 +84,7 @@ Our hypothetical species tree (newick) can be downloaded from [here](https://fis
 [treeB]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Hexapoda.pdf
 [treeD]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Aves.pdf
 [treeC]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Vertebrata.pdf
-[treeE]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Acrinopterygii.pdf
+[treeE]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Actinopterygii.pdf
 
 
 Phylogenetic relationships without references follow the [NCBI Taxonomy Common Tree](https://www.ncbi.nlm.nih.gov/Taxonomy/CommonTree/wwwcmt.cgi).
