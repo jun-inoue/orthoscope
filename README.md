@@ -72,16 +72,18 @@ Case 2: Query seqeunce is not present in the ORTHOSCOPE database
 ---
 ## Species tree hypothesis
 
+![SpeciesTree](images/SpeciesTree.pdf)
+
 Our hypothetical species tree (newick) can be downloaded from [here](https://fish-evol.unit.oist.jp/orthoscope/examples/SpeciesTreeHypothesis.tre).
 
-<!--
+
 | [Metazoa][treeA] | Hexapoda | [Vertebrata][treeC] | [Aves][treeD] | Actinopterygii |
 :---: | :---: | :---: | :---: | :---:
 
 [treeA]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Metazoa.pdf
 [treeD]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Aves.pdf
 [treeC]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Vertebrata.pdf
--->
+
 
 Phylogenetic relationships without references follow the [NCBI Taxonomy Common Tree](https://www.ncbi.nlm.nih.gov/Taxonomy/CommonTree/wwwcmt.cgi).
 
@@ -155,9 +157,9 @@ After compilation, set your PATH [following this site](https://mafft.cbrc.jp/ali
 
 
 
-#### trimAL:
-Available here: [https://github.com/scapella/trimal](https://github.com/scapella/trimal)
-Cd into trimAl/source, type make, and copy the executable.
+#### trimAl v1.2 (Official release):
+Available here: [https://github.com/scapella/trimal](https://github.com/scapella/trimal).  
+Cd to trimAl/source, type make, and copy the executable.
 ```
 make
 cp trimal ~/bin
@@ -230,11 +232,11 @@ Supported | Supported | 11.0 or later | Not supported
 Available from [here](https://zenodo.org/record/1452077#.W7xEfS_ANsM)
 (10.5281/zenodo.1452077). 10 October 2018.
 
-ORTHOSCOPE employs a genome-scale protein-coding gene database (coding and amino acid sequence datasets) constructed for each species. In order to count numbers of orthologs in each species, only the longest sequence is used, when transcript variants exist for single locus.
+ORTHOSCOPE employs a genome-scale, protein-coding gene database (coding and amino acid sequence datasets) constructed for each species. In order to count numbers of orthologs in each species, only the longest sequence is used, when transcript variants exist for single locus.
 
 ---
 ## Citation
-Inoue J. and Satoh N. ORTHOSCOPE: an automatic web tool of analytical pipeline for ortholog identification using a species tree. in prep.
+Inoue J. and Satoh N. ORTHOSCOPE: an automatic web tool of analytical pipeline for ortholog identification using a species tree. in press. [MBE](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msy226/5229933).
 
 ---
 Previous versions: 
