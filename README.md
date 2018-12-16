@@ -227,7 +227,11 @@ Supported | Supported | 11.0 or later | Not supported
 
 ---
 ## History
-10 July 2018 	Version 1.0 (Published in Inoue and Satoh under review).
+
+Date | Version | Revision
+:---: | :---: | :---:
+10 July 2018 | [Version 1.1.beta](http://fish-evol.unit.oist.jp/orthoscope11/) | Some xenacoelomorph, platyhelminth, priapulid, avian data were newly added.
+10 July 2018 | [Version 1.0](https://www.orthoscope.jp) | Published in Inoue and Satoh (2018).
 
 ---
 ## Database
