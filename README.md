@@ -229,7 +229,7 @@ Supported | Supported | 11.0 or later | Not supported
 ## History
 Date | Version | Revision
 :---: | :---:
-10 July 2018 | [Version 1.1beta](http://fish-evol.unit.oist.jp/orthoscope11/) | Xenacoelomorph, platyhelminths, priapulid, aves data were added.
+10 July 2018 | [Version 1.1beta](http://fish-evol.unit.oist.jp/orthoscope11/) | Some Xenacoelomorph, platyhelminths, priapulid, aves data were newly added.
 10 July 2018 | [Version 1.0](https://www.orthoscope.jp) | Published in Inoue and Satoh (2018).
 
 ---
