@@ -9,7 +9,7 @@ http://orthoscope.jp
 
 ---
 
-## Case Studies in Inoue and Satoh (2018).
+## Case Studies in Inoue and Satoh (2018)
 Query seqeunces from genes with known function.
 
 | Actinopterygii | Vertebrata | Deuterostomia | Protostomia |
