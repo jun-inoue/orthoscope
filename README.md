@@ -185,7 +185,7 @@ install.packages("ape")
 ```
 
 
-### Tree estimation
+### Tree Estimation
 1. Select an appropriate outgroup and orthogroup members and save 010_candidates_nucl.txt file. The outgroup sequence should be placed at the top of alignment. Additional sequences can be included.
 
 [![query sequences](images/treeSearchWithOrthologs.jpg)](images/treeSearchWithOrthologsL.jpg)
@@ -202,7 +202,7 @@ install.packages("ape")
 
 
 
-### Duplicated node estimation
+### Duplicated Node Estimation
 Using [Notung](http://www.cs.cmu.edu/~durand/Notung/), duplicated nodes can be identified. Here, we will analyze the gene tree of orthogroup members.
 
 1. Double click the downloaded .jar file (here, Notung-2.9.jar).  
