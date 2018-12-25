@@ -229,7 +229,7 @@ Supported | Supported | 11.0 or later | Not supported
 ## History
 
 Date | Version | Revision
-:---: | :---: | :---:
+--- | --- | ---
 21 Dec. 2018 | [Version 1.0.1.](http://fish-evol.unit.oist.jp/orthoscope11/) | Released. In the rearranged gene tree, nodes identified as speciation events are marked with "D".
 18 Dec. 2018 | Version 1.0.1.beta | Some xenacoelomorph, platyhelminth, priapulid, avian data were newly added.
 10 July 2018 | [Version 1.0](http://fish-evol.unit.oist.jp/orthoscope100) | Published in Inoue and Satoh (2018).
