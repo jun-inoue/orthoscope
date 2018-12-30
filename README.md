@@ -1,6 +1,7 @@
 # ORTHOSCOPE
 Our web servise is available from 
-http://orthoscope.jp
+http://orthoscope.jp  
+[Japanese instruction](http://www.fish-evol.com/orthoscope_ji.html)
 
 ---
 
