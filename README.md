@@ -204,7 +204,7 @@ cp pal2nal.pl ~/bin
 
 
 #### Ape in R:
-R is availab here [R](https://cran.ism.ac.jp).  
+R is available from [here](https://cran.ism.ac.jp).  
 By installing R, [rscript](https://stat.ethz.ch/R-manual/R-devel/library/utils/html/Rscript.html) will be installed automatically.  
 [APE in R](http://ape-package.ird.fr) can be installed from the R console as follows:
 ```
