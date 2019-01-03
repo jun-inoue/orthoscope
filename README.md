@@ -156,6 +156,7 @@ The script is specialized for a Macintosh use. Windows users need some modificat
 ### Installing Dependencies
 
 Estimation of the small tree requires some dependencies to be installed and in the system path.
+<br />  
 
 
 #### RAxML:
@@ -173,7 +174,6 @@ Add the directory containing the directory to your PATH variable. e.g.:
 ```
 export PATH=$PATH:~/bin
 ``` 
-<br />
 <br />  
 
 #### Mafft:
@@ -181,6 +181,7 @@ Available here: [https://mafft.cbrc.jp/alignment/software/](https://mafft.cbrc.j
 
 After compilation, set your PATH [following this site](https://mafft.cbrc.jp/alignment/software/add_path.html).  
 
+<br />   
 
 
 #### trimAl v1.2 (Official release):
@@ -190,8 +191,8 @@ Cd to trimAl/source, type make, and copy the executable.
 make
 cp trimal ~/bin
 ```  
-<br />
 <br />  
+
 
 #### PAL2NAL: 
 Available here: [http://www.bork.embl.de/pal2nal/#Download](http://www.bork.embl.de/pal2nal/#Download)
@@ -200,8 +201,8 @@ Change the permission of perl script and copy it.
 chmod 755 pal2nal.pl
 cp pal2nal.pl ~/bin
 ```  
-<br />
 <br />  
+
 
 #### Ape in R:
 R is availab here [R](https://cran.ism.ac.jp). By installing R, [rscript](https://stat.ethz.ch/R-manual/R-devel/library/utils/html/Rscript.html) will be installed automatically. 
