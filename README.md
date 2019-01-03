@@ -150,7 +150,7 @@ cp raxmlHPC-PTHREADS-SSE3 ~/bin
 ```
 Add the directory containing the directory to your PATH variable. e.g.:
 ```
-export PATH=$PATH:~/bin/
+export PATH=$PATH:~/bin
 ``` 
 
 #### Mafft:
