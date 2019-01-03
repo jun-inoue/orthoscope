@@ -176,9 +176,9 @@ export PATH=$PATH:~/bin
 ``` 
 <br />  
 
-#### Mafft:
+#### Mafft v7.407:
 Available here: [https://mafft.cbrc.jp/alignment/software/](https://mafft.cbrc.jp/alignment/software/).  
-After compilation, set your PATH [following this site](https://mafft.cbrc.jp/alignment/software/add_path.html).  
+After compilation, set your PATH following [this site](https://mafft.cbrc.jp/alignment/software/add_path.html).  
 
 <br />   
 
@@ -193,7 +193,7 @@ cp trimal ~/bin
 <br />  
 
 
-#### PAL2NAL: 
+#### pal2nal.v14: 
 Available here: [http://www.bork.embl.de/pal2nal/#Download](http://www.bork.embl.de/pal2nal/#Download).  
 Change the permission of perl script and copy it.
 ```
@@ -204,8 +204,9 @@ cp pal2nal.pl ~/bin
 
 
 #### Ape in R:
-R is availab here [R](https://cran.ism.ac.jp). By installing R, [rscript](https://stat.ethz.ch/R-manual/R-devel/library/utils/html/Rscript.html) will be installed automatically. 
-[APE in R](http://ape-package.ird.fr) can be installed from the R console.
+R is availab here [R](https://cran.ism.ac.jp).  
+By installing R, [rscript](https://stat.ethz.ch/R-manual/R-devel/library/utils/html/Rscript.html) will be installed automatically.  
+[APE in R](http://ape-package.ird.fr) can be installed from the R console as follows:
 ```
 install.packages("ape")
 ```
