@@ -166,7 +166,7 @@ Cd to trimAl/source, type make, and copy the executable.
 ```
 make
 cp trimal ~/bin
-```
+```  
   
 
 #### PAL2NAL: 
@@ -175,7 +175,7 @@ Change the permission of perl script and copy it.
 ```
 chmod 755 pal2nal.pl
 cp pal2nal.pl ~/bin
-```
+```  
 
 
 #### Ape in R:
