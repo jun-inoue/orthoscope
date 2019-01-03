@@ -195,7 +195,8 @@ cp trimal ~/bin
 
 
 #### PAL2NAL: 
-Available here: [http://www.bork.embl.de/pal2nal/#Download](http://www.bork.embl.de/pal2nal/#Download)
+Available here: [http://www.bork.embl.de/pal2nal/#Download](http://www.bork.embl.de/pal2nal/#Download)  
+
 Change the permission of perl script and copy it.
 ```
 chmod 755 pal2nal.pl
