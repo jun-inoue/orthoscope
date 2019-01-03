@@ -161,7 +161,7 @@ After compilation, set your PATH [following this site](https://mafft.cbrc.jp/ali
 
 
 #### trimAl v1.2 (Official release):
-Available here: [https://github.com/scapella/trimal](http://trimal.cgenomics.org/downloads).  
+Available here: [http://trimal.cgenomics.org/downloads](http://trimal.cgenomics.org/downloads).  
 Cd to trimAl/source, type make, and copy the executable.
 ```
 make
