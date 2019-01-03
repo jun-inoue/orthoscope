@@ -58,7 +58,8 @@ blastdbcmd -db longest_orfs.cds -dbtype nucl -entry_batch queryIDs.txt -out 020_
 ![analisis group](images/analysisGroup.jpg)
 
 <br />
-<br />
+<br />  
+
 ---
 ## Upload Files
 Coding sequence
@@ -74,7 +75,8 @@ Case 2: Query seqeunce is not present in the ORTHOSCOPE database
 ![unregistered sequence search](images/yourOwnSequence.jpg)
 
 <br />
-<br />
+<br />  
+
 ---
 ## Species Tree Hypothesis
 
@@ -100,19 +102,22 @@ Newick formats can be modifed using [TreeGraph2](http://treegraph.bioinfweb.info
 ![treegraph2](images/treeGraph2.jpg)
 
 <br />
-<br />
+<br />  
+
 ---
 ## Sequence Collection
 ![sequence collection](images/BlastEvalue.jpg)
 
 <br />
-<br />
+<br />  
+
 ---
 ## Alignment
 ![sequence alignment](images/Aligned-site_rate.jpg)
 
 <br />
-<br />
+<br />  
+
 ---
 ## Tree Search
 Dataset
@@ -127,7 +132,8 @@ Rearrangement BS value threshold
 NJ analysis is conducted using the software package [Ape](https://cran.r-project.org/web/packages/ape/ape.pdf) in R (coding) and [FastME](http://www.atgc-montpellier.fr/fastme/) (amino acid). Rearrangement analysis is done using a method implemented in [NOTUNG](http://www.cs.cmu.edu/~durand/Notung/).
 
 <br />
-<br />
+<br />  
+
 ---
 ## Genome Taxon Sampling
 
@@ -140,7 +146,8 @@ Number of hits to report per genome | Number of species
 10 | <30 
 
 <br />
-<br />
+<br />  
+
 ---
 ## Tree Estimation of Orthogroup Members using Additional Sequences
 The script is specialized for a Macintosh use. Windows users need some modifications.
@@ -167,7 +174,8 @@ Add the directory containing the directory to your PATH variable. e.g.:
 export PATH=$PATH:~/bin
 ``` 
 <br />
-<br />
+<br />  
+
 #### Mafft:
 Available here: [https://mafft.cbrc.jp/alignment/software/](https://mafft.cbrc.jp/alignment/software/)
 
@@ -183,7 +191,7 @@ make
 cp trimal ~/bin
 ```  
 <br />
-<br />
+<br />  
 
 #### PAL2NAL: 
 Available here: [http://www.bork.embl.de/pal2nal/#Download](http://www.bork.embl.de/pal2nal/#Download)
@@ -193,7 +201,7 @@ chmod 755 pal2nal.pl
 cp pal2nal.pl ~/bin
 ```  
 <br />
-<br />
+<br />  
 
 #### Ape in R:
 R is availab here [R](https://cran.ism.ac.jp). By installing R, [rscript](https://stat.ethz.ch/R-manual/R-devel/library/utils/html/Rscript.html) will be installed automatically. 
@@ -202,7 +210,7 @@ R is availab here [R](https://cran.ism.ac.jp). By installing R, [rscript](https:
 install.packages("ape")
 ```
 <br />
-<br />
+<br />  
 
 ### Tree Estimation
 1. Select an appropriate outgroup and orthogroup members and save 010_candidates_nucl.txt file. The outgroup sequence should be placed at the top of alignment. Additional sequences can be included.
@@ -243,6 +251,8 @@ Using [Notung](http://www.cs.cmu.edu/~durand/Notung/), duplicated nodes can be i
 Chrome | Firefox | Safari | IE
 :---: | :---: | :---: | :---:
 Supported | Supported | 11.0 or later | Not supported
+<br />
+<br />  
 
 ---
 ## History
@@ -253,12 +263,17 @@ Date | Version | Revision
 18 Dec. 2018 | Version 1.0.1.beta | Some xenacoelomorph, platyhelminth, priapulid, avian data were newly added.
 10 July 2018 | [Version 1.0](http://fish-evol.unit.oist.jp/orthoscope100) | Published in Inoue and Satoh (2018).
 
+<br />
+<br />  
+
 ---
 ## Database
 Available from [here](https://zenodo.org/record/1452077#.W7xEfS_ANsM)
 (10.5281/zenodo.1452077). 10 October 2018.
 
 ORTHOSCOPE employs a genome-scale, protein-coding gene database (coding and amino acid sequence datasets) constructed for each species. In order to count numbers of orthologs in each species, only the longest sequence is used, when transcript variants exist for single locus.
+<br />
+<br />  
 
 ---
 ## Citation
