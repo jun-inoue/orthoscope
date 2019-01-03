@@ -228,6 +228,7 @@ install.packages("ape")
 
 [![ML tree](images/200_RAxMLtree_Exc3rd.jpg)](images/200_RAxMLtree_Exc3rdL.jpg)
 
+<br />  
 
 
 ### Duplicated Node Estimation
