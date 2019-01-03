@@ -246,6 +246,9 @@ Using [Notung](http://www.cs.cmu.edu/~durand/Notung/), duplicated nodes can be i
 
 [![Rearranged tree](images/Notung_rearrangement1.jpg)](images/Notung_rearrangement1L.jpg)
 
+<br />
+<br />  
+ 
 
 
 ---
