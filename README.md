@@ -152,7 +152,8 @@ Add the directory containing the directory to your PATH variable. e.g.:
 ```
 export PATH=$PATH:~/bin
 ``` 
-
+<br />
+<br />
 #### Mafft:
 Available here: [https://mafft.cbrc.jp/alignment/software/](https://mafft.cbrc.jp/alignment/software/)
 
@@ -167,7 +168,8 @@ Cd to trimAl/source, type make, and copy the executable.
 make
 cp trimal ~/bin
 ```  
-  
+<br />
+<br />
 
 #### PAL2NAL: 
 Available here: [http://www.bork.embl.de/pal2nal/#Download](http://www.bork.embl.de/pal2nal/#Download)
@@ -176,7 +178,8 @@ Change the permission of perl script and copy it.
 chmod 755 pal2nal.pl
 cp pal2nal.pl ~/bin
 ```  
-
+<br />
+<br />
 
 #### Ape in R:
 R is availab here [R](https://cran.ism.ac.jp). By installing R, [rscript](https://stat.ethz.ch/R-manual/R-devel/library/utils/html/Rscript.html) will be installed automatically. 
@@ -184,7 +187,8 @@ R is availab here [R](https://cran.ism.ac.jp). By installing R, [rscript](https:
 ```
 install.packages("ape")
 ```
-
+<br />
+<br />
 
 ### Tree Estimation
 1. Select an appropriate outgroup and orthogroup members and save 010_candidates_nucl.txt file. The outgroup sequence should be placed at the top of alignment. Additional sequences can be included.
