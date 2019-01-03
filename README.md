@@ -51,11 +51,14 @@ blastdbcmd -db longest_orfs.cds -dbtype nucl -entry_batch queryIDs.txt -out 020_
 ```
 
 <br />
+<br />
 
 ---
 ## Focal Group
 ![analisis group](images/analysisGroup.jpg)
 
+<br />
+<br />
 ---
 ## Upload Files
 Coding sequence
@@ -70,6 +73,8 @@ Case 2: Query seqeunce is not present in the ORTHOSCOPE database
 
 ![unregistered sequence search](images/yourOwnSequence.jpg)
 
+<br />
+<br />
 ---
 ## Species Tree Hypothesis
 
@@ -94,14 +99,20 @@ Newick formats can be modifed using [TreeGraph2](http://treegraph.bioinfweb.info
 
 ![treegraph2](images/treeGraph2.jpg)
 
+<br />
+<br />
 ---
 ## Sequence Collection
 ![sequence collection](images/BlastEvalue.jpg)
 
+<br />
+<br />
 ---
 ## Alignment
 ![sequence alignment](images/Aligned-site_rate.jpg)
 
+<br />
+<br />
 ---
 ## Tree Search
 Dataset
@@ -115,6 +126,8 @@ Rearrangement BS value threshold
 
 NJ analysis is conducted using the software package [Ape](https://cran.r-project.org/web/packages/ape/ape.pdf) in R (coding) and [FastME](http://www.atgc-montpellier.fr/fastme/) (amino acid). Rearrangement analysis is done using a method implemented in [NOTUNG](http://www.cs.cmu.edu/~durand/Notung/).
 
+<br />
+<br />
 ---
 ## Genome Taxon Sampling
 
@@ -126,7 +139,8 @@ Number of hits to report per genome | Number of species
 5 | <40 
 10 | <30 
 
-
+<br />
+<br />
 ---
 ## Tree Estimation of Orthogroup Members using Additional Sequences
 The script is specialized for a Macintosh use. Windows users need some modifications.
