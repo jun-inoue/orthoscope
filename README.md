@@ -1,7 +1,7 @@
 # ORTHOSCOPE
 Our web servise is available from 
 https://orthoscope.jp  
-If https://orthoscope.jp does not work, please try 8https://http://fish-evol.unit.oist.jp/orthoscope/](http://fish-evol.unit.oist.jp/orthoscope/) (8 Jan. 2019).  
+If https://orthoscope.jp does not work, please try [https://http://fish-evol.unit.oist.jp/orthoscope/](http://fish-evol.unit.oist.jp/orthoscope/) (8 Jan. 2019).  
 [Japanese instruction](http://www.fish-evol.com/orthoscope_ji.html)
 
 ---
