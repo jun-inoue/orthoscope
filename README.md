@@ -149,7 +149,7 @@ Number of hits to report per genome | Number of species
 <br />  
 
 ---
-## Tree Estimation of Orthogroup Members using Additional Sequences
+## Tree Estimation of Orthogroup Members using only orthogroup members
 The script is specialized for a Macintosh use with Python 3. Windows users need some modifications.
 [Example](https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/DeuterostomeBra_2ndAnalysis.zip).
 
