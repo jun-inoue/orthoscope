@@ -149,7 +149,7 @@ Number of hits to report per genome | Number of species
 <br />  
 
 ---
-## Tree Estimation of Orthogroup Members using only orthogroup members
+## Tree Estimation of Orthogroup Members
 You can estimate gene trees using orthogroup members estimated by ORTHOGROUP using your own computer.  
 The script is specialized for a Macintosh use with Python 3. Windows users need some modifications.
 [Example](https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/DeuterostomeBra_2ndAnalysis.zip).
