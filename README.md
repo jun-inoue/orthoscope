@@ -171,7 +171,7 @@ cd standard-RAxML-8.2.12
 make -f Makefile.SSE3.PTHREADS.gcc
 cp raxmlHPC-PTHREADS-SSE3 ~/bin
 ```
-Add the address to your PATH. e.g.:
+Add the address to your PATH. For example:
 ```
 export PATH=$PATH:~/bin
 ``` 
@@ -220,7 +220,7 @@ install.packages("ape")
 [![query sequences](images/treeSearchWithOrthologs.jpg)](images/treeSearchWithOrthologsL.jpg)
 
 2. Decompress 100_2ndTree.tar.gz file.
-3. cd into 100_2ndTree file.
+3. Cd into 100_2ndTree directory.
 4. Run the pipeline.
 ```
 ./100_estimate2ndTree.py
