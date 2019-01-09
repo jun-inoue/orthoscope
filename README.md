@@ -171,7 +171,7 @@ cd standard-RAxML-8.2.12
 make -f Makefile.SSE3.PTHREADS.gcc
 cp raxmlHPC-PTHREADS-SSE3 ~/bin
 ```
-Add the directory containing the directory to your PATH variable. e.g.:
+Add the address to your PATH. e.g.:
 ```
 export PATH=$PATH:~/bin
 ``` 
