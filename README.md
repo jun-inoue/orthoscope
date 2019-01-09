@@ -156,7 +156,7 @@ The script is specialized for a Macintosh use with Python 3. Windows users need 
 
 ### Installing Dependencies
 
-Estimation of the small tree requires some dependencies to be installed and in the system path.
+Estimation of the small tree requires some dependencies to be installed and in the system path in your computer.
 <br />  
 
 
