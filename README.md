@@ -217,7 +217,7 @@ install.packages("ape")
 ### Tree Estimation
 1. Select an appropriate outgroup and orthogroup members and save 010_candidates_nucl.txt file. The outgroup sequence should be placed at the top of alignment. Additional sequences can be included.
 
-[![query sequences](images/treeSearchWithOrthologs.jpg)](images/treeSearchWithOrthologsL.jpg)
+[![query sequences](images/treeSearchWithOrthologs2.jpg)](images/treeSearchWithOrthologs2L.jpg)
 
 2. Decompress 100_2ndTree.tar.gz file.
 3. Cd into 100_2ndTree directory.
