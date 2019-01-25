@@ -228,6 +228,8 @@ install.packages("ape")
 
 To estimate 2nd gene trees, selected orthologs from the NJ or rearranged NJ tree is realigned and subjected to codon-partitioned ML analysis. In the downloaded pipeline, selected sequences are aligned using MAFFT (Katoh et al. 2005). Multiple sequence alignments are trimmed by removing poorly aligned regions using TRIMAL 1.2 (Capella-Gutierrez et al. 2009) with the option “gappyout.” Corresponding cDNA sequences are forced onto the amino acid alignment using PAL2NAL (Suyama et al. 2006) to generate nucleotide alignments for later comparative analysis. Phylogenetic analysis is performed with RAxML 8.2.4 (Stamatakis 2014), which invokes a rapid bootstrap analysis and searches for the best-scoring ML tree with the GTRGAMMA (general time-reversible with the gamma) (Yang 1994a, 1994b) or GTRCAT model. 
 
+The analysis procedure as follows:   
+
 1. Select an appropriate outgroup and orthogroup members and save 010_candidates_nucl.txt file. The outgroup sequence should be placed at the top of alignment. Additional sequences can be included.
 
 [![query sequences](images/treeSearchWithOrthologs2.jpg)](images/treeSearchWithOrthologs2L.jpg)
