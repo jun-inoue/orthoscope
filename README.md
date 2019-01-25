@@ -11,7 +11,14 @@ If https://orthoscope.jp does not work, please try [https://http://fish-evol.uni
 
 ---
 
-## Case Studies in Inoue and Satoh (2018)
+## Case Studies in Satoh et al. submitted
+   
+[Download](https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/Satoh2019CesA.zip)
+
+
+
+
+## Query sequences used in Inoue and Satoh (2018)
 Query seqeunces from genes with known function.
 
 | Actinopterygii | Vertebrata | Deuterostomia | Protostomia |
@@ -28,6 +35,8 @@ Query seqeunces from genes with known function.
 [t1-6]:https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/VertebrateALDH1A.zip
 [t1-7]:https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/DeuterostomeBra.zip
 [t1-8]:https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/ProtostomeBra.zip
+
+
 
 #         
 Query sequence collectoin from assemble database*
