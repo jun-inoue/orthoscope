@@ -11,7 +11,7 @@ If https://orthoscope.jp does not work, please try [https://http://fish-evol.uni
 
 ---
 
-## Query sequences   
+## Example Data   
 ### Satoh et al. submitted   
 Satoh N, Nakashima K, and Jun Inoue. ORTHOSCOPE Analysis Reveals the Cellulose Synthase Gene in All Tunicate Genomes, but Nowhere Else in Animal Genomes. submitted.   
 [Data](https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/CesA.zip)   
