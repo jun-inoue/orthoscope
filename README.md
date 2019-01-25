@@ -19,7 +19,7 @@ Satoh N, Nakashima K, and Jun Inoue. ORTHOSCOPE Analysis Reveals the Cellulose S
 
 #   
 ### Inoue and Satoh (2018)
-Inoue J. and Satoh N. ORTHOSCOPE: an automatic web tool of analytical pipeline for ortholog identification using a species tree. [MBE in press](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msy226/5229933).   
+Inoue J. and Satoh N. 2019. ORTHOSCOPE: an automatic web tool of analytical pipeline for ortholog identification using a species tree. [MBE in press](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msy226/5229933).   
 
 | Actinopterygii | Vertebrata | Deuterostomia | Protostomia |
 :---: | :---: | :---: | :---:
