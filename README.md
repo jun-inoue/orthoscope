@@ -162,11 +162,11 @@ Number of hits to report per genome | Number of species
 ## Tree Estimation of Orthogroup Members with Additional Sequences
 By using sequences of ORTHOSCOPE results, the analysis can be done on your own computer.  
 I made an analysis pipeline for this 2nd step. The script is specialized for a Macintosh use with Python 3. Windows users need some modifications.  
-[Analysis pipeline](https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/DeuterostomeBra_2ndAnalysis.zip).
+Analysis pipeline with example data: [DeuterostomeBra_2ndAnalysis.zip](https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/DeuterostomeBra_2ndAnalysis.zip).
 
 ### Installing Dependencies
 
-Estimation of the small tree requires some dependencies to be installed and in the system path in your computer.
+Estimation of the 2nd tree by the downloaded pipeline requires some dependencies to be installed and in the system path in your computer.
 <br />  
 
 
@@ -230,11 +230,12 @@ To estimate 2nd gene trees, selected orthologs from the NJ or rearranged NJ tree
 
 The analysis procedure as follows:   
 
-1. Select an appropriate outgroup and orthogroup members and save 010_candidates_nucl.txt file. The outgroup sequence should be placed at the top of alignment. Additional sequences can be included.
+1. Decompress DeuterostomeBra_2ndAnalysis.zip. Open DeuterostomeBra_2ndAnalysis file and decompress 100_2ndTree.tar.gz file.
+
+2. Select an appropriate outgroup and orthogroup members and save 010_candidates_nucl.txt file. The outgroup sequence should be placed at the top of alignment. Additional sequences can be included.
 
 [![query sequences](images/treeSearchWithOrthologs2.jpg)](images/treeSearchWithOrthologs2L.jpg)
 
-2. Decompress 100_2ndTree.tar.gz file.
 3. Cd into 100_2ndTree directory.
 4. Run the pipeline.
 ```
