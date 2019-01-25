@@ -13,7 +13,7 @@ If https://orthoscope.jp does not work, please try [https://http://fish-evol.uni
 
 ## Example Data   
 ### Satoh et al. submitted   
-Satoh N, Nakashima K, and Jun Inoue. ORTHOSCOPE Analysis Reveals the Cellulose Synthase Gene in All Tunicate Genomes, but Nowhere Else in Animal Genomes. submitted.   
+Satoh N, Nakashima K, and Jun Inoue. ORTHOSCOPE analysis reveals the cellulose synthase gene in all tunicate genomes, but nowhere else in animal genomes. Submitted.   
 [Data](https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/CesA.zip)   
 
 
