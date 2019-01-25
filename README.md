@@ -14,7 +14,7 @@ If https://orthoscope.jp does not work, please try [https://http://fish-evol.uni
 ## Query sequences   
 ### Satoh et al. submitted
    
-[CesA and CH6 domains](https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/Satoh2019CesA.zip)
+[CesA and GH6 domains](https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/Satoh2019CesA.zip)
 
 
 #         
