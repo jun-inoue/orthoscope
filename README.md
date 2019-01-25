@@ -14,12 +14,13 @@ If https://orthoscope.jp does not work, please try [https://http://fish-evol.uni
 ## Query sequences   
 ### Satoh et al. submitted   
 Satoh N, Nakashima K, and Jun Inoue. ORTHOSCOPE Analysis Reveals the Cellulose Synthase Gene in All Tunicate Genomes, but Nowhere Else in Animal Genomes. submitted.   
-[Queries and alignments](https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/CesA.zip)   
+[Data](https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/CesA.zip)   
 
 
 #   
 ### Inoue and Satoh (2018)
 Inoue J. and Satoh N. ORTHOSCOPE: an automatic web tool of analytical pipeline for ortholog identification using a species tree. [MBE in press](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msy226/5229933).   
+
 | Actinopterygii | Vertebrata | Deuterostomia | Protostomia |
 :---: | :---: | :---: | :---:
 | PLCB1* | ALDH1A* | Brachyury | Brachyury |
