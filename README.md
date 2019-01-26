@@ -38,7 +38,6 @@ Inoue J. and Satoh N. 2019. ORTHOSCOPE: an automatic web tool of analytical pipe
 
 
 
-#         
 #### Query sequence collectoin from assemble database (Vertebrate ALDH1A and Actinopterygin PLCB1)
 
 1. Download Coregonus lavaretus TSA file ([GFIG00000000.1](https://www.ncbi.nlm.nih.gov/nuccore/GFIG00000000.1)) form NCBI.
