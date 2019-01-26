@@ -228,7 +228,7 @@ install.packages("ape")
 ### Tree Estimation
 
 Using the downloaded pipeline, the 2nd gene trees will be estimated as follows:
-- Usear should select coding sequences of orthogroup and outgroups from the rearranged NJ tree manually. Then the pipeline can start subsequent analyese.
+- Users should select coding sequences of orthogroup and outgroups from the rearranged NJ tree manually. Then the pipeline can start subsequent analyese.
 - Selected sequences are aligned using MAFFT (Katoh et al. 2005). 
 - Multiple sequence alignments are trimmed by removing poorly aligned regions using TRIMAL 1.2 (Capella-Gutierrez et al. 2009) with the option “gappyout.” 
 - Corresponding cDNA sequences are forced onto the amino acid alignment using PAL2NAL (Suyama et al. 2006) to generate nucleotide alignments. 
