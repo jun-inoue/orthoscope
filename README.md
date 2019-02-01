@@ -99,7 +99,7 @@ Our hypothetical species tree (newick) can be downloaded from [here](https://fis
 | [Metazoa][treeA] | [Hexapoda][treeB] | [Vertebrata][treeC] | [Aves][treeD] | [Actinopterygii][treeE] |
 :---: | :---: | :---: | :---: | :---:
 
-[treeA]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Metazoa.pdf
+[treeA]:https://github.com/jun-inoue/orthoscope/tree/master/images/SpeciesTree_Metazoa.pdf
 [treeB]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Hexapoda.pdf
 [treeD]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Aves.pdf
 [treeC]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Vertebrata.pdf
