@@ -16,7 +16,7 @@ If https://orthoscope.jp does not work, please try [https://http://fish-evol.uni
 Satoh N, Nakashima K, and Jun Inoue. ORTHOSCOPE analysis reveals the cellulose synthase gene in all tunicate genomes, but nowhere else in animal genomes. Submitted.   
 
 [Queries](https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/CesA_Satoh19.zip). These sequences were used for "Tree Search Only" mode.   
-In this paper, maximum likelihood trees were estimated according to the process described in "Tree Estimation of Orthogroup Members with Additional Sequences". See below.   
+In this paper, maximum likelihood trees were estimated according to the process described in "Tree Estimation of Orthogroup Members (with Additional Sequences)". See below.   
 
 
 #   
@@ -160,7 +160,7 @@ Number of hits to report per genome | Number of species
 <br />  
 
 ---
-## Tree Estimation of Orthogroup Members with Additional Sequences
+## Tree Estimation of Orthogroup Members (with Additional Sequences)
 By using sequences of ORTHOSCOPE results, the analysis can be done on your own computer.  
 I made an analysis pipeline for this 2nd step. The script is specialized for a Macintosh use with Python 3. Windows users need some modifications.  
 Analysis pipeline with example data: [DeuterostomeBra_2ndAnalysis.zip](https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/DeuterostomeBra_2ndAnalysis.zip).
@@ -297,8 +297,7 @@ Date | Version | Revision
 
 ---
 ## Database
-Available from [here](https://zenodo.org/record/1452077#.W7xEfS_ANsM)
-(10.5281/zenodo.1452077). 10 October 2018.
+Available from [here](https://zenodo.org/record/2553737#.XFLGVS3AMvp) (10.5281/zenodo.2553737). 31 Jan. 2018.    
 
 ORTHOSCOPE employs a genome-scale, protein-coding gene database (coding and amino acid sequence datasets) constructed for each species. In order to count numbers of orthologs in each species, only the longest sequence is used, when transcript variants exist for single locus.
 <br />
