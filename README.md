@@ -40,9 +40,9 @@ Inoue J. and Satoh N. 2019. ORTHOSCOPE: an automatic web tool of analytical pipe
 
 
 #   
-### Downloading query sequences from NCBI
-From [NCBI top page](https://www.ncbi.nlm.nih.gov), query sequences can be downloaded.   
-For coding sequnece, please select CDS.
+### Downloading query sequences from NCBI/Ensembl
+From [NCBI](https://www.ncbi.nlm.nih.gov) or [Ensembl](http://ensembl.org/index.html), query sequences can be downloaded.   
+For coding sequneces, please select CDS as follows.
 
 [![CDS](images/CDSselect.jpg)](images/CDSselectL.jpg)   
 
