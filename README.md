@@ -39,6 +39,12 @@ Inoue J. and Satoh N. 2019. ORTHOSCOPE: an automatic web tool of analytical pipe
 [t1-8]:https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/ProtostomeBra.zip
 
 
+### Query file download from NCBI
+From [NCBI top page](https://www.ncbi.nlm.nih.gov), query sequences can be downloaded.   
+For coding sequnece, please select CDS.
+
+[![CDS](images/CDSselect.jpg)](images/CDSselectL.jpg)   
+
 
 #### Query sequence collectoin from assemble database (Vertebrate ALDH1A and Actinopterygin PLCB1)
 
