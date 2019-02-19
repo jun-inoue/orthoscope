@@ -39,14 +39,16 @@ Inoue J. and Satoh N. 2019. ORTHOSCOPE: an automatic web tool of analytical pipe
 [t1-8]:https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/ProtostomeBra.zip
 
 
-### Query file download from NCBI
-From [NCBI top page](https://www.ncbi.nlm.nih.gov), query sequences can be downloaded.   
-For coding sequnece, please select CDS.
+#   
+### Downloading query sequences from NCBI/Ensembl
+From [NCBI](https://www.ncbi.nlm.nih.gov) or [Ensembl](http://ensembl.org/index.html), query sequences can be downloaded.   
+For coding sequneces, please select CDS as follows.
 
 [![CDS](images/CDSselect.jpg)](images/CDSselectL.jpg)   
 
 
-#### Query sequence collectoin from assemble database (Vertebrate ALDH1A and Actinopterygin PLCB1)
+#   
+### Query sequence collectoin from assemble database (Vertebrate ALDH1A and Actinopterygin PLCB1)
 
 1. Download Coregonus lavaretus TSA file ([GFIG00000000.1](https://www.ncbi.nlm.nih.gov/nuccore/GFIG00000000.1)) form NCBI.
 2. Translate raw sequences into amino acid and coding sequences using [TransDecoder](https://github.com/TransDecoder/TransDecoder/wiki).
