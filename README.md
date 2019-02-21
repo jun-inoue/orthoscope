@@ -11,7 +11,7 @@ If https://orthoscope.jp does not work, please try [https://http://fish-evol.uni
 
 
 ## Replacement of query seqauence   
-![CDS](images/querySeq.jpg)
+![CDS](images/querySeq1.jpg)
 
 ---
 
