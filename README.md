@@ -97,6 +97,14 @@ Case 2: Query seqeunce is not present in the ORTHOSCOPE database
 <br />  
 
 ---
+## Rooting Selection from Blast Hits
+
+[![Rooting](images/rootingSelection.jpg)](images/rootingSelectionL.jpg)
+
+<br />
+<br />  
+
+---
 ## Species Tree Hypothesis
 
 ![SpeciesTree](images/SpeciesTree.jpg)
