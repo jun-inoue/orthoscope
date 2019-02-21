@@ -99,7 +99,7 @@ Case 2: Query seqeunce is not present in the ORTHOSCOPE database
 ---
 ## Rooting Selection from Blast Hits
 
-[![Rooting](images/rootingSelection.jpg)](images/rootingSelectionL.jpg)
+![Rooting](images/rootingSelection.jpg)
 
 <br />
 <br />  
