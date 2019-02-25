@@ -17,7 +17,7 @@ If https://orthoscope.jp does not work, please try [https://http://fish-evol.uni
 
 ## Example Data   
 ### Satoh et al. in press   
-Satoh N, Nakashima K, and Jun Inoue. ORTHOSCOPE analysis reveals the cellulose synthase gene in all tunicate genomes, but nowhere else in animal genomes. in press.   
+Inoue J, Nakashima K, and Satoh N. ORTHOSCOPE analysis reveals the cellulose synthase gene in all tunicate genomes, but nowhere else in animal genomes. in prep.   
 
 [Queries](https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/CesA_Satoh19.zip). These sequences were used for "Tree Search Only" mode.   
 In this paper, maximum likelihood trees were estimated according to the process described in "Tree Estimation of Orthogroup Members (with Additional Sequences)". See below.   
