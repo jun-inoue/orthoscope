@@ -11,10 +11,10 @@ If https://orthoscope.jp does not work, please try [https://http://fish-evol.uni
 
 
 ## Use of query sequences in gene tree estimation   
-### Redundant Blast hits are deleted.   
+### Redundant Blast hits are deleted   
 ![CDS](images/MultipleQuerySeqs.jpg)
 
-### Queries are added(Tree search only) or deleted (Search & rearrangement)   
+### Queries are added or deleted   
 ![CDS](images/querySeq2.jpg)
 
 ---
