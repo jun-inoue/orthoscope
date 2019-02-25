@@ -10,7 +10,7 @@ If https://orthoscope.jp does not work, please try [https://http://fish-evol.uni
 ![mode](images/mode.jpg)
 
 
-## Replacement of query seqauence   
+## The use of query seqauences in gene tree estimation   
 ![CDS](images/querySeq1.jpg)
 
 ---
