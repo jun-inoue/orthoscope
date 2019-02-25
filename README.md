@@ -14,9 +14,8 @@ If https://orthoscope.jp does not work, please try [https://http://fish-evol.uni
 
 ![CDS](images/MultipleQuerySeqs.jpg)
 
-----
 
-![CDS](images/querySeq1.jpg)
+![CDS](images/querySeq2.jpg)
 
 ---
 
