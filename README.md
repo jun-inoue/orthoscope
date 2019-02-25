@@ -10,13 +10,13 @@ If https://orthoscope.jp does not work, please try [https://http://fish-evol.uni
 ![mode](images/mode.jpg)
 
 
-## The use of query sequences in gene tree estimation   
+## Use of query sequences in gene tree estimation   
 ![CDS](images/querySeq1.jpg)
 
 ---
 
 ## Example Data   
-### Satoh et al. in press   
+### Inoue et al. in rep.   
 Inoue J, Nakashima K, and Satoh N. ORTHOSCOPE analysis reveals the cellulose synthase gene in all tunicate genomes, but nowhere else in animal genomes. in prep.   
 
 [Queries](https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/CesA_Satoh19.zip). These sequences were used for "Tree Search Only" mode.   
