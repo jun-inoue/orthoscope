@@ -11,6 +11,11 @@ If https://orthoscope.jp does not work, please try [https://http://fish-evol.uni
 
 
 ## Use of query sequences in gene tree estimation   
+
+![CDS](images/MultipleQuerySeqs.jpg)
+
+----
+
 ![CDS](images/querySeq1.jpg)
 
 ---
