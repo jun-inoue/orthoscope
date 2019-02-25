@@ -14,7 +14,7 @@ If https://orthoscope.jp does not work, please try [https://http://fish-evol.uni
 Redundant Blast hits are deleted.   
 ![CDS](images/MultipleQuerySeqs.jpg)
 
-Query is added in Tree search only analysis, but query is prelaced in Search & rearrangement analysis.   
+To estimate a gene tree, query is added in Tree search only analysis, but query is prelaced in Search & rearrangement analysis.   
 ![CDS](images/querySeq2.jpg)
 
 ---
