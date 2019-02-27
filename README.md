@@ -14,7 +14,7 @@ If https://orthoscope.jp does not work, please try [https://http://fish-evol.uni
 ## Flow Chart
 ![flowChart2](images/flowChart2.jpg)
 
-## Use of query sequences in gene tree estimation   
+## Use of Query Sequences in Gene Tree Estimation   
 ### Redundant Blast hits are deleted   
 ![MultipleQuerySeqs](images/MultipleQuerySeqs1.jpg)
 
@@ -60,7 +60,7 @@ For coding sequneces, please select CDS as follows.
 
 
 #   
-### Collecting query sequences from an assemble database (Vertebrate ALDH1A and Actinopterygin PLCB1)
+### Collecting Query Sequences from an Assemble Database (Vertebrate ALDH1A and Actinopterygin PLCB1)
 
 1. Download Coregonus lavaretus TSA file ([GFIG00000000.1](https://www.ncbi.nlm.nih.gov/nuccore/GFIG00000000.1)) form NCBI.
 2. Translate raw sequences into amino acid and coding sequences using [TransDecoder](https://github.com/TransDecoder/TransDecoder/wiki).
