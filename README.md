@@ -152,8 +152,8 @@ Newick formats can be modifed using [TreeGraph2](http://treegraph.bioinfweb.info
 <br />  
 
 ---
-## Alignment
-![sequence alignment](images/Aligned-site_rate.jpg)
+## Aligned Site Rate
+![sequence alignment](images/Aligned-site_rate1.jpg)
 
 <br />
 <br />  
