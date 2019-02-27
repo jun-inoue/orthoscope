@@ -7,7 +7,7 @@ If https://orthoscope.jp does not work, please try [https://http://fish-evol.uni
 ---
 
 ## Mode
-![mode](images/mode1.jpg)
+![mode](images/mode2.jpg)
 
 ---
 
