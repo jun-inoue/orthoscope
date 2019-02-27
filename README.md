@@ -18,7 +18,7 @@ If https://orthoscope.jp does not work, please try [https://http://fish-evol.uni
 ### Redundant Blast hits are deleted   
 ![MultipleQuerySeqs](images/MultipleQuerySeqs1.jpg)
 
-### Queries are added or deleted   
+### Queries are added or replaced   
 ![querySeq](images/querySeq5.jpg)
 
 ---
