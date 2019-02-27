@@ -12,7 +12,7 @@ If https://orthoscope.jp does not work, please try [https://http://fish-evol.uni
 ---
 
 ## Flow Chart
-![flowChart.jpg](images/flowChart.jpg)
+![flowChart2](images/flowChart2.jpg)
 
 ## Use of query sequences in gene tree estimation   
 ### Redundant Blast hits are deleted   
