@@ -9,13 +9,17 @@ If https://orthoscope.jp does not work, please try [https://http://fish-evol.uni
 ## Mode
 ![mode](images/mode1.jpg)
 
+---
+
+## Flow Chart
+![flowChart.jpg](images/flowChart.jpg)
 
 ## Use of query sequences in gene tree estimation   
 ### Redundant Blast hits are deleted   
-![CDS](images/MultipleQuerySeqs1.jpg)
+![MultipleQuerySeqs](images/MultipleQuerySeqs1.jpg)
 
 ### Queries are added or deleted   
-![CDS](images/querySeq5.jpg)
+![querySeq](images/querySeq5.jpg)
 
 ---
 
