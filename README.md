@@ -334,7 +334,7 @@ ORTHOSCOPE employs a genome-scale, protein-coding gene database (coding and amin
 
 ---
 ## Citation
-Inoue J. and Satoh N. ORTHOSCOPE: An automatic web tool for phylogenetically inferring bilaterian orthogroups with user-selected taxa. Molecular Biology and Evolution, 36, 621–631 [Linc](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msy226/5229933).
+Inoue J. and Satoh N. ORTHOSCOPE: An automatic web tool for phylogenetically inferring bilaterian orthogroups with user-selected taxa. Molecular Biology and Evolution, 36, 621–631. [Link](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msy226/5229933).
 
 ---
 Previous versions: 
