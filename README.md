@@ -2,7 +2,7 @@
 Our web servise is available from [https://orthoscope.jp](https://orthoscope.jp).  
 If https://orthoscope.jp does not work, please try [https://http://fish-evol.unit.oist.jp/orthoscope/](http://fish-evol.unit.oist.jp/orthoscope/) (8 Jan. 2019).  
 Also, mirror sites ([http://fish-evol.com/orthoscope/](http://fish-evol.com/orthoscope/)) can be used (18 Mar. 2019).  
-[Japanese instruction](http://www.fish-evol.com/orthoscope_ji.html)
+[Japanese instruction](http://153.126.167.45/orthoscope_ji.html)
 
 ---
 
