@@ -332,6 +332,16 @@ ORTHOSCOPE employs a genome-scale, protein-coding gene database (coding and amin
 <br />
 <br />  
 
+
+---
+## Expression data
+
+Species | Database 
+--- | --- 
+Strongylocentrotus purpuratus | [Echinobase](http://www.echinobase.org:3838/quantdev/) 
+
+<br />
+<br />  
 ---
 ## Citation
 Inoue J. and Satoh N. ORTHOSCOPE: An automatic web tool for phylogenetically inferring bilaterian orthogroups with user-selected taxa. Molecular Biology and Evolution, 36, 621–631. [Link](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msy226/5229933).
