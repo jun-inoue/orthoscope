@@ -338,7 +338,7 @@ ORTHOSCOPE employs a genome-scale, protein-coding gene database (coding and amin
 
 Species | Database 
 --- | --- 
-Strongylocentrotus purpuratus | [Echinobase](http://www.echinobase.org:3838/quantdev/) 
+Strongylocentrotus purpuratus | [EchinoBase](http://www.echinobase.org:3838/quantdev/) 
 
 <br />
 <br />  
