@@ -1,8 +1,8 @@
 # ORTHOSCOPE
 Our web servise is available from [https://orthoscope.jp](https://orthoscope.jp).  
 If https://orthoscope.jp does not work, please try [https://http://fish-evol.unit.oist.jp/orthoscope/](http://fish-evol.unit.oist.jp/orthoscope/) (8 Jan. 2019).  
-  
-[Japanese instruction](http://www.fish-evol.com/orthoscope_ji.html)
+Also, mirror sites ([http://fish-evol.org/orthoscope/](http://fish-evol.org/orthoscope/)) can be used (18 Mar. 2019).  
+[Japanese instruction](http://153.126.167.45/orthoscope_ji.html)
 
 ---
 
@@ -332,6 +332,16 @@ ORTHOSCOPE employs a genome-scale, protein-coding gene database (coding and amin
 <br />
 <br />  
 
+
+---
+## Expression data
+
+Species | Database 
+--- | --- 
+Strongylocentrotus purpuratus | [EchinoBase](http://www.echinobase.org:3838/quantdev/) 
+
+<br />
+<br />  
 ---
 ## Citation
 Inoue J. and Satoh N. ORTHOSCOPE: An automatic web tool for phylogenetically inferring bilaterian orthogroups with user-selected taxa. Molecular Biology and Evolution, 36, 621–631. [Link](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msy226/5229933).
