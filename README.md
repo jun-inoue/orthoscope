@@ -1,5 +1,5 @@
 # ORTHOSCOPE
-<b>Web servise:<:b> [https://orthoscope.jp](https://orthoscope.jp). If https://orthoscope.jp does not work, please try [https://http://fish-evol.unit.oist.jp/orthoscope/](http://fish-evol.unit.oist.jp/orthoscope/) (8 Jan. 2019).  
+<b>Web servise:</b> [https://orthoscope.jp](https://orthoscope.jp). If https://orthoscope.jp does not work, please try [https://http://fish-evol.unit.oist.jp/orthoscope/](http://fish-evol.unit.oist.jp/orthoscope/) (8 Jan. 2019).  
 <b>Mirror site: </b> [http://www.fish-evol.org/orthoscope/](http://www.fish-evol.org/orthoscope/) (31 May. 2019).
   
 [Japanese instruction](http://www.fish-evol.org/orthoscope_ji.html)
