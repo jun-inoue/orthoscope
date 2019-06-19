@@ -349,7 +349,7 @@ Inoue J, Satoh N. 2018.
 Deuterostome genomics: Lineage-specific protein expansions that enabled chordate muscle evolution. Molecular Biology and Evolution. 35(4):914-924.　[Link](https://academic.oup.com/mbe/article/35/4/914/4793229)
 
 Inoue J, Yasuoka Y, Takahashi H, Satoh N. 2017.
-The chordate ancestor possessed a single copy of the Brachyury gene for notochord acquisition. Zoological Letters. 3: 4.　[Link](The chordate ancestor possessed a single copy of the Brachyury gene for notochord acquisition)
+The chordate ancestor possessed a single copy of the Brachyury gene for notochord acquisition. Zoological Letters. 3: 4.　[Link](https://zoologicalletters.biomedcentral.com/articles/10.1186/s40851-017-0064-9)
 
 ---
 ## Citation
