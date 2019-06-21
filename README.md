@@ -341,12 +341,14 @@ Science, 364: 886-9. [Link](https://science.sciencemag.org/content/364/6443/886)
 <blockquote>
 ORTHOSCOPE were used to count the number of Fads2 genes in 48 actinopterygians.
 </blockquote>
+<br />
 
 Inoue J, Nakashima K, Satoh, N. 2019.
 ORTHOSCOPE analysis reveals the presence of the cellulose synthase gene in all tunicate genomes but not in other animal genomes. Genes. 10: 294. [Link](https://www.mdpi.com/2073-4425/10/4/294)
 <blockquote>
 ORTHOSCOPE was used to confirm the absence of CesA gene in protostomes basal deuterostomes.
 </blockquote>
+<br />
 
 Shiraishi A, Okuda T, Miyasaka N, Osugi T, Okuno Y, Inoue J, and Satake H. 2019.
 Repertoires of G protein-coupled receptors for Ciona-specific neuropeptides. Proceedings of the National Academy of Sciences of the United States of America.  116: 7847-7856. [Link](https://www.pnas.org/content/early/2019/03/28/1816640116)
@@ -354,12 +356,14 @@ Repertoires of G protein-coupled receptors for Ciona-specific neuropeptides. Pro
 ORTHOSCOPE was used to reveal that newly identified some G protein-coupled receptor (GPCR) genes of C.intestinalis are not closely related to any other
 known GPCRs.
 </blockquote>
+<br />
 
 Inoue J, Satoh N. 2018.
 Deuterostome genomics: Lineage-specific protein expansions that enabled chordate muscle evolution. Molecular Biology and Evolution. 35(4):914-924.　[Link](https://academic.oup.com/mbe/article/35/4/914/4793229)
 <blockquote>
 The pipeline implemented in ORTHOSCOPE was used to evaluate the presence or absence of genes of structural-muscle proteins.
 </blockquote>
+<br />
 
 Inoue J, Yasuoka Y, Takahashi H, Satoh N. 2017.
 The chordate ancestor possessed a single copy of the Brachyury gene for notochord acquisition. Zoological Letters. 3: 4.　[Link](https://zoologicalletters.biomedcentral.com/articles/10.1186/s40851-017-0064-9)
