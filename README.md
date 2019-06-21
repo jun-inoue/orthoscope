@@ -356,9 +356,9 @@ The pipeline implemented in ORTHOSCOPE was used to evaluate the presence or abse
 
 Inoue J, Yasuoka Y, Takahashi H, Satoh N. 2017.
 The chordate ancestor possessed a single copy of the Brachyury gene for notochord acquisition. Zoological Letters. 3: 4.　[Link](https://zoologicalletters.biomedcentral.com/articles/10.1186/s40851-017-0064-9)
-``` 
-The pieline implemented in ORTHOSCOPE was used to count the number of Brachury gene in 5 deuterostome lineages.  
-``` 
+<blockquote>
+  The pieline implemented in ORTHOSCOPE was used to count the number of Brachury gene in 5 deuterostome lineages.  
+<blockquote> 
 
 ---
 ## Citation
