@@ -14,6 +14,7 @@
 ## Flow Chart
 ![flowChart](images/flowChart6.jpg)
 
+Dependencies:   
 [BLAST 2.7.1+](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download)   
 [MAFFT v7.356b](https://mafft.cbrc.jp/alignment/software/)   
 [trimAl 1.2rev59](http://www.fish-evol.org/trimAl_ji.html)   
