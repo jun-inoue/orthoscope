@@ -132,8 +132,8 @@ Case 2: Query seqeunce is not present in the ORTHOSCOPE database
 Our hypothetical species tree (newick) can be downloaded from [here](https://fish-evol.unit.oist.jp/orthoscope/examples/SpeciesTreeHypothesis.tre).
 
 
-| [Metazoa][treeA] | [Hexapoda][treeB] | [Urochordata][treeC] | [Vertebrata][treeD] | [Actinopterygii][treeE] | [Aves][treeF] | [Mammalia][treeG] | [Euarchontoglires][treeH] |
-:---: | :---: | :---: | :---: | :---: | :---: | :---:
+| [Metazoa][treeA] | [Hexapoda][treeB] | [Urochordata][treeC] | [Vertebrata][treeD] | [Actinopterygii][treeE] | [Aves][treeF] | [Mammalia][treeG] | [Euarchontoglires][treeH] 
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
 
 [treeA]:https://github.com/jun-inoue/orthoscope/tree/master/images/SpeciesTree_Metazoa.pdf
 [treeB]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Hexapoda.pdf
