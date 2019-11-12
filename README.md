@@ -139,8 +139,8 @@ Our hypothetical species tree (newick) can be downloaded from [here](https://fis
 [treeB]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Hexapoda.pdf
 [treeC]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Urochordata.pdf
 [treeD]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Vertebrata.pdf
-[treeE]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Aves.pdf
-[treeF]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Actinopterygii.pdf
+[treeD]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Actinopterygii.pdf
+[treeF]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Aves.pdf
 [treeG]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Mammalia.pdf
 [treeH]:https://github.com/jun-inoue/orthoscope/raw/master/images/SpeciesTree_Euarchontoglires.pdf
 
