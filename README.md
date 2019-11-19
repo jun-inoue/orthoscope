@@ -303,8 +303,8 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
-6 Nov. 2019 |  | [ORTHOSCOPE-Mammalia](https://www.orthoscope.jp/Mammalia.html) was newly added.
-2 Oct. 2019 |  | Data of Pacific white shrimp (Penaeus vannamei) was newly added.
+6 Nov. 2019 |  | [ORTHOSCOPE-Mammalia](https://www.orthoscope.jp/Mammalia.html) was newly created and Data of 46 mammals were newly added.
+2 Oct. 2019 |  | Data of Pacific white shrimp (Penaeus vannamei) were newly added.
 5 Sep. 2019 |  | Data of 2 molluscs (Octopus vulgaris, Pomacea canaliculata) were newly added.
 21 Aug. 2019 |  | Column of Seqs (# of sequence in each gene model) was added.
 21 Aug. 2019 |  | Data of 6 actinopterygians (Erpetoichthys calabaricus, Denticeps clupeoides, Carassius auratus, Electrophorus electricus,Tachysurus fulvidraco, Pangasianodon hypophthalmus), 2 amphibians (Rhinatrema bivittatum, Microcaecilia unicolor), and 3 lepidosaurians (Notechis scutatus, Podarcis muralis, Pseudonaja textilis) were newly added.
@@ -318,8 +318,8 @@ Date | Version | Revision
 <br />  
 
 ---
-## Database
-Available from [here](https://zenodo.org/record/2553737#.XFLGVS3AMvp) (10.5281/zenodo.2553737). 6 Oct. 2019.    
+## Gene Model Databases Used in ORTHOSCOPE
+Gene model databases (fasta files of amino acid and coding sequences) can be downloaded from [zenodo](https://zenodo.org/record/2553737#.XFLGVS3AMvp) (10.5281/zenodo.2553737). 6 Oct. 2019.    
 
 ORTHOSCOPE employs a genome-scale protein-coding gene database (coding and amino acid sequence datasets) constructed for each species. In order to count numbers of orthologs in each species, only the longest sequence is used when transcript variants exist for single locus.
 <br />
