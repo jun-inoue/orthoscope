@@ -318,7 +318,7 @@ Date | Version | Revision
 <br />  
 
 ---
-## Database
+## Gene Model Database 
 Available from [here](https://zenodo.org/record/2553737#.XFLGVS3AMvp) (10.5281/zenodo.2553737). 6 Oct. 2019.    
 
 ORTHOSCOPE employs a genome-scale protein-coding gene database (coding and amino acid sequence datasets) constructed for each species. In order to count numbers of orthologs in each species, only the longest sequence is used when transcript variants exist for single locus.
