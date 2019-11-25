@@ -3,8 +3,8 @@
 <table width="200" border="0">
   <tr>
     <td>ORTHOSCOPE (<a href="https://academic.oup.com/mbe/article/36/3/621/5229933" target="_blank">Inoue and Satoh 2019</a>) is a web tool to identify orthologs of a specific protein-coding gene of bilaterians. Users can upload query sequences (DNA or amino acid) of a specific molecule and download the estimated tree and candidate sequences as a result of ORTHOSCOPE.<br><br>
-orthogroup: a set of genes descended from a single gene in the last common ancestor of all the species being considered (Emms  and Kelly (2015). <br><br>
-To delineate orthogroup, ORTHOSCOPE automatically estimates gene trees using sequences collected by BLAST search. </td>
+Orthogroup: a set of genes descended from a single gene in the last common ancestor of all the species being considered (Emms  and Kelly (2015). <br><br>
+Using sequences collected by BLAST search, ORTHOSCOPE estimates the gene tree, compares it with the species tree, and identify a orthogroup. </td>
   </tr>
   <tbody>
     <tr>
