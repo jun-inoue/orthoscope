@@ -2,8 +2,7 @@
 
 <table width="200" border="0">
   <tr>
-    <td>ORTHOSCOPE identifies orthogroups (a set of genes descended from a single gene in the last common ancestor of all the species being considered) of specific protein-coding genes within major bilaterian lineages. 
-
+    <td>ORTHOSCOPE (Inoue and Satoh 2019) identifies orthogroups (a set of genes descended from a single gene in the last common ancestor of all the species being considered) of specific protein-coding genes within major bilaterian lineages. <br><br>
 To delineate orthogroup, ORTHOSCOPE estimates gene trees using DNA or amino acid sequences collected by BLAST search. ORTHOSCOPE allows users to employ several sequences of a specific molecule and broadly accepted nodes included in a user-specified species tree as queries and to evaluate the reliability of estimated orthogroups based on topologies and node support values of estimated gene trees.</td>
   </tr>
   <tbody>
