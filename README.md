@@ -1,4 +1,16 @@
 # ORTHOSCOPE
+
+<table width="200" border="0">
+  <tr>
+    <td>ORTHOSCOPE identifies orthogroups (a set of genes descended from a single gene in the last common ancestor of all the species being considered) of specific protein-coding genes within major bilaterian lineages. ORTHOSCOPE allows users to employ several sequences of a specific molecule and broadly accepted nodes included in a user-specified species tree as queries and to evaluate the reliability of estimated orthogroups based on topologies and node support values of estimated gene trees.</td>
+  </tr>
+  <tbody>
+    <tr>
+      <td><img src="images/speciesTree_geneTree.jpg" width="759" height="312" alt=""/></td>
+    </tr>
+  </tbody>
+</table>  
+
 <b>Web servise:</b> [https://orthoscope.jp](https://orthoscope.jp). If this link does not work, please try [https://http://fish-evol.unit.oist.jp/orthoscope/](http://fish-evol.unit.oist.jp/orthoscope/) (8 Jan. 2019).  
 <b>Mirror site:</b> [http://www.fish-evol.org/orthoscope/](http://www.fish-evol.org/orthoscope/) (31 May. 2019).
   
