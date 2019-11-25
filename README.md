@@ -1,7 +1,7 @@
 # ORTHOSCOPE
 
-we developed a web tool called
-ORTHOSCOPE to identify orthogroups of specific protein-coding genes within major bilaterian lineages. ORTHOSCOPE
+ORTHOSCOPE identifies orthogroups (a set of genes descended from a single gene in the last common ancestor
+of all the species being considered) of specific protein-coding genes within major bilaterian lineages. ORTHOSCOPE
 allows users to employ several sequences of a specific molecule and broadly accepted nodes included in a user-specified
 species tree as queries and to evaluate the reliability of estimated orthogroups based on topologies and node support
 values of estimated gene trees.   
