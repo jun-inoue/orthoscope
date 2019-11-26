@@ -326,7 +326,8 @@ Date | Version | Revision
 25 Jan. 2019 | [Version 1.0.2](http://fish-evol.unit.oist.jp/orthoscope/) | Released. For Inoue et al. 2019, Data of Archaea, Plants, Bacteria, and Urochordata were newly added.
 21 Dec. 2018 | [Version 1.0.1](http://fish-evol.unit.oist.jp/orthoscope101/) | Released. In the rearranged gene tree, nodes identified as speciation events were marked with "D".
 18 Dec. 2018 | Version 1.0.1.beta | Xenacoelomorph, platyhelminth, priapulid, avian data were newly added.
-10 July 2018 | [Version 1.0](http://fish-evol.unit.oist.jp/orthoscope100) | Published in Inoue and Satoh (2018).
+<!-- 10 July 2018 | [Version 1.0](http://fish-evol.unit.oist.jp/orthoscope100) | Published in Inoue and Satoh (2018). -->
+10 July 2018 | Version 1.0 | Published in Inoue and Satoh (2018).
 
 <br />
 <br />  
