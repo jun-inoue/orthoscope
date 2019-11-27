@@ -13,10 +13,21 @@ Using sequences collected by BLAST search, ORTHOSCOPE estimates the gene tree, c
   </tbody>
 </table>  
 
-<b>Web servise:</b> [https://orthoscope.jp](https://orthoscope.jp). If this link does not work, please try [https://http://fish-evol.unit.oist.jp/orthoscope/](http://fish-evol.unit.oist.jp/orthoscope/) (8 Jan. 2019).  
-<b>Mirror site:</b> [http://www.fish-evol.org/orthoscope/](http://www.fish-evol.org/orthoscope/) (31 May. 2019).
   
 <b>Japanese instruction (日本語の説明):</b> [http://www.fish-evol.org/orthoscope_ji.html](http://www.fish-evol.org/orthoscope_ji.html)
+
+---
+
+## Websites
+Original site:
+<b>OIST:</b> [https://orthoscope.jp](https://orthoscope.jp). If this link does not work, please try [https://http://fish-evol.unit.oist.jp/orthoscope/](http://fish-evol.unit.oist.jp/orthoscope/) (from 8 Jan. 2019).  
+
+Mirror sites 1:
+<b>NIG (very fast) </b> [http://yamasati.nig.ac.jp/orthoscope/](http://yamasati.nig.ac.jp/orthoscope/) (from 27 Nov. 2019).
+
+Mirror sites 2:
+<b>Sakura VPS (slow)</b> [http://www.fish-evol.org/orthoscope/](http://www.fish-evol.org/orthoscope/) (from 31 May. 2019).
+
 
 ---
 
