@@ -14,7 +14,7 @@ Using sequences collected by BLAST search, ORTHOSCOPE estimates the gene tree, c
 </table>  
 
 
-If you have problems, please send me an email (jun.inoue@nig.ac.jp). I need to to fix bugs (27 Nov 2019).<br><br>  
+<b>Email: </b>If you have problems, please send me an email (jun.inoue@nig.ac.jp). I need to to fix bugs (27 Nov 2019).
 <b>Japanese instruction (日本語の説明):</b> [http://www.fish-evol.org/orthoscope_ji.html](http://www.fish-evol.org/orthoscope_ji.html)
 
 ---
