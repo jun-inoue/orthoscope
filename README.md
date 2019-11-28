@@ -20,7 +20,6 @@ Using sequences collected by BLAST search, ORTHOSCOPE estimates the gene tree, c
 ---
 
 ## Wev servise
-![mode](images/mode2.jpg)
 NIG: [http://yamasati.nig.ac.jp/orthoscope/](http://yamasati.nig.ac.jp/orthoscope/).<br>
 OIST: [https://orthoscope.jp](https://orthoscope.jp). If this link does not work, please try [https://http://fish-evol.unit.oist.jp/orthoscope/](http://fish-evol.unit.oist.jp/orthoscope/) (from 8 Jan. 2019). <br>
 Sakura VPS: <b>Mirror site:</b> [http://www.fish-evol.org/orthoscope/](http://www.fish-evol.org/orthoscope/) (31 May. 2019).
