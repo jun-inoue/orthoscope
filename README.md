@@ -3,7 +3,9 @@
 <table width="200" border="0">
   <tr>
     <td>ORTHOSCOPE (<a href="https://academic.oup.com/mbe/article/36/3/621/5229933" target="_blank">Inoue and Satoh 2019</a>) is a web tool to identify orthologs of a specific protein-coding gene of bilaterians. Users can upload query sequences (DNA or amino acid) of a specific molecule and download the estimated tree and candidate sequences as a result of ORTHOSCOPE.<br><br>
+
 Orthogroup: a set of genes descended from a single gene in the last common ancestor of all the species being considered (Emms  and Kelly (2015). <br><br>
+
 Using sequences collected by BLAST search, ORTHOSCOPE estimates the gene tree, compares it with the species tree, and identifies a orthogroup. </td>
   </tr>
   <tbody>
@@ -13,10 +15,15 @@ Using sequences collected by BLAST search, ORTHOSCOPE estimates the gene tree, c
   </tbody>
 </table>  
 
-<b>Web servise:</b> [https://orthoscope.jp](https://orthoscope.jp). If this link does not work, please try [https://http://fish-evol.unit.oist.jp/orthoscope/](http://fish-evol.unit.oist.jp/orthoscope/) (8 Jan. 2019).  
-<b>Mirror site:</b> [http://www.fish-evol.org/orthoscope/](http://www.fish-evol.org/orthoscope/) (31 May. 2019).
-  
 <b>Japanese instruction (日本語の説明):</b> [http://www.fish-evol.org/orthoscope_ji.html](http://www.fish-evol.org/orthoscope_ji.html)
+
+---
+
+## Wev servise
+![mode](images/mode2.jpg)
+NIG: [http://yamasati.nig.ac.jp/orthoscope/](http://yamasati.nig.ac.jp/orthoscope/).<br>
+OIST: [https://orthoscope.jp](https://orthoscope.jp). If this link does not work, please try [https://http://fish-evol.unit.oist.jp/orthoscope/](http://fish-evol.unit.oist.jp/orthoscope/) (from 8 Jan. 2019). <br>
+Sakura VPS: <b>Mirror site:</b> [http://www.fish-evol.org/orthoscope/](http://www.fish-evol.org/orthoscope/) (31 May. 2019).
 
 ---
 
