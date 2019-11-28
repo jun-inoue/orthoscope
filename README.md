@@ -19,7 +19,7 @@ Using sequences collected by BLAST search, ORTHOSCOPE estimates the gene tree, c
 
 ---
 
-## Web servise
+## Web tool
 OIST (original site, from 8 Jan. 2019)   
 [https://orthoscope.jp](https://orthoscope.jp). If this link does not work, please try [https://http://fish-evol.unit.oist.jp/orthoscope/](http://fish-evol.unit.oist.jp/orthoscope/).   
 
