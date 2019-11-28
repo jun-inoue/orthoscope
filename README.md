@@ -1,10 +1,10 @@
-# ORTHOSCOPE22
+# ORTHOSCOPE1
 
 <table width="200" border="0">
   <tr>
     <td>ORTHOSCOPE (<a href="https://academic.oup.com/mbe/article/36/3/621/5229933" target="_blank">Inoue and Satoh 2019</a>) is a web tool to identify orthologs of a specific protein-coding gene of bilaterians. Users can upload query sequences (DNA or amino acid) of a specific molecule and download the estimated tree and candidate sequences as a result of ORTHOSCOPE.<br><br>
 Orthogroup: a set of genes descended from a single gene in the last common ancestor of all the species being considered (Emms  and Kelly (2015). <br><br>
-Using sequences collected by BLAST search, ORTHOSCOPE estimates the gene tree, compares it with the species tree, and identifies a orthogroup.
+Using sequences collected by BLAST search, ORTHOSCOPE estimates the gene tree, compares it with the species tree, and identifies a orthogroup. </td>
   </tr>
   <tbody>
     <tr>
@@ -13,21 +13,10 @@ Using sequences collected by BLAST search, ORTHOSCOPE estimates the gene tree, c
   </tbody>
 </table>  
 
-
-<b>Email: </b>If you have problems, please send me an email (jun.inoue@nig.ac.jp). I need to to fix bugs (27 Nov 2019).
+<b>Web servise:</b> [https://orthoscope.jp](https://orthoscope.jp). If this link does not work, please try [https://http://fish-evol.unit.oist.jp/orthoscope/](http://fish-evol.unit.oist.jp/orthoscope/) (8 Jan. 2019).  
+<b>Mirror site:</b> [http://www.fish-evol.org/orthoscope/](http://www.fish-evol.org/orthoscope/) (31 May. 2019).
+  
 <b>Japanese instruction (日本語の説明):</b> [http://www.fish-evol.org/orthoscope_ji.html](http://www.fish-evol.org/orthoscope_ji.html)
-
----
-
-## Websites
-<b>Original site</b>   
-OIST: [https://orthoscope.jp](https://orthoscope.jp).   
-If this link does not work, please try [https://http://fish-evol.unit.oist.jp/orthoscope/](http://fish-evol.unit.oist.jp/orthoscope/) (from 8 Jan. 2019).  
-
-<b>Mirror sites</b>   
-NIG (very fast): [http://yamasati.nig.ac.jp/orthoscope/](http://yamasati.nig.ac.jp/orthoscope/) (from 27 Nov. 2019).   
-Sakura VPS (slow): [http://www.fish-evol.org/orthoscope/](http://www.fish-evol.org/orthoscope/) (from 31 May. 2019).   
-
 
 ---
 
@@ -328,24 +317,19 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
-7 Nov. 2019 |  | [ORTHOSCOPE-Mammalia](https://www.orthoscope.jp/Mammalia.html) was newly created.
-6 Nov. 2019 |  | Data of 46 mammals were newly added.
+6 Nov. 2019 |  | [ORTHOSCOPE-Mammalia](https://www.orthoscope.jp/Mammalia.html) was newly created and Data of 46 mammals were newly added.
 2 Oct. 2019 |  | Data of Pacific white shrimp (Penaeus vannamei) were newly added.
 5 Sep. 2019 |  | Data of 2 molluscs (Octopus vulgaris, Pomacea canaliculata) were newly added.
 21 Aug. 2019 |  | Column of Seqs (# of sequence in each gene model) was added.
 21 Aug. 2019 |  | Data of 6 actinopterygians (Erpetoichthys calabaricus, Denticeps clupeoides, Carassius auratus, Electrophorus electricus,Tachysurus fulvidraco, Pangasianodon hypophthalmus), 2 amphibians (Rhinatrema bivittatum, Microcaecilia unicolor), and 3 lepidosaurians (Notechis scutatus, Podarcis muralis, Pseudonaja textilis) were newly added.
 19 Apr. 2019 |  | Nagative branch lengths are replaced with 0 in the tree drawing (R script). Gene_tree$edge.length[Gene_tree$edge.length<0]<-0
 25 Jan. 2019 | [Version 1.0.2](http://fish-evol.unit.oist.jp/orthoscope/) | Released. For Inoue et al. 2019, Data of Archaea, Plants, Bacteria, and Urochordata were newly added.
-21 Dec. 2018 | Version 1.0.1 | Released. In the rearranged gene tree, nodes identified as speciation events were marked with "D".
+21 Dec. 2018 | [Version 1.0.1](http://fish-evol.unit.oist.jp/orthoscope101/) | Released. In the rearranged gene tree, nodes identified as speciation events were marked with "D".
 18 Dec. 2018 | Version 1.0.1.beta | Xenacoelomorph, platyhelminth, priapulid, avian data were newly added.
-10 July 2018 | Version 1.0 | Published in Inoue and Satoh (2018).
+10 July 2018 | [Version 1.0](http://fish-evol.unit.oist.jp/orthoscope100) | Published in Inoue and Satoh (2018).
 
 <br />
 <br />  
-
-<!-- 21 Dec. 2018 | [Version 1.0.1](http://fish-evol.unit.oist.jp/orthoscope101/) | Released. In the rearranged gene tree, nodes identified as speciation events were marked with "D". -->
-<!-- 10 July 2018 | [Version 1.0](http://fish-evol.unit.oist.jp/orthoscope100) | Published in Inoue and Satoh (2018). -->
-
 
 ---
 ## Gene Model Databases Used in ORTHOSCOPE
