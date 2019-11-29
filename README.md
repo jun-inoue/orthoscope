@@ -19,15 +19,17 @@ Using sequences collected by BLAST search, ORTHOSCOPE estimates the gene tree, c
 
 ---
 
-## Web tool
+## Web sites
+In addition to the original site, we have 2 mirror sites.   
+
 OIST (original site, from 8 Jan. 2019)   
-[https://orthoscope.jp](https://orthoscope.jp). If this link does not work, please try [https://http://fish-evol.unit.oist.jp/orthoscope/](http://fish-evol.unit.oist.jp/orthoscope/).   
+[https://orthoscope.jp](https://orthoscope.jp). If this link does not work, please try [https://http://fish-evol.unit.oist.jp/orthoscope/Deuterostomia.html](http://fish-evol.unit.oist.jp/orthoscope/Deuterostomia.html).   
 
 NIG (mirror site FAST, from 27 Nov 2019)   
-[http://yamasati.nig.ac.jp/orthoscope/](http://yamasati.nig.ac.jp/orthoscope/).   
+[http://yamasati.nig.ac.jp/orthoscope/Deuterostomia.html](http://yamasati.nig.ac.jp/orthoscope/Deuterostomia/Deuterostomia.html).   
 
 Sakura VPS (mirror site SLOW, from 31 May. 2019)   
-[http://www.fish-evol.org/orthoscope/](http://www.fish-evol.org/orthoscope/).   
+[http://www.fish-evol.org/orthoscope/Deuterostomia.html](http://www.fish-evol.org/orthoscope/Deuterostomia.html).   
 
 ---
 
