@@ -45,6 +45,7 @@ Dependencies:
 [BLAST 2.7.1+](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download)   
 [MAFFT v7.356b](https://mafft.cbrc.jp/alignment/software/)   
 [trimAl 1.2rev59](http://www.fish-evol.org/trimAl_ji.html)   
+[PAL2NAL v13](http://www.bork.embl.de/pal2nal/)   
 [ape in R, Version5.0](http://ape-package.ird.fr)   
 [FastME 2.0](http://www.atgc-montpellier.fr/fastme/) for amino acid analyses   
 [Notung-2.9](http://www.cs.cmu.edu/~durand/Notung/)   
