@@ -155,7 +155,7 @@ Case 2: Query seqeunce is not present in the ORTHOSCOPE database
 ---
 ## Species Tree Hypothesis
 
-![SpeciesTree](images/SpeciesTree.jpg)
+![SpeciesTree](https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree.jpg)
 
 See our [Species_tree](https://github.com/jun-inoue/Species_tree) page.
 
