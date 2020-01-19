@@ -23,7 +23,7 @@ Using sequences collected by BLAST search, ORTHOSCOPE estimates the gene tree, c
 We have 3 mirror sites.   
 
 Mirror NIG (from 27 Nov 2019)   
-[https://orthoscope.jp](https://orthoscope.jp).
+[http://yamasati.nig.ac.jp/orthoscope/Deuterostomia.html](http://yamasati.nig.ac.jp/orthoscope/Deuterostomia.html).
 
 Mirror OIST (from 8 Jan. 2019)   
 [https://http://fish-evol.unit.oist.jp/orthoscope/Deuterostomia.html](http://fish-evol.unit.oist.jp/orthoscope/Deuterostomia.html).   
