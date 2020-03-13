@@ -6,7 +6,7 @@
 
 Orthogroup: a set of genes descended from a single gene in the last common ancestor of all the species being considered (<a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0721-2" target="_blank">Emms and Kelly 2015</a>). <br>
 
-Using sequences collected by BLAST search, ORTHOSCOPE estimates the gene tree, compares it with the species tree, and identifies a orthogroup.</td>
+By using sequences collected by the BLAST search, ORTHOSCOPE estimates the gene tree, compares it with the <a href="https://github.com/jun-inoue/Species_tree" target="_blank">species tree</a>, and identifies a orthogroup.</td>
   </tr>
   <tbody>
     <tr>
