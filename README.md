@@ -29,7 +29,10 @@ Mirror OIST (from 8 Jan. 2019)
 [https://http://fish-evol.unit.oist.jp/orthoscope/Deuterostomia.html](http://fish-evol.unit.oist.jp/orthoscope/Deuterostomia.html).   
 
 Mirror Sakura VPS (from 31 May. 2019)   
+Under construction (13 April 2020).
+<!--
 [http://www.fish-evol.org/orthoscope/Deuterostomia.html](http://www.fish-evol.org/orthoscope/Deuterostomia.html).   
+-->
 
 ---
 
