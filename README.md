@@ -334,6 +334,7 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
+1 Jun. 2020 | [Version 1.1.0](http://fish-evol.unit.oist.jp/orthoscope/) | Released. Data of Amblyraja radiata (Thorny skate) was newly added.
 14 Jan. 2020 |  | The batch uploading was implemented for taxon sampling.<img src="images/batch_tsampling.jpg">
 6 Nov. 2019 |  | [ORTHOSCOPE-Mammalia](https://www.orthoscope.jp/Mammalia.html) was newly created and data of 46 mammals were newly added.
 2 Oct. 2019 |  | Data of Pacific white shrimp (Penaeus vannamei) were newly added.
