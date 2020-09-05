@@ -329,6 +329,7 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
+6 Sep. 2020 |  | Version 1.2.1: Data of Acoela (Hofstenia-miamia) as newly added.
 30 Aug. 2020 |  | Data of Sterlet (Acipenser-ruthenus) and  European eel (Anguilla anguilla) were newly added.
 1 Jun. 2020 | [Version 1.2.0](http://fish-evol.unit.oist.jp/orthoscope/) | Released. A focal group, Acropora, was newly added.
 1 Jun. 2020 | [Version 1.1.0](http://yurai.aori.u-tokyo.ac.jp/orthoscope110/Deuterostomia.html) | Released. Data of Amblyraja radiata (Thorny skate) was newly added.
