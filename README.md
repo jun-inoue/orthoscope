@@ -22,12 +22,12 @@ By using sequences collected by the BLAST search, ORTHOSCOPE estimates the gene 
 ## Web sites
 We have 2 mirror sites.   
 
-Mirror AORI (from 28 July 2020)   
-[http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html).   
-
 Mirror SAKURA (from 11 August 2019)   
 [http://www.fish-evol.org/orthoscope/Deuterostomia.html](http://www.fish-evol.org/orthoscope/Deuterostomia.html).
 
+Mirror AORI (from 28 July 2020)   
+http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html
+(Not working now. Please wait.)
 
 ---
 
