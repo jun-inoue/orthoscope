@@ -380,6 +380,13 @@ ORTHOSCOPE was used to reconstruct deuterostome gene trees of G protein-coupled 
 </blockquote>
 <br />
 
+Yasuoka Y, Matsumoto M, Yagi K, Okazaki Y. 2019. 
+Evolutionary History of GLIS Genes Illuminates Their Roles in Cell Reprograming and Ciliogenesis. Molecular Biology and Evolution 37:100-109.
+<blockquote>
+</blockquote>
+<br />
+
+
 Inoue J, Satoh N. 2018.
 Deuterostome genomics: Lineage-specific protein expansions that enabled chordate muscle evolution. Molecular Biology and Evolution. 35(4):914-924.　[Link](https://academic.oup.com/mbe/article/35/4/914/4793229)
 <blockquote>
