@@ -362,7 +362,7 @@ Ishikawa, A, Kabeya, N, Ikeya, K, Kakioka, R, Cech, JN, Osada, N, Leal, MC, Inou
 A key metabolic gene for recurrent freshwater colonization and radiation in fishes
 Science, 364: 886-9. [Link](https://science.sciencemag.org/content/364/6443/886).
 <blockquote>
-ORTHOSCOPE was used to count the number of Fads2 gene in 48 actinopterygians.
+ORTHOSCOPE found that Fads2 gene involved in fatty acid desaturation was duplicated in freshwater lineages by counting the number of gene copies in 48 actinopterygians, 
 </blockquote>
 <br />
 
