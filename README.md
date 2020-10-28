@@ -404,4 +404,4 @@ Inoue J. and Satoh N. 2019. ORTHOSCOPE: An automatic web tool for phylogenetical
 ## Previous versions: 
 [Ver.1.0.1](http://fish-evol.unit.oist.jp/orthoscope101/)
 
-Email: [_jun.inoue_ AT _oist.jp_](http://www.geocities.jp/ancientfishtree/index_eng.html)
+Email: [_jinoueATg.ecc.u-tokyo.ac.jp_](http://www.fish-evol.org/index_eng.html)
