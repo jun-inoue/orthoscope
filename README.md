@@ -369,7 +369,7 @@ By counting the number of gene copies in 48 actinopterygians, ORTHOSCOPE found t
 Inoue J, Nakashima K, Satoh, N. 2019.
 ORTHOSCOPE analysis reveals the presence of the cellulose synthase gene in all tunicate genomes but not in other animal genomes. Genes. 10: 294. [Link](https://www.mdpi.com/2073-4425/10/4/294)
 <blockquote>
-ORTHOSCOPE was used to confirm the absence of CesA gene in protostomes and basal deuterostomes.
+By showing the absence of CesA gene in protostomes and basal deuterostomes, ORTHOSCOPE confirmed that the prokaryotic cellulose synthase gene (CesA) was horizontally transferred into the genome of a tunicate ancestor.
 </blockquote>
 <br />
 
