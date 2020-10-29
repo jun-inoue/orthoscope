@@ -359,8 +359,7 @@ ORTHOSCOPE employs a genome-scale protein-coding gene database (coding and amino
 ---
 ## Papers using ORTHOSCOPE
 Ishikawa, A, Kabeya, N, Ikeya, K, Kakioka, R, Cech, JN, Osada, N, Leal, MC, Inoue J, Kume, M, Toyoda, A, Tezuka, A, Nagano, AJ, Yamasaki, YY, Suzuki, Y, Kokita, T, Takahashi, H, Lucek, K, Marques, D, Takehana, Y, Naruse, K, Mori, S, Monroig, O, Ladd, N, Schubert, C, Matthews, B, Peichel, CL, Seehausen, O, Yoshizaki, G, Kitano J. 2019.
-A key metabolic gene for recurrent freshwater colonization and radiation in fishes
-Science, 364: 886-9. [Link](https://science.sciencemag.org/content/364/6443/886).
+A key metabolic gene for recurrent freshwater colonization and radiation in fishes. Science, 364: 886-9. [Link](https://science.sciencemag.org/content/364/6443/886).
 <blockquote>
 By counting the number of gene copies in 48 actinopterygians, ORTHOSCOPE found that Fads2 gene (involved in fatty acid desaturation) was duplicated in freshwater species.
 </blockquote>
@@ -385,7 +384,6 @@ Evolutionary History of GLIS Genes Illuminates Their Roles in Cell Reprograming 
 <blockquote>
 </blockquote>
 <br />
-
 
 Inoue J, Satoh N. 2018.
 Deuterostome genomics: Lineage-specific protein expansions that enabled chordate muscle evolution. Molecular Biology and Evolution. 35(4):914-924.　[Link](https://academic.oup.com/mbe/article/35/4/914/4793229)
