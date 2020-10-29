@@ -375,7 +375,7 @@ By showing the absence of CesA gene in protostomes and basal deuterostomes, ORTH
 Shiraishi A, Okuda T, Miyasaka N, Osugi T, Okuno Y, Inoue J, and Satake H. 2019.
 Repertoires of G protein-coupled receptors for Ciona-specific neuropeptides. Proceedings of the National Academy of Sciences of the United States of America.  116: 7847-7856. [Link](https://www.pnas.org/content/early/2019/03/28/1816640116)
 <blockquote>
-ORTHOSCOPE was used to reconstruct deuterostome gene trees of G protein-coupled receptors.
+This paper identified multiple G protein-coupled receptors (GPCRs) for species-specific neuropeptides of Ciona intestinalis. By reconstructing gene trees, ORTHOSCOPE showed that these GPCRs are evolutionarily unrelated to any other known peptide GPCRs.
 </blockquote>
 <br />
 
