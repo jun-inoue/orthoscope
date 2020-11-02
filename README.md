@@ -29,7 +29,7 @@ Mirror SAKURA (from 11 August 2019)
 [http://www.fish-evol.org/orthoscope/Deuterostomia.html](http://www.fish-evol.org/orthoscope/Deuterostomia.html).
 
 Mirror OIST (from 3 November 2019)   
-https://fish-evol.unit.oist.jp/orthoscope1/Deuterostomia.html
+https://fish-evol.unit.oist.jp/orthoscope/Deuterostomia.html
 (Coming soon)
 
 ---
