@@ -337,14 +337,14 @@ Date | Version | Revision
 1 Jun. 2020 | [Version 1.2.0](http://fish-evol.unit.oist.jp/orthoscope/) | Released. A focal group, Acropora, was newly added.
 1 Jun. 2020 | [Version 1.1.0](http://yurai.aori.u-tokyo.ac.jp/orthoscope110/Deuterostomia.html) | Released. Data of Amblyraja radiata (Thorny skate) was newly added.
 14 Jan. 2020 |  | The batch uploading was implemented for taxon sampling.<img src="images/batch_tsampling.jpg">
-6 Nov. 2019 |  | [ORTHOSCOPE-Mammalia](https://www.orthoscope.jp/Mammalia.html) was newly created and data of 46 mammals were newly added.
+6 Nov. 2019 |  | ORTHOSCOPE-Mammalia was newly created and data of 46 mammals were newly added.
 2 Oct. 2019 |  | Data of Pacific white shrimp (Penaeus vannamei) were newly added.
 5 Sep. 2019 |  | Data of 2 molluscs (Octopus vulgaris, Pomacea canaliculata) were newly added.
 21 Aug. 2019 |  | Column of Seqs (# of sequence in each gene model) was added.
 21 Aug. 2019 |  | Data of 6 actinopterygians (Erpetoichthys calabaricus, Denticeps clupeoides, Carassius auratus, Electrophorus electricus,Tachysurus fulvidraco, Pangasianodon hypophthalmus), 2 amphibians (Rhinatrema bivittatum, Microcaecilia unicolor), and 3 lepidosaurians (Notechis scutatus, Podarcis muralis, Pseudonaja textilis) were newly added.
 19 Apr. 2019 |  | Nagative branch lengths are replaced with 0 in the tree drawing (R script). Gene_tree$edge.length[Gene_tree$edge.length<0]<-0
-25 Jan. 2019 | [Version 1.0.2](http://fish-evol.unit.oist.jp/orthoscope/) | Released. For Inoue et al. 2019, Data of Archaea, Plants, Bacteria, and Urochordata were newly added.
-21 Dec. 2018 | [Version 1.0.1](http://fish-evol.unit.oist.jp/orthoscope101/) | Released. In the rearranged gene tree, nodes identified as speciation events were marked with "D".
+25 Jan. 2019 | Version 1.0.2 | Released. For Inoue et al. 2019, Data of Archaea, Plants, Bacteria, and Urochordata were newly added.
+21 Dec. 2018 | Version 1.0.1 | Released. In the rearranged gene tree, nodes identified as speciation events were marked with "D".
 18 Dec. 2018 | Version 1.0.1.beta | Xenacoelomorph, platyhelminth, priapulid, avian data were newly added.
 10 July 2018 | [Version 1.0](http://fish-evol.unit.oist.jp/orthoscope100) | Published in Inoue and Satoh (2018).
 
