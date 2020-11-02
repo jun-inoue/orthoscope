@@ -335,7 +335,7 @@ Date | Version | Revision
 6 Sep. 2020 | Version 1.2.1 | Gene model data was newly added for an echinoderm (Anneissia japonica) and replaced with TSA data fro an acoela (Hofstenia-miamia). 
 30 Aug. 2020 |  | Data of Sterlet (Acipenser ruthenus) and  European eel (Anguilla anguilla) were newly added.
 1 Jun. 2020 | Version 1.2.0 | Released. A focal group, Acropora, was newly added.
-1 Jun. 2020 | Version 1.1.0 | Released. Data of Amblyraja radiata (Thorny skate) was newly added.
+1 Jun. 2020 | [Version 1.1.0](http://yurai.aori.u-tokyo.ac.jp/orthoscope110/Deuterostomia.html) | Released. Data of Amblyraja radiata (Thorny skate) was newly added.
 14 Jan. 2020 |  | The batch uploading was implemented for taxon sampling.<img src="images/batch_tsampling.jpg">
 6 Nov. 2019 |  | ORTHOSCOPE-Mammalia was newly created and data of 46 mammals were newly added.
 2 Oct. 2019 |  | Data of Pacific white shrimp (Penaeus vannamei) were newly added.
