@@ -20,14 +20,17 @@ By using sequences collected by the BLAST search, ORTHOSCOPE estimates the gene 
 ---
 
 ## Web sites
-We have 2 mirror sites.   
+We have 3 mirror sites.   
+
+Mirror AORI (from 28 July 2020)   
+[http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html)
 
 Mirror SAKURA (from 11 August 2019)   
 [http://www.fish-evol.org/orthoscope/Deuterostomia.html](http://www.fish-evol.org/orthoscope/Deuterostomia.html).
 
-Mirror AORI (from 28 July 2020)   
-http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html
-(Not working now. Please wait.)
+Mirror OIST (from 3 November 2019)   
+[https://fish-evol.unit.oist.jp/orthoscope1/Deuterostomia.html](https://fish-evol.unit.oist.jp/orthoscope1/Deuterostomia.html).
+
 
 ---
 
