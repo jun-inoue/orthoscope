@@ -25,12 +25,11 @@ We have 3 mirror sites.
 Mirror AORI (from 28 July 2020)   
 [http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html)
 
-Mirror SAKURA (from 11 August 2019)   
-[http://www.fish-evol.org/orthoscope/Deuterostomia.html](http://www.fish-evol.org/orthoscope/Deuterostomia.html).
+<!-- Mirror SAKURA (from 11 August 2019)   
+[http://www.fish-evol.org/orthoscope/Deuterostomia.html](http://www.fish-evol.org/orthoscope/Deuterostomia.html).-->
 
 Mirror OIST (from 3 November 2019)   
-https://fish-evol.unit.oist.jp/orthoscope/Deuterostomia.html
-(Coming soon)
+[https://fish-evol.unit.oist.jp/orthoscope/Deuterostomia.html](https://fish-evol.unit.oist.jp/orthoscope/Deuterostomia.html)
 
 ---
 
