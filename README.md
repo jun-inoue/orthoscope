@@ -10,7 +10,7 @@ By using sequences collected by the BLAST search, ORTHOSCOPE estimates the gene 
   </tr>
   <tbody>
     <tr>
-      <td><img src="images/speciesTree_geneTree.jpg" width="759" height="312" alt=""/></td>
+      <td><img src="images/speciesTree_geneTree2.jpg" alt=""/></td>
     </tr>
   </tbody>
 </table>  
