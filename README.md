@@ -10,7 +10,7 @@ ORTHOSCOPE (https://www.orthoscope.jp) (<a href="https://academic.oup.com/mbe/ar
 By using sequences collected by the BLAST search, ORTHOSCOPE estimates the gene tree, compares it with the <a href="https://github.com/jun-inoue/Species_tree" target="_blank">species tree</a>, and identifies a orthogroup (see below).
 
 </td>
-<td align="center" width="50%>
+<td width="50%>
 <img src="images/abstract_fig2.jpg">
 </td>
 </tr>
