@@ -357,10 +357,10 @@ Date | Version | Revision
 ## Gene Model Databases Used in ORTHOSCOPE
 ORTHOSCOPE employs a genome-scale protein-coding gene database (coding and amino acid sequence datasets) constructed for each species. In order to count numbers of orthologs in each species, only the longest sequence is used when transcript variants exist for single locus.
 
-29 Dec. 2020
+29 Dec. 2020   
 From ver. 1.5.0, each gene model can be downloaded by clicking p (amino acid sequence) or n (coding sequence) in the right most of species lines. 
 
-6 Oct. 2019
+6 Oct. 2019   
 Gene model databases (fasta files of amino acid and coding sequences) can be downloaded from [zenodo](https://zenodo.org/record/3547154#.Xe2zeC3AMvo) (10.5281/zenodo.2553737).     
 
 <br />
