@@ -1,8 +1,19 @@
 # ORTHOSCOPE
 
-ORTHOSCOPE (https://www.orthoscope.jp) (<a href="https://academic.oup.com/mbe/article/36/3/621/5229933" target="_blank">Inoue and Satoh 2019</a>) is a web tool to identify orthologs of a specific protein-coding gene of bilaterians. Users can upload query sequences (DNA or amino acid) of a specific molecule and download the estimated tree and  sequences of orthogroup members as a result of ORTHOSCOPE.
 
-![mode](images/fig_abstract.jpg)
+
+<table width="100%" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td>
+<div align="left">
+ORTHOSCOPE (https://www.orthoscope.jp) (<a href="https://academic.oup.com/mbe/article/36/3/621/5229933" target="_blank">Inoue and Satoh 2019</a>) is a web tool to identify orthologs of a specific protein-coding gene of bilaterians. Users can upload query sequences (DNA or amino acid) of a specific molecule and download the estimated tree and  sequences of orthogroup members as a result of ORTHOSCOPE.</div>
+</td>
+<td align="right">
+![mode](images/abstract_fig.jpg)
+![mode](images/speciesTree_geneTree.jpg)
+</td>
+</tr>
+</table>
 
 By using sequences collected by the BLAST search, ORTHOSCOPE estimates the gene tree, compares it with the <a href="https://github.com/jun-inoue/Species_tree" target="_blank">species tree</a>, and identifies a orthogroup (see below).
 
@@ -27,7 +38,7 @@ Mirror OIST (from 3 November 2019)
 ---
 
 ## Orthogroup   
-a set of genes descended from a single gene in the last common ancestor of all the species being considered (<a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0721-2" target="_blank">Emms and Kelly 2015</a>). <br>
+A set of genes descended from a single gene in the last common ancestor of all the species being considered (<a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0721-2" target="_blank">Emms and Kelly 2015</a>). <br>
 ![mode](images/speciesTree_geneTree.jpg)
 
 
