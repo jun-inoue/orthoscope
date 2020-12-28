@@ -9,7 +9,7 @@
 ORTHOSCOPE (https://www.orthoscope.jp) (<a href="https://academic.oup.com/mbe/article/36/3/621/5229933" target="_blank">Inoue and Satoh 2019</a>) is a web tool to identify orthologs of a specific protein-coding gene of bilaterians. Users can upload query sequences (DNA or amino acid) of a specific molecule and download the estimated tree and  sequences of orthogroup members as a result of ORTHOSCOPE.</div>
 </td>
 <td align="right">
-<img src="images/abstract_fig2.jpg" alt="" border="0">
+<img src="images/abstract_fig2.jpg">
 </td>
 </tr>
 </table>
