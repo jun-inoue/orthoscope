@@ -2,7 +2,11 @@
 
 ORTHOSCOPE (https://www.orthoscope.jp) (<a href="https://academic.oup.com/mbe/article/36/3/621/5229933" target="_blank">Inoue and Satoh 2019</a>) is a web tool to identify orthologs of a specific protein-coding gene of bilaterians. Users can upload query sequences (DNA or amino acid) of a specific molecule and download the estimated tree and  sequences of orthogroup members as a result of ORTHOSCOPE.
 
+![mode](images/fig_abstract.jpg)
+
 By using sequences collected by the BLAST search, ORTHOSCOPE estimates the gene tree, compares it with the <a href="https://github.com/jun-inoue/Species_tree" target="_blank">species tree</a>, and identifies a orthogroup (see below).
+
+
 
 <b>Japanese instruction (日本語の説明):</b> [http://www.fish-evol.org/orthoscope_ji.html](http://www.fish-evol.org/orthoscope_ji.html)
 
