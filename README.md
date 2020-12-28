@@ -11,7 +11,7 @@ By using sequences collected by the BLAST search, ORTHOSCOPE estimates the gene 
 
 </td>
 <td align="right">
-<img src="images/abstract_fig2.jpg">
+<img src="images/abstract_fig2.jpg" width="356" height="241" >
 </td>
 </tr>
 </table>
