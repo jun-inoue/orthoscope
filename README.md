@@ -400,6 +400,7 @@ This paper identified multiple G protein-coupled receptors (GPCRs) for species-s
 Yasuoka Y, Matsumoto M, Yagi K, Okazaki Y. 2019. 
 Evolutionary History of GLIS Genes Illuminates Their Roles in Cell Reprograming and Ciliogenesis. Molecular Biology and Evolution 37:100-109.
 <blockquote>
+The GLIS family transcription factors, GLIS1 and GLIS3, potentiate generation of induced pluripotent stem cells (iPSCs), although another GLIS family member, GLIS2, suppresses cell reprograming. Using ORTHOSCOPE, Yasuoka et al. showed that GLIS1 and GLIS3 originated during vertebrate whole genome duplication, whereas GLIS2 is a sister group to GLIS1/3. This study clearly indicates that as the first step, future reprograming studies should focus on GLIS1/3 rather than on GLIS2.
 </blockquote>
 <br />
 
