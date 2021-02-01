@@ -363,7 +363,7 @@ Date | Version | Revision
 <br />  
 
 ---
-## Gene Model Databases Used in ORTHOSCOPE
+## Gene Model Databases of ORTHOSCOPE
 ORTHOSCOPE employs a genome-scale protein-coding gene database (coding and amino acid sequence datasets) constructed for each species. In order to count numbers of orthologs in each species, only the longest sequence is used when transcript variants exist for single locus.
 
 29 Dec. 2020   
