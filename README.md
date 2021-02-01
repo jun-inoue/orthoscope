@@ -29,9 +29,6 @@ Mirror AORI (from 28 July 2020)
 <!-- Mirror SAKURA (from 11 August 2019)   
 [http://www.fish-evol.org/orthoscope/Deuterostomia.html](http://www.fish-evol.org/orthoscope/Deuterostomia.html).-->
 
-Mirror SAKURA VPS (from 29 December 2020)   
-[http://www.fish-evol.org/orthoscope/Deuterostomia.html](http://www.fish-evol.org/orthoscope/Deuterostomia.html)
-
 ---
 
 ## Orthogroup   
