@@ -68,6 +68,15 @@ Dependencies:
 ---
 
 ## Example Data   
+### Ishikawa et al (2019)   
+Ishikawa, A, et al. 2019. A key metabolic gene for recurrent freshwater colonization and radiation in fishes. Science, 364: 886-9. 
+
+[Queries](http://yurai.aori.u-tokyo.ac.jp/orthoscope/examples/ActinopterygianFads2.fas.txt).    
+[Taxon sampling](http://yurai.aori.u-tokyo.ac.jp/orthoscope/examples/taxon_sampling_Actinopterygii.txt).    
+These sequences were used for "Search/Rearrangement".   
+
+
+#   
 ### Inoue et al (2019)   
 Inoue J, Nakashima K, and Satoh N. ORTHOSCOPE analysis reveals the presence of the cellulose synthase gene in all tunicate genomes but not in other animal genomes. Genes. 10: 294.   
 
