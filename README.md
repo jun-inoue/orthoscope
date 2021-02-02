@@ -73,8 +73,8 @@ Ishikawa, A, et al. 2019. A key metabolic gene for recurrent freshwater coloniza
 
 [Queries](http://yurai.aori.u-tokyo.ac.jp/orthoscope/examples/ActinopterygianFads2.fas.txt).    
 [Taxon sampling](http://yurai.aori.u-tokyo.ac.jp/orthoscope/examples/taxon_sampling_Actinopterygii.txt).    
-These sequences were used for "Search/Rearrangement".   
-
+These sequences were used for "Search/Rearrangement".    
+![Ishikawa19](images/Ishikawa19.jpg)
 
 #   
 ### Inoue et al (2019)   
