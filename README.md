@@ -18,7 +18,8 @@ By using sequences collected by the BLAST search, ORTHOSCOPE estimates the gene 
 </table>
 
 
-<b>Japanese instruction (日本語の説明):</b> [http://www.fish-evol.org/orthoscope_ji.html](http://www.fish-evol.org/orthoscope_ji.html)
+<b>Japanese instruction (日本語の説明):</b> [http://www.fish-evol.org/orthoscope_ji.html](http://www.fish-evol.org/orthoscope_ji.html).   
+For non-coding analyses, [dbCNS](http://yamasati.nig.ac.jp/dbcns/index.html) was published in 2020. 
 
 ---
 
@@ -78,15 +79,36 @@ To count Fads2 gene copies, these sequences were used for "Search/Rearrangement"
 
 #   
 ### Inoue et al (2019)   
-Inoue J, Nakashima K, and Satoh N. ORTHOSCOPE analysis reveals the presence of the cellulose synthase gene in all tunicate genomes but not in other animal genomes. Genes. 10: 294.   
+Inoue J, Nakashima K, and Satoh N. 2019. ORTHOSCOPE analysis reveals the presence of the cellulose synthase gene in all tunicate genomes but not in other animal genomes. Genes. 10: 294.   
 
-[Queries](https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/CesA_Satoh19.zip). These sequences were used for "Tree Search Only" mode.   
+[Queries](https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/CesA_Satoh19.zip).   
+[Taxon sampling](http://yurai.aori.u-tokyo.ac.jp/orthoscope/examples/taxon_sampling_Inoue20CesA.txt).    
+These sequences were used for "Tree Search Only" mode.   
 In this paper, maximum likelihood trees were estimated according to the process described in "Tree Estimation of Orthogroup Members (with Additional Sequences)". See below.   
+
+#   
+### Inoue et al (2019)   
+<table width="100%" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td width="60%>
+<div align="left">
+Inoue J, Nakashima K, and Satoh N. 2019. ORTHOSCOPE analysis reveals the presence of the cellulose synthase gene in all tunicate genomes but not in other animal genomes. Genes. 10: 294.<br>
+<br>
+<a href="https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/CesA_Satoh19.zip" target="_blank">Queries</a><br>
+<a href="http://yurai.aori.u-tokyo.ac.jp/orthoscope/examples/taxon_sampling_Inoue20CesA.txt" target="_blank">Taxon sampling</a><br>
+In this paper, maximum likelihood trees were estimated according to the process described in "Tree Estimation of Orthogroup Members (with Additional Sequences)". See below.   
+</div>
+</td>
+<td width="40%">
+<img src="images/Inoue19CesA.jpg">
+</td>
+</tr>
+</table>
 
 
 #   
 ### Inoue and Satoh (2019)
-Inoue J. and Satoh N. 2019. ORTHOSCOPE: an automatic web tool of analytical pipeline for ortholog identification using a species tree. [MBE in press](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msy226/5229933).   
+Inoue J. and Satoh N. 2019. ORTHOSCOPE: an automatic web tool of analytical pipeline for ortholog identification using a species tree. 36:621–631. [Link](https://academic.oup.com/mbe/article/36/3/621/5229933).   
 
 | Actinopterygii | Vertebrata | Deuterostomia | Protostomia |
 :---: | :---: | :---: | :---:
@@ -348,8 +370,10 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
+11 Feb. 2021 |  | Data of a shirmp (Penaeus monodon) and an tunicate (Styela clava) were newly added. 
+6 Feb. 2021 |  | Data of 2 sharks (Callorhinchus-milii-E102 and Scyliorhinus-canicula) and 18 teleosts (e.g. Hucho-hucho) were newly added. 
+5 Feb. 2021 |  | Data of 6 Oryzias individualds (Oryzias melastigma E102, O.javanicas, O.sinensis, O.latipes HSOK, HNI, HdrR E102) were newly added. 
 1 Feb. 2021 |  | Data of 2 asteroids (Asterias rubens and Patiria miniata [RefSeq]) and a lancelet (Branchiostoma lanceolatum [Ensembl]) were newly added.
-28 Jan. 2021 |  | The number of blast hits (>blastHits) was deleted from the output.
 29 Dec. 2020 | Version 1.5.0 | Text areas were introduced for sequence uploading. In conjunction with the renewal, the file uploading system was closed.
 24 Dec. 2020 |  | Gene model data were newly added for 4 snakes (Pantherophis guttatus, Thamnophis elegans, Naja naja, and Laticauda laticaudata). 
 6 Dec. 2020 | Version 1.2.2 | Gene model data were newly added for 3 sharkes (Scyliorhinus torazame, Chiloscyllium punctatum, and Rhincodon typus), human (Homo sapiens Ens102), and chicken (Gallus gallus Ens102). 
