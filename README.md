@@ -79,17 +79,8 @@ To count Fads2 gene copies, these sequences were used for "Search/Rearrangement"
 
 #   
 ### Inoue et al (2019)   
-Inoue J, Nakashima K, and Satoh N. 2019. ORTHOSCOPE analysis reveals the presence of the cellulose synthase gene in all tunicate genomes but not in other animal genomes. Genes. 10: 294.   
-
-[Queries](https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/CesA_Satoh19.zip).   
-[Taxon sampling](http://yurai.aori.u-tokyo.ac.jp/orthoscope/examples/taxon_sampling_Inoue20CesA.txt).    
-These sequences were used for "Tree Search Only" mode.   
-In this paper, maximum likelihood trees were estimated according to the process described in "Tree Estimation of Orthogroup Members (with Additional Sequences)". See below.   
-
-#   
-### Inoue et al (2019)   
 <table width="100%" border="0" cellspacing="2" cellpadding="0">
-<tr>
+<tr valign="top">
 <td width="60%>
 <div align="left">
 Inoue J, Nakashima K, and Satoh N. 2019. ORTHOSCOPE analysis reveals the presence of the cellulose synthase gene in all tunicate genomes but not in other animal genomes. Genes. 10: 294.<br>
