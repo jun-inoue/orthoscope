@@ -89,7 +89,7 @@ In this paper, maximum likelihood trees were estimated according to the process 
 
 #   
 ### Inoue and Satoh (2019)
-Inoue J. and Satoh N. 2019. ORTHOSCOPE: an automatic web tool of analytical pipeline for ortholog identification using a species tree. 36:621–631. [Link](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msy226/5229933).   
+Inoue J. and Satoh N. 2019. ORTHOSCOPE: an automatic web tool of analytical pipeline for ortholog identification using a species tree. 36:621–631. [Link](https://academic.oup.com/mbe/article/36/3/621/5229933).   
 
 | Actinopterygii | Vertebrata | Deuterostomia | Protostomia |
 :---: | :---: | :---: | :---:
