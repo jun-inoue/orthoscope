@@ -74,7 +74,7 @@ Ishikawa, A, et al. 2019. A key metabolic gene for recurrent freshwater coloniza
 
 [Queries](http://yurai.aori.u-tokyo.ac.jp/orthoscope/examples/ActinopterygianFads2.fas.txt).    
 [Taxon sampling](http://yurai.aori.u-tokyo.ac.jp/orthoscope/examples/taxon_sampling_Actinopterygii.txt).    
-To count Fads2 gene copies, these sequences were used for "Search/Rearrangement" mode of "Focal group Actinopterygii".    
+To count Fads2 gene copies, these sequences were used for "Comparing gene and species trees" mode of "Focal group Actinopterygii".    
 ![Ishikawa19](images/Ishikawa19.jpg)
 
 #   
