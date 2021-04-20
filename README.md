@@ -87,7 +87,7 @@ Inoue J, Nakashima K, and Satoh N. 2019. ORTHOSCOPE analysis reveals the presenc
 
 <br>
 <a href="https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/CesA_Satoh19.zip" target="_blank">Queries</a><br>
-For queries, CesA gene sequences were separated into 2 parts: CesA domain (before TM7) and GH6 domain (after TM7]).<br>
+For queries, CesA gene sequences were separated into 2 parts: CesA (before TM7) and GH6 (after TM7]) domains.<br>
 <a href="http://yurai.aori.u-tokyo.ac.jp/orthoscope/examples/taxon_sampling_Inoue19CesA.txt.zip" target="_blank">Taxon sampling</a><br>
 In this paper, maximum likelihood trees were estimated according to the process described in "Tree Estimation of Orthogroup Members (with Additional Sequences)". See below.   
 </div>
