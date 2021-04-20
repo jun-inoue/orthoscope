@@ -70,7 +70,7 @@ Dependencies:
 
 ## Example Data   
 ### Ishikawa et al (2019)   
-Ishikawa, A, et al. 2019. A key metabolic gene for recurrent freshwater colonization and radiation in fishes. Science, 364: 886-9. 
+Ishikawa, A, et al. 2019. A key metabolic gene for recurrent freshwater colonization and radiation in fishes. Science, 364: 886-9. [Link](https://science.sciencemag.org/content/364/6443/886).    
 
 [Queries](http://yurai.aori.u-tokyo.ac.jp/orthoscope/examples/ActinopterygianFads2.fas.txt).    
 [Taxon sampling](http://yurai.aori.u-tokyo.ac.jp/orthoscope/examples/taxon_sampling_Actinopterygii.txt.zip).    
