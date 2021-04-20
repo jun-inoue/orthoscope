@@ -83,9 +83,8 @@ To count Fads2 gene copies, these sequences were used for "Comparing gene and sp
 <tr valign="top">
 <td width="60%>
 <div align="left">
-Inoue J, Nakashima K, and Satoh N. 2019. ORTHOSCOPE analysis reveals the presence of the cellulose synthase gene in all tunicate genomes but not in other animal genomes. Genes. 10: 294. 
-[Link](https://www.mdpi.com/2073-4425/10/4/294).<br>
-[Link](https://science.sciencemag.org/content/364/6443/886)<br>
+Inoue J, Nakashima K, and Satoh N. 2019. ORTHOSCOPE analysis reveals the presence of the cellulose synthase gene in all tunicate genomes but not in other animal genomes. Genes. 10: 294. <a href="https://www.mdpi.com/2073-4425/10/4/294" target="_blank">Link</a><br>
+
 <br>
 <a href="https://github.com/jun-inoue/orthoscope/raw/master/tarfiles/CesA_Satoh19.zip" target="_blank">Queries</a><br>
 <a href="http://yurai.aori.u-tokyo.ac.jp/orthoscope/examples/taxon_sampling_Inoue19CesA.txt.zip" target="_blank">Taxon sampling</a><br>
