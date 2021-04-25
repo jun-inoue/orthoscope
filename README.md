@@ -18,7 +18,7 @@ By using sequences collected by the BLAST search, ORTHOSCOPE estimates the gene 
 </table>
 
 
-<b>Japanese instruction (日本語の説明):</b> [http://www.fish-evol.org/orthoscope_ji.html](http://www.fish-evol.org/orthoscope_ji.html).   
+<b>Japanese instruction (日本語の説明1):</b> [http://www.fish-evol.org/orthoscope_ji.html](http://www.fish-evol.org/orthoscope_ji.html).   
 For non-coding analyses, [dbCNS](http://yamasati.nig.ac.jp/dbcns/index.html) was published in 2020. 
 
 ---
