@@ -35,6 +35,11 @@ Mirror SAKURA
 
 ---
 
+## Slides   
+![mode](images/ORTHOSCOPE_slides.jpg)
+
+---
+
 ## Orthogroup   
 A set of genes descended from a single gene in the last common ancestor of all the species being considered (<a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0721-2" target="_blank">Emms and Kelly 2015</a>). <br>
 ![mode](images/speciesTree_geneTree.jpg)
