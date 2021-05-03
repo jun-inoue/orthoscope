@@ -36,7 +36,7 @@ Mirror SAKURA
 ---
 
 ## Slides   
-[![mode](images/ORTHOSCOPE_slides.jpg)](http://www.fish-evol.org/NewFiles/ORTHOSCOPE_slides.pdf)
+[![mode](images/ORTHOSCOPE_slides.jpg)](http://www.fish-evol.org/NewFiles/ORTHOSCOPE_slides3.pdf)
 
 ---
 
