@@ -368,6 +368,7 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
+19 Jun. 2021 |  | Data of seven plants (EnsPlant51) were newly added.
 10 Apr. 2021 | Version 1.5.1 | Released. A focal group, Plants, was newly added.
 11 Feb. 2021 |  | Data of a shirmp (Penaeus monodon) and an tunicate (Styela clava) were newly added. 
 6 Feb. 2021 |  | Data of 2 sharks (Callorhinchus-milii-E102 and Scyliorhinus-canicula) and 18 teleosts (e.g. Hucho-hucho) were newly added. 
