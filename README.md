@@ -35,6 +35,11 @@ Mirror SAKURA
 
 ---
 
+## Slides   
+[![mode](images/ORTHOSCOPE_slides.jpg)](http://www.fish-evol.org/NewFiles/ORTHOSCOPE_slides3.pdf)
+
+---
+
 ## Orthogroup   
 A set of genes descended from a single gene in the last common ancestor of all the species being considered (<a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0721-2" target="_blank">Emms and Kelly 2015</a>). <br>
 ![mode](images/speciesTree_geneTree.jpg)
@@ -363,6 +368,8 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
+21 Jul. 2021 |  | Data of Caulerpa lentillifera (Siphonous green alga) (OIS-Satoh Unit) was newly added.
+19 Jun. 2021 |  | Data of seven plants (EnsPlant51) were newly added.
 10 Apr. 2021 | Version 1.5.1 | Released. A focal group, Plants, was newly added.
 11 Feb. 2021 |  | Data of a shirmp (Penaeus monodon) and an tunicate (Styela clava) were newly added. 
 6 Feb. 2021 |  | Data of 2 sharks (Callorhinchus-milii-E102 and Scyliorhinus-canicula) and 18 teleosts (e.g. Hucho-hucho) were newly added. 
