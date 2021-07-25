@@ -368,7 +368,8 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
-21 Jul. 2021 |  | Data of Caulerpa lentillifera (Siphonous green alga) (OIS-Satoh Unit) was newly added.
+25 Jul. 2021 |  | Data of Carcharodon carcharias (Great white shark ) was newly added.
+21 Jul. 2021 |  | Data of Caulerpa lentillifera (Siphonous green alga) was newly added.
 19 Jun. 2021 |  | Data of seven plants (EnsPlant51) were newly added.
 10 Apr. 2021 | Version 1.5.1 | Released. A focal group, Plants, was newly added.
 11 Feb. 2021 |  | Data of a shirmp (Penaeus monodon) and an tunicate (Styela clava) were newly added. 
