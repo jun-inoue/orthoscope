@@ -66,17 +66,20 @@ Dependencies:
 [FastME 2.0](http://www.atgc-montpellier.fr/fastme/) for amino acid analyses   
 [Notung-2.9](http://www.cs.cmu.edu/~durand/Notung/)   
 
+---
+
 ## Broadly Accepeted Nodes used in focal analyses  
 Focal analysis | Broadly Accepeted Nodes | 
 --- | --- 
 Actinopterygii |  
 Mammalia |  Amniota, Tetrapoda, or Sarcopterygii  
-Vertebrata | Olfactore", "Chordata", "Deuterostomia  
+Vertebrata | Olfactore, Chordata, Deuterostomia  
 Deuterostomia |  Nephrozoa or Bilateria  
 Protostomia |  Nephrozoa or Bilateria  
-Acropora |  
-Plants |  
+Acropora |  Teleostomi, Gnathostomata, or Vertebrata
+Plants |  Mesangiospermae  
 
+---
 
 ## Use of Query Sequences in Gene Tree Estimation   
 ### Redundant Blast hits are deleted   
