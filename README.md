@@ -385,6 +385,7 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
+13 Aug. 2021 |  | Data of 7 fabales data (e.g., Glycine-max) were newly added.
 25 Jul. 2021 |  | Data of Carcharodon carcharias (Great white shark ) was newly added.
 21 Jul. 2021 |  | Data of Caulerpa lentillifera (Siphonous green alga) was newly added.
 19 Jun. 2021 |  | Data of seven plants (EnsPlant51) were newly added.
