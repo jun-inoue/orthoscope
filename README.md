@@ -71,12 +71,12 @@ Dependencies:
 ## Broadly Accepeted Nodes used in focal analyses  
 Focal analysis | Broadly Accepeted Nodes | 
 --- | --- 
-Actinopterygii |  
+Actinopterygii |  Teleostomi, Gnathostomata, or Vertebrata   
 Mammalia |  Amniota, Tetrapoda, or Sarcopterygii  
 Vertebrata | Olfactore, Chordata, Deuterostomia  
 Deuterostomia |  Nephrozoa or Bilateria  
 Protostomia |  Nephrozoa or Bilateria  
-Acropora |  Teleostomi, Gnathostomata, or Vertebrata
+Acropora |  Scleractinia, Anthozoa, or Cnidaria
 Plants |  Mesangiospermae  
 
 ---
