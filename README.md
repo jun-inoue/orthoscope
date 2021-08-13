@@ -66,6 +66,18 @@ Dependencies:
 [FastME 2.0](http://www.atgc-montpellier.fr/fastme/) for amino acid analyses   
 [Notung-2.9](http://www.cs.cmu.edu/~durand/Notung/)   
 
+## Broadly Accepeted Nodes used in focal analyses  
+Focal analysis | Broadly Accepeted Nodes | 
+--- | --- 
+Actinopterygii |  
+Mammalia |  Amniota, Tetrapoda, or Sarcopterygii  
+Vertebrata | Olfactore", "Chordata", "Deuterostomia  
+Deuterostomia |  Nephrozoa or Bilateria  
+Protostomia |  Nephrozoa or Bilateria  
+Acropora |  
+Plants |  
+
+
 ## Use of Query Sequences in Gene Tree Estimation   
 ### Redundant Blast hits are deleted   
 ![MultipleQuerySeqs](images/MultipleQuerySeqs1.jpg)
@@ -88,7 +100,7 @@ To count Fads2 gene copies, these sequences were used for "Comparing gene and sp
 ### Inoue et al (2019)   
 <table width="100%" border="0" cellspacing="2" cellpadding="0">
 <tr valign="top">
-<td width="60%>
+<td width="60%">
 <div align="left">
 Inoue J, Nakashima K, and Satoh N. 2019. ORTHOSCOPE analysis reveals the presence of the cellulose synthase gene in all tunicate genomes but not in other animal genomes. Genes. 10: 294. <a href="https://www.mdpi.com/2073-4425/10/4/294" target="_blank">Link</a><br>
 
