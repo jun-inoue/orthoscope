@@ -73,7 +73,7 @@ Focal analysis | Broadly Accepeted Nodes |
 --- | --- 
 Actinopterygii |  Teleostomi, Gnathostomata, or Vertebrata   
 Mammalia |  Amniota, Tetrapoda, or Sarcopterygii  
-Vertebrata | Olfactore, Chordata, Deuterostomia  
+Vertebrata | Olfactore, Chordata, or Deuterostomia  
 Deuterostomia |  Nephrozoa or Bilateria  
 Protostomia |  Nephrozoa or Bilateria  
 Acropora |  Scleractinia, Anthozoa, or Cnidaria
