@@ -68,7 +68,7 @@ Dependencies:
 
 ---
 
-## Broadly Accepeted Nodes used in focal analyses  
+## Broadly Accepeted Nodes Used in Focal Analyses  
 Focal analysis | Broadly Accepeted Nodes | 
 --- | --- 
 Actinopterygii |  Teleostomi, Gnathostomata, or Vertebrata   
