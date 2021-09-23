@@ -26,14 +26,17 @@ For non-coding analyses, [dbCNS](http://yamasati.nig.ac.jp/dbcns/index.html) was
 ---
 
 ## Web sites
+Mirror AORI will be stopped in 25-26 Sep, 2021. Please use SAKURA or OIST.   
+
 Mirror AORI   
 [http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html)
+
+Mirror SAKURA  
+[http://www.fish-evol.org/orthoscope/Deuterostomia.html](http://www.fish-evol.org/orthoscope/Deuterostomia.html).
 
 Mirror OIST   
 [https://fish-evol.unit.oist.jp/orthoscope/Deuterostomia.html](https://fish-evol.unit.oist.jp/orthoscope/Deuterostomia.html)
 
-Mirror SAKURA  
-[http://www.fish-evol.org/orthoscope/Deuterostomia.html](http://www.fish-evol.org/orthoscope/Deuterostomia.html).
 
 ---
 
