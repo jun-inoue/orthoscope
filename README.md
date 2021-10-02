@@ -26,7 +26,7 @@ For non-coding analyses, [dbCNS](http://yamasati.nig.ac.jp/dbcns/index.html) was
 ---
 
 ## Web sites
-**Mirror AORI will be stopped in 25-26 Sep, 2021. Please use SAKURA or OIST during this duration.**   
+**I fiexed the mirror AORI. It was not linked 25-26 Sep, 2021.
 
 Mirror AORI   
 [http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html)
