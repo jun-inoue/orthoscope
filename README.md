@@ -4,11 +4,13 @@
    
 <table width="100%" border="0" cellspacing="2" cellpadding="0">
 <tr>
-<td width="60%>
+<td width="60%">
 <div align="left">
 ORTHOSCOPE (https://www.orthoscope.jp) (<a href="https://academic.oup.com/mbe/article/36/3/621/5229933" target="_blank">Inoue and Satoh 2019</a>) is a web tool to identify orthologs of a specific protein-coding gene of bilaterians (and cnidarians). By uploading gene sequences of interest and by selecting species genomes from >450 bilaterians, users can infer their functions and copy numbers, according to results reported by ORTHOSCOPE in the form of gene trees.
 <br><br>
 By using sequences collected by the BLAST search, ORTHOSCOPE estimates the gene tree, compares it with the <a href="https://github.com/jun-inoue/Species_tree" target="_blank">species tree</a>, and identifies a orthogroup (see below).
+<br><br>
+ORTHOSCOPE works only for a specific molecule and does not allow genome-scale analyses. Recently I developed the downloaded version, <a href="https://github.com/jun-inoue/ORTHOSCOPE_STAR" target="_blank">ORTHOSCOPE*</a> (star). This analytic pipeline accommodates genome-wide data of protein-coding genes and infers genome-scale events.
 </div>
 </td>
 <td width="40%">
@@ -24,14 +26,17 @@ For non-coding analyses, [dbCNS](http://yamasati.nig.ac.jp/dbcns/index.html) was
 ---
 
 ## Web sites
+**I fiexed the mirror AORI. It was not linked 25-26 Sep, 2021.
+
 Mirror AORI   
 [http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html)
+
+Mirror SAKURA  
+[http://www.fish-evol.org/orthoscope/Deuterostomia.html](http://www.fish-evol.org/orthoscope/Deuterostomia.html).
 
 Mirror OIST   
 [https://fish-evol.unit.oist.jp/orthoscope/Deuterostomia.html](https://fish-evol.unit.oist.jp/orthoscope/Deuterostomia.html)
 
-Mirror SAKURA  
-[http://www.fish-evol.org/orthoscope/Deuterostomia.html](http://www.fish-evol.org/orthoscope/Deuterostomia.html).
 
 ---
 
@@ -64,6 +69,21 @@ Dependencies:
 [FastME 2.0](http://www.atgc-montpellier.fr/fastme/) for amino acid analyses   
 [Notung-2.9](http://www.cs.cmu.edu/~durand/Notung/)   
 
+---
+
+## Broadly Accepeted Nodes Used in Focal Analyses  
+Focal analysis | Broadly Accepeted Nodes | 
+--- | --- 
+Actinopterygii |  Teleostomi, Gnathostomata, or Vertebrata   
+Mammalia |  Amniota, Tetrapoda, or Sarcopterygii  
+Vertebrata | Olfactore, Chordata, or Deuterostomia  
+Deuterostomia |  Nephrozoa or Bilateria  
+Protostomia |  Nephrozoa or Bilateria  
+Acropora |  Scleractinia, Anthozoa, or Cnidaria
+Plants |  Mesangiospermae  
+
+---
+
 ## Use of Query Sequences in Gene Tree Estimation   
 ### Redundant Blast hits are deleted   
 ![MultipleQuerySeqs](images/MultipleQuerySeqs1.jpg)
@@ -86,7 +106,7 @@ To count Fads2 gene copies, these sequences were used for "Comparing gene and sp
 ### Inoue et al (2019)   
 <table width="100%" border="0" cellspacing="2" cellpadding="0">
 <tr valign="top">
-<td width="60%>
+<td width="60%">
 <div align="left">
 Inoue J, Nakashima K, and Satoh N. 2019. ORTHOSCOPE analysis reveals the presence of the cellulose synthase gene in all tunicate genomes but not in other animal genomes. Genes. 10: 294. <a href="https://www.mdpi.com/2073-4425/10/4/294" target="_blank">Link</a><br>
 
@@ -368,7 +388,10 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
-21 Jul. 2021 |  | Data of Caulerpa lentillifera (Siphonous green alga) (OIS-Satoh Unit) was newly added.
+14 Aug. 2021 |  | Data of 4 liliopsid data (e.g., Dioscorea, Asparagus, Zingiber, and Ananas) were newly added.
+13 Aug. 2021 |  | Data of 7 fabales data (e.g., Glycine-max) were newly added.
+25 Jul. 2021 |  | Data of Carcharodon carcharias (Great white shark ) was newly added.
+21 Jul. 2021 |  | Data of Caulerpa lentillifera (Siphonous green alga) was newly added.
 19 Jun. 2021 |  | Data of seven plants (EnsPlant51) were newly added.
 10 Apr. 2021 | Version 1.5.1 | Released. A focal group, Plants, was newly added.
 11 Feb. 2021 |  | Data of a shirmp (Penaeus monodon) and an tunicate (Styela clava) were newly added. 
