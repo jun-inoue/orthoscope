@@ -26,10 +26,6 @@ For non-coding analyses, [dbCNS](http://yamasati.nig.ac.jp/dbcns/index.html) was
 ---
 
 ## Web sites
-**I fiexed the mirror AORI. It was not linked 25-26 Sep, 2021.
-
-Mirror AORI   
-[http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html)
 
 Mirror SAKURA  
 [http://www.fish-evol.org/orthoscope/Deuterostomia.html](http://www.fish-evol.org/orthoscope/Deuterostomia.html).
