@@ -401,8 +401,8 @@ Date | Version | Revision
 6 Dec. 2020 | Version 1.2.2 | Gene model data were newly added for 3 sharkes (Scyliorhinus torazame, Chiloscyllium punctatum, and Rhincodon typus), human (Homo sapiens Ens102), and chicken (Gallus gallus Ens102). 
 6 Sep. 2020 | Version 1.2.1 | Gene model data were newly added for an echinoderm (Anneissia japonica) and replaced with TSA data for an acoela (Hofstenia-miamia). 
 30 Aug. 2020 |  | Data of Sterlet (Acipenser ruthenus) and  European eel (Anguilla anguilla) were newly added.
-1 Jun. 2020 | Version 1.2.0(http://yurai.aori.u-tokyo.ac.jp/orthoscope120/Deuterostomia.html) | Released. A focal group, Acropora, was newly added.
-1 Jun. 2020 | [Version 1.1.0](http://yurai.aori.u-tokyo.ac.jp/orthoscope110/Deuterostomia.html) | Released. Data of Amblyraja radiata (Thorny skate) was newly added.
+1 Jun. 2020 | Version 1.2.0 (http://yurai.aori.u-tokyo.ac.jp/orthoscope120/Deuterostomia.html) | Released. A focal group, Acropora, was newly added.
+1 Jun. 2020 | Version 1.1.0 (http://yurai.aori.u-tokyo.ac.jp/orthoscope110/Deuterostomia.html) | Released. Data of Amblyraja radiata (Thorny skate) was newly added.
 14 Jan. 2020 |  | The batch uploading was implemented for taxon sampling.<img src="images/batch_tsampling.jpg">
 6 Nov. 2019 |  | ORTHOSCOPE-Mammalia was newly created and data of 46 mammals were newly added.
 2 Oct. 2019 |  | Data of Pacific white shrimp (Penaeus vannamei) were newly added.
