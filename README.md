@@ -29,8 +29,8 @@ For non-coding analyses, [dbCNS](http://yamasati.nig.ac.jp/dbcns/index.html) was
 Mirror AORI   
 [http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html)
 
-Mirror 4g  
-[http://153.126.199.44/orthoscope/Deuterostomia.html](http://153.126.199.44/orthoscope/Deuterostomia.html)
+Mirror Osaka   
+[http://133.167.86.72/orthoscope/Deuterostomia.html](http://133.167.86.72/orthoscope/Deuterostomia.html)
 
 Mirror OIST   
 [https://fish-evol.unit.oist.jp/orthoscope/Deuterostomia.html](https://fish-evol.unit.oist.jp/orthoscope/Deuterostomia.html)
