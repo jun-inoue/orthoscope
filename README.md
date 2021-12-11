@@ -386,8 +386,9 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
+11 Dec. 2021 |  | Data of 2 ancient fishes (Polypterys, Polyodon) were newly added.
 14 Aug. 2021 |  | Data of 4 liliopsid data (e.g., Dioscorea, Asparagus, Zingiber, and Ananas) were newly added.
-13 Aug. 2021 |  | Data of 7 fabales data (e.g., Glycine-max) were newly added.
+13 Aug. 2021 |  | Data of 7 fabales (e.g., Glycine-max) were newly added.
 25 Jul. 2021 |  | Data of Carcharodon carcharias (Great white shark ) was newly added.
 21 Jul. 2021 |  | Data of Caulerpa lentillifera (Siphonous green alga) was newly added.
 19 Jun. 2021 |  | Data of seven plants (EnsPlant51) were newly added.
