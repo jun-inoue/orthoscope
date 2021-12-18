@@ -386,6 +386,7 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
+18 Dec. 2021 |  | Data of  a sea urchin (Lytechinus) was newly added.
 11 Dec. 2021 |  | Data of 2 ancient fishes (Polypterys, Polyodon) were newly added.
 14 Aug. 2021 |  | Data of 4 liliopsid data (e.g., Dioscorea, Asparagus, Zingiber, and Ananas) were newly added.
 13 Aug. 2021 |  | Data of 7 fabales (e.g., Glycine-max) were newly added.
