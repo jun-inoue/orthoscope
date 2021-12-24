@@ -23,9 +23,9 @@ ORTHOSCOPE works only for a specific molecule and does not allow genome-scale an
 <b>Japanese instruction (日本語の説明1):</b>  
 [http://www.fish-evol.org/orthoscope_ji.html](http://www.fish-evol.org/orthoscope_ji.html).   
 <b>Genome wide analayses:</b>  
-ORTHOSCOPE*: a phylogenetic pipeline for inferring gene histories from genome -wide data. Molecular Biology and Evolution, in press. [Link](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msab301/6400256).   
+[ORTHOSCOPE*](https://github.com/jun-inoue/ORTHOSCOPE_STAR).   
 <b>non-coding analyses:</b>  
-[dbCNS](http://yamasati.nig.ac.jp/dbcns/index.html) was published in 2020.   
+[dbCNS](http://yamasati.nig.ac.jp/dbcns/index.html).   
 
 ---
 
