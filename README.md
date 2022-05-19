@@ -393,6 +393,7 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
+22 May 2022 | Version 1.5.2 | Amino acid analyses are not supported.
 19 May 2022 |  | New mirror site, AORI:viento, is added.
 18 Dec. 2021 |  | Data of  a sea urchin (Lytechinus) and 3 crustaceans (Penaeus japonicus, Homarus, and Portunus) were newly added.
 11 Dec. 2021 |  | Data of 2 ancient fishes (Polypterys, Polyodon) were newly added.
