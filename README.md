@@ -1,6 +1,21 @@
 # ORTHOSCOPE
 
 
+---
+
+## Web sites
+Mirror AORI - viento (fastest)  
+[http://157.82.133.212/orthoscope/Deuterostomia.html](http://157.82.133.212/orthoscope/Deuterostomia.html)
+
+Mirror AORI - yurai (2nd fastest)  
+[http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html)
+
+Mirror Osaka   
+[http://133.167.86.72/orthoscope/Deuterostomia.html](http://133.167.86.72/orthoscope/Deuterostomia.html)
+
+Mirror OIST   
+[https://fish-evol.unit.oist.jp/orthoscope/Deuterostomia.html](https://fish-evol.unit.oist.jp/orthoscope/Deuterostomia.html)
+
    
 <table width="100%" border="0" cellspacing="2" cellpadding="0">
 <tr>
@@ -26,21 +41,6 @@ ORTHOSCOPE works only for a specific molecule and does not allow genome-scale an
 [ORTHOSCOPE*](https://github.com/jun-inoue/ORTHOSCOPE_STAR).   
 <b>non-coding analyses:</b>  
 [dbCNS](http://yamasati.nig.ac.jp/dbcns/index.html).   
-
----
-
-## Web sites
-Mirror AORI - viento (fastest)  
-[http://157.82.133.212/orthoscope/Deuterostomia.html](http://157.82.133.212/orthoscope/Deuterostomia.html)
-
-Mirror AORI - yurai (2nd fastest)  
-[http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html)
-
-Mirror Osaka   
-[http://133.167.86.72/orthoscope/Deuterostomia.html](http://133.167.86.72/orthoscope/Deuterostomia.html)
-
-Mirror OIST   
-[https://fish-evol.unit.oist.jp/orthoscope/Deuterostomia.html](https://fish-evol.unit.oist.jp/orthoscope/Deuterostomia.html)
 
 
 ---
