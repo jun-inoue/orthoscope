@@ -30,10 +30,10 @@ ORTHOSCOPE works only for a specific molecule and does not allow genome-scale an
 ---
 
 ## Web sites
-Mirror AORI - viento  
+Mirror AORI - viento (fastest)  
 [http://157.82.133.212/orthoscope/Deuterostomia.html](http://157.82.133.212/orthoscope/Deuterostomia.html)
 
-Mirror AORI - yurai  
+Mirror AORI - yurai (2nd fastest)  
 [http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html)
 
 Mirror Osaka   
