@@ -4,10 +4,10 @@
 ---
 
 ## Web sites
-Mirror AORI - viento (fastest)  
+Mirror AORI - viento (fast)  
 [http://157.82.133.212/orthoscope/Deuterostomia.html](http://157.82.133.212/orthoscope/Deuterostomia.html)
 
-Mirror AORI - yurai (2nd fastest)  
+Mirror AORI - yurai  
 [http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html)
 
 <!-- Mirror Osaka   
