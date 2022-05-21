@@ -3,11 +3,11 @@
 
 ---
 
-## Mirror sites
-AORI - viento (fast)  
+## Sites for analyses
+Mirror AORI - viento (fast)  
 [http://157.82.133.212/orthoscope/Deuterostomia.html](http://157.82.133.212/orthoscope/Deuterostomia.html)
 
-AORI - yurai  
+Mirror AORI - yurai  
 [http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html)
 
 <!-- Osaka   
