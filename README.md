@@ -393,7 +393,7 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
-22 May 2022 | Version 1.5.2 | Bug rex release: Showing query replacements in result pages derived from "Comparing gene and species trees" mode. Amino Acide analyses were fixed by limiting character numbers of name lines up to 60. Sorry, this problem has been left for several months.
+22 May 2022 | Version 1.5.2 | Bug fix release: In result pages derived from "Comparing gene and species trees" mode, query replacements are shown. Amino Acide analyses were fixed by limiting character numbers of name lines up to 60. Sorry, this problem has been left for several months.
 19 May 2022 |  | New mirror site, AORI:viento, is added.
 18 Dec. 2021 |  | Data of  a sea urchin (Lytechinus) and 3 crustaceans (Penaeus japonicus, Homarus, and Portunus) were newly added.
 11 Dec. 2021 |  | Data of 2 ancient fishes (Polypterys, Polyodon) were newly added.
