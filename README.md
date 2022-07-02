@@ -397,7 +397,7 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
-2 Jul. 2022 |  | Data of two sharks (C.plagiosum and S.fasciatum) were newly added.
+2 Jul. 2022 |  | Data of two sharks (C.plagiosum and S.fasciatum) and 5 plants (Brachypodium.distachyon, Hordeum.vulgare, Secale.cereale, Aegilops.tauschii, Triticum.spelta, and Actinidia.chinensis) were newly added.
 9 Jun. 2022 |  | Data of an sweet orange were newly added.
 22 May 2022 | Version 1.5.2 | Bug fix release: In result pages derived from "Comparing gene and species trees" mode, query replacements are shown. Amino Acide analyses were fixed by limiting character numbers of name lines up to 60. Sorry, this problem has been left for several months.
 19 May 2022 |  | New mirror site, AORI:viento, is added.
