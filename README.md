@@ -40,8 +40,10 @@ ORTHOSCOPE works only for a specific molecule and does not allow genome-scale an
 </table>
 
 
-<b>Japanese instruction (日本語の説明1):</b>  
+<b>Japanese instruction (日本語の説明):</b>  
 [http://www.fish-evol.org/orthoscope_ji.html](http://www.fish-evol.org/orthoscope_ji.html).   
+<b>Togo TV (日本語の動画):</b>  
+[https://togotv.dbcls.jp/20220815.html](https://togotv.dbcls.jp/20220815.html).   
 <b>Genome wide analayses:</b>  
 [ORTHOSCOPE*](https://github.com/jun-inoue/ORTHOSCOPE_STAR).   
 <b>non-coding analyses:</b>  
