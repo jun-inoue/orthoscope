@@ -44,18 +44,15 @@ ORTHOSCOPE works only for a specific molecule and does not allow genome-scale an
 <td width="55%">
 <b>Japanese instruction (日本語の説明):</b><br>
 <a href="http://www.fish-evol.org/orthoscope_ji.html" target="_blank">http://www.fish-evol.org/orthoscope_ji.html</a><br>
- <b>Togo TV (日本語の動画):</b><br>
+<b>Togo TV (日本語の動画):</b><br>
 <a href="https://togotv.dbcls.jp/20220815.html" target="_blank">https://togotv.dbcls.jp/20220815.html</a><br>
- </td>
+</td>
 <td width="45%">
 <b>Genome wide analayses:</b><br>
-[ORTHOSCOPE*](https://github.com/jun-inoue/ORTHOSCOPE_STAR).<br>
 <a href="https://github.com/jun-inoue/ORTHOSCOPE_STAR" target="_blank">https://github.com/jun-inoue/ORTHOSCOPE_STAR</a><br>
- <b>non-coding analyses:</b><br>
-[dbCNS](http://yamasati.nig.ac.jp/dbcns/index.html).   
+<b>non-coding analyses:</b><br>
 <a href="https://github.com/jun-inoue/dbCNS" target="_blank">https://github.com/jun-inoue/dbCNS</a><br>
-
- </td>
+</td>
 </tr>
 </table>
 
