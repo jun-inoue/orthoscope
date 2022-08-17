@@ -21,7 +21,7 @@ OIST
 ---
 
 ## Abstract   
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" valign=top>
 <tr>
 <td width="55%">
 <div align="left">
