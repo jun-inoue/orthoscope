@@ -10,7 +10,7 @@ Mirror - viento (fast)
 Mirror - yurai  
 [http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html)
 
-Mirro Osaka   
+Mirro - Osaka   
 [http://133.167.86.72/orthoscope/Deuterostomia.html](http://133.167.86.72/orthoscope/Deuterostomia.html)
 
 <!--
