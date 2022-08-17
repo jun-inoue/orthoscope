@@ -4,15 +4,15 @@
 ---
 
 ## Sites for analyses
-Mirror AORI - viento (fast)  
+Mirror - viento (fast)  
 [http://157.82.133.212/orthoscope/Deuterostomia.html](http://157.82.133.212/orthoscope/Deuterostomia.html)
 
-Mirror AORI - yurai  
+Mirror - yurai  
 [http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html)
 
-<!-- 
-Osaka   
+Mirro Osaka   
 [http://133.167.86.72/orthoscope/Deuterostomia.html](http://133.167.86.72/orthoscope/Deuterostomia.html)
+
 
 OIST   
 [https://fish-evol.unit.oist.jp/orthoscope/Deuterostomia.html](https://fish-evol.unit.oist.jp/orthoscope/Deuterostomia.html)
