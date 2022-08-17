@@ -22,7 +22,7 @@ OIST
 
 ## Abstract   
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr valign="top">
+<tr>
 <td width="55%">
 <div align="left">
 ORTHOSCOPE (<a href="https://academic.oup.com/mbe/article/36/3/621/5229933" target="_blank">Inoue and Satoh 2019</a>) is a web tool to identify orthogroup members (orthologs and paralogs, see below) of a specific protein-coding gene of animals and plants. By uploading gene sequences of interest and by selecting species genomes from >600 animals/plants, users can infer their functions and copy numbers, according to results reported by ORTHOSCOPE in the form of gene trees.
