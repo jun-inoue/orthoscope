@@ -403,7 +403,7 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
-9 Aug. 2022 |  | Data of a hornworts (Anthoceros-angustus) were newly added.
+9 Aug. 2022 |  | Data of a hornworts (Anthoceros-angustus) and a liverwort (Marchantia polymorpha, Male Tak1) were newly added.
 9 Aug. 2022 |  | Data of a basal streptophyte alga (Penium-margaritaceum) were newly added.
 2 Jul. 2022 |  | Data of two plants (Leersia perrieri and Camelina sativa) were newly added.
 2 Jul. 2022 |  | Data of two sharks (C.plagiosum and S.fasciatum) and 5 plants (Brachypodium.distachyon, Hordeum.vulgare, Secale.cereale, Aegilops.tauschii, Triticum.spelta, and Actinidia.chinensis) were newly added.
