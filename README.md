@@ -403,7 +403,7 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
-28 Aug. 2022 |  | Data of Maidenhair tree (Ginkgo biloba) and gymnosperms (Ginkgo biloba, Cycas-micholitzii, Gnetum-montanum, Taxus-baccata, Pseudotsuga-menziesii, Picea-glauca, and Pinus sylvestris) were newly added.
+28 Aug. 2022 |  | Data of Maidenhair tree (Ginkgo biloba), two ferns (Azolla filiculoides and Salvinia cucullata), and gymnosperms (Ginkgo biloba, Cycas-micholitzii, Gnetum-montanum, Taxus-baccata, Pseudotsuga-menziesii, Picea-glauca, and Pinus sylvestris) were newly added.
 9 Aug. 2022 |  | Data of a hornworts (Anthoceros angustus), liverworts (Marchantia polymorpha, Male Tak1 and Male and femele) were newly added.
 9 Aug. 2022 |  | Data of a basal streptophyte alga (Penium-margaritaceum) were newly added.
 2 Jul. 2022 |  | Data of two plants (Leersia perrieri and Camelina sativa) were newly added.
