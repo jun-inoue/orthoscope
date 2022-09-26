@@ -4,12 +4,11 @@
 ---
 
 ## Sites for analyses
-<!-- Mirror - viento (fast)  
+Mirror - viento (fast)  
 [http://157.82.133.212/orthoscope/Deuterostomia.html](http://157.82.133.212/orthoscope/Deuterostomia.html)
 
 Mirror - yurai  
 [http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html)
--->
 
 Mirro - Osaka   
 [http://133.167.86.72/orthoscope/Deuterostomia.html](http://133.167.86.72/orthoscope/Deuterostomia.html)
