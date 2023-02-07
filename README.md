@@ -6,7 +6,7 @@
 ## Mirror sites for analyses
 viento (fast)  
 maintenance Feb 7
-<!-- [http://157.82.133.212/orthoscope/Deuterostomia.html](http://157.82.133.212/orthoscope/Deuterostomia.html) -->
+[http://157.82.133.212/orthoscope/Deuterostomia.html](http://157.82.133.212/orthoscope/Deuterostomia.html)
 
 yurai  
 [http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html)
