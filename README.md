@@ -5,7 +5,7 @@
 
 ## Mirror sites for analyses
 viento (fast)  
-[http://157.82.133.212/orthoscope/Deuterostomia.html](http://157.82.133.212/orthoscope/Deuterostomia.html)
+[https://orthoscope.jp/orthoscope/Deuterostomia.html](http://157.82.133.212/orthoscope/Deuterostomia.html)
 
 yurai  
 [http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html)
