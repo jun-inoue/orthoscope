@@ -1,18 +1,10 @@
 # ORTHOSCOPE
 
 
-<tr>
-    <td colspan="3">
-    <br>
-    <b>NEWS</b> 
-    <br>
+---
+
+## NEWS
     <font color="red">Mirro viento will be closed from 15 Sep 3:00pm to 19 Sep noon (Japan time), due to the planned [scheduled] power outage.</font>
-    <br><br>
-    </td>
-</tr>
-<tr>
-    <td colspan="3">A script for genome wide data, <a href="https://github.com/jun-inoue/ORTHOSCOPE_STAR" target="_blank"><b>ORTHOSCOPE*</b></a>, has bee published.</td>
-</tr>
 
 
 ---
