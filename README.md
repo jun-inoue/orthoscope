@@ -4,7 +4,7 @@
 ---
 
 ## NEWS
-Mirro viento will be closed from 15 Sep 3:00pm to 19 Sep noon (Japan time), due to the planned power outage.
+Mirro viento will be closed from 15 Sep 3:00pm to 19 Sep noon (Japan time, 2023), due to the planned power outage.
 
 ---
 
