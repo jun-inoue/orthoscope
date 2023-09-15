@@ -275,9 +275,9 @@ For example, if a user selected "Number of hits to report per genome" as 3, "Num
 
 Number of hits to report per genome | Number of species
 :---: | :---:
-3 | <50
-5 | <40 
-10 | <30 
+3 | <120
+5 | <70 
+10 | <50 
 
 <br />
 <br />  
