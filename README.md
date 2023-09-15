@@ -270,8 +270,9 @@ NJ analysis is conducted using the software package [Ape](https://cran.r-project
 ---
 ## Genome Taxon Sampling
 
-Feasibility of completion.   
-If a user selected "Number of hits to report per genome" as 3, "Numbe of species" should be less than 50 spp.
+Computational burden is a limitation factor of a web tool such as ORTHOSCOPE.   
+To address this issue, "Number of species" is restricted.    
+For example, if a user selected "Number of hits to report per genome" as 3, "Number of species" should be less than 50 spp.
 
 Number of hits to report per genome | Number of species
 :---: | :---:
