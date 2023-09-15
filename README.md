@@ -270,7 +270,8 @@ NJ analysis is conducted using the software package [Ape](https://cran.r-project
 ---
 ## Genome Taxon Sampling
 
-Feasibility of completion
+Feasibility of completion.   
+If a user selected "Number of hits to report per genome" as 3, "Numbe of species" should be less than 50 spp.
 
 Number of hits to report per genome | Number of species
 :---: | :---:
