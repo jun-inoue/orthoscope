@@ -10,12 +10,13 @@ Mirro viento will be closed from 15 Sep 3:00pm to 19 Sep noon (Japan time, 2023)
 -->
 
 ## Mirror sites for analyses
+<!-- 
 viento (fast)  
 [https://orthoscope.jp/orthoscope/Deuterostomia.html](https://orthoscope.jp/orthoscope/Deuterostomia.html)
 
 yurai  
 Under construction
-<!-- [http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html) -->
+[http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html) -->
 
 Osaka   
 [http://133.167.86.72/orthoscope/Deuterostomia.html](http://133.167.86.72/orthoscope/Deuterostomia.html)
