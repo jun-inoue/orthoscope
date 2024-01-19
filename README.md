@@ -3,7 +3,7 @@
 ---
 
 ## NEWS
-Mirror viento has been accidentally closed on 19 Jan 2024 morning. Please use Mirror Osaka recovery of viento.
+Mirror viento has been accidentally stopped on 19 Jan 2024 morning. Please use Mirror Osaka until recovery of viento.
 
 ---
 
