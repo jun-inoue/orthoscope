@@ -1,11 +1,13 @@
 # ORTHOSCOPE
 
+<!-- 
 ---
 
 ## NEWS
 Mirror viento has been accidentally stopped on 19 Jan 2024 morning. Please use Mirror Osaka until recovery of viento.
 
 ---
+-->
 
 ## Mirror sites for analyses
 viento (fast)  
