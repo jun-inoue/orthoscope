@@ -1,13 +1,11 @@
 # ORTHOSCOPE
 
-<!-- 
 ---
 
 ## NEWS
-Mirro viento will be closed from 15 Sep 3:00pm to 19 Sep noon (Japan time, 2023), due to the planned power outage.
+Mirror viento has been accidentally closed on 19 Jan 2024 morning. Please use Mirror Osaka recovery of viento.
 
 ---
--->
 
 ## Mirror sites for analyses
 <!-- 
