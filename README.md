@@ -413,7 +413,7 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
-28 Jan. 2024 |  | Data of a conger eel (Conger conger) were newly added.
+28 Jan. 2024 |  | Data of a conger eel (Conger conger) and a confer (Cryptomeria japonica) were newly added.
 24 Aug. 2023 |  | Data of a rayfinned fish (Amia calva) were newly added.
 23 Apr. 2023 |  | Data of a coral (Pocillopora damicornis) were newly added.
 21 Jan. 2023 |  | Data of two ferns (Marsilea vestita and Ceratopteris richardii) were newly added.
