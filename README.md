@@ -413,6 +413,7 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
+31 Jan. 2024 |  | Data of seven teleosts (Coregonus clupeaformis, Salmo trutta, Salvelinus namaycush, Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Cololabis saira) were newly added.
 31 Jan. 2024 |  | Data of a perl oyster (Chromosome-scale, haplotype-phased genome assembly) were newly added.
 28 Jan. 2024 |  | Data of a conger eel (Conger conger) and a confer (Cryptomeria japonica) were newly added.
 24 Aug. 2023 |  | Data of a rayfinned fish (Amia calva) were newly added.
