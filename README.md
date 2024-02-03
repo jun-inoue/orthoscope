@@ -414,7 +414,6 @@ Supported | Supported | 11.0 or later | Not supported
 Date | Version | Revision
 --- | --- | ---
 3 Feb. 2024 |  | Data of seven bivalves (Mercenaria-mercenaria, Pecten-maximus, Ylistrum-balloti, Mytilus-californianus, Saccostrea-echinata, Ostrea-edulis, and Crassostrea-angulata) were newly added.
-Mercenaria-mercenaria, Pecten-maximus, Ylistrum-balloti, Mytilus-californianus, Saccostrea-echinata, Ostrea-edulis, Crassostrea-angulata, 
 1 Feb. 2024 |  | Data of seven teleosts (Coregonus clupeaformis, Salmo trutta, Salvelinus namaycush, Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, and Cololabis saira) were newly added.
 31 Jan. 2024 |  | Data of a perl oyster (Chromosome-scale, haplotype-phased genome assembly) were newly added.
 28 Jan. 2024 |  | Data of a conger eel (Conger conger) and a confer (Cryptomeria japonica) were newly added.
