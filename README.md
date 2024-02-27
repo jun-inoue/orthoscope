@@ -417,7 +417,7 @@ Date | Version | Revision
 9 Feb. 2024 |  | Data of five anthozoans (Dendronephthya-gigantea, Actinia-tenebrosa, Xenia-sp, Exaiptasia-diaphana, and Pocillopora-verrucosa) were newly added.
 3 Feb. 2024 |  | Data of seven bivalves (Mercenaria-mercenaria, Pecten-maximus, Ylistrum-balloti, Mytilus-californianus, Saccostrea-echinata, Ostrea-edulis, and Crassostrea-angulata) were newly added.
 1 Feb. 2024 |  | Data of seven teleosts (Coregonus clupeaformis, Salmo trutta, Salvelinus namaycush, Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, and Cololabis saira) were newly added.
-31 Jan. 2024 |  | Data of a perl oyster (Chromosome-scale, haplotype-phased genome assembly) were newly added.
+31 Jan. 2024 |  | Data of a perl oyster (Chromosome-scale, haplotype-phased genome assembly A and B) were newly added.
 28 Jan. 2024 |  | Data of a conger eel (Conger conger) and a confer (Cryptomeria japonica) were newly added.
 24 Aug. 2023 |  | Data of a rayfinned fish (Amia calva) were newly added.
 23 Apr. 2023 |  | Data of a coral (Pocillopora damicornis) were newly added.
