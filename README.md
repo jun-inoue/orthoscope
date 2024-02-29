@@ -413,6 +413,7 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
+29 Feb. 2024 |  | Data of three flowering plants (Phragmites-australis, Carica-papaya, and Raphanus-sativus) were newly added.
 14 Feb. 2024 |  | Data of seven eudicot plants (Eucalyptus grandis, Pistacia vera, Gossypium raimondii, Arabis alpina, Eutrema salsugineum, Brassica rapa, and  Arabidopsis lyrata) were newly added.
 9 Feb. 2024 |  | Data of five anthozoans (Dendronephthya-gigantea, Actinia-tenebrosa, Xenia-sp, Exaiptasia-diaphana, and Pocillopora-verrucosa) were newly added.
 3 Feb. 2024 |  | Data of seven bivalves (Mercenaria-mercenaria, Pecten-maximus, Ylistrum-balloti, Mytilus-californianus, Saccostrea-echinata, Ostrea-edulis, and Crassostrea-angulata) were newly added.
