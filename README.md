@@ -413,6 +413,7 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
+11 Mar. 2024 |  | Data of an Echinoderm (Lytechinus-pictus) were newly added. Updated verions of two vertebrates (Homo sapiens and Gallus gallus) data were added.
 3 Mar. 2024 |  | New version data of C.elegans and D. melanogaster were newly added.
 29 Feb. 2024 |  | Data of three flowering plants (Phragmites-australis, Carica-papaya, and Raphanus-sativus) were newly added.
 14 Feb. 2024 |  | Data of seven eudicot plants (Eucalyptus grandis, Pistacia vera, Gossypium raimondii, Arabis alpina, Eutrema salsugineum, Brassica rapa, and  Arabidopsis lyrata) were newly added.
