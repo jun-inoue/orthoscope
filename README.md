@@ -413,6 +413,7 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
+1 May 2024 |  | Data of two tunicates (Halocynthia roretzi and H.aurantium) were newly added. 
 26 Mar. 2024 |  | Data of two sharks (Mobula-hypostoma and Hemiscyllium-ocellatum) were newly added. 
 11 Mar. 2024 |  | Data of an Echinoderm (Lytechinus-pictus) were newly added. Updated verions of two vertebrates (Homo sapiens and Gallus gallus) data were added.
 3 Mar. 2024 |  | New version data of C.elegans and D. melanogaster were newly added.
