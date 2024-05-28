@@ -1,0 +1,15 @@
+# Jiao et al (2011) Fig. S2
+Physcomitrella-patens_Black
+Selaginella-moellendorffii_Purple
+Picea-glauca_Orange
+Pinus-taeda_Orange
+Nuphar-advena_Blue
+Amborella-trichopoda_Blue
+Liriodendron-tulipifera_Blue
+Sorghum-bicolor_Green
+Oryza-sativa_Green
+Vitis-vinifera_Red
+Populus-trichocarpa_Red
+Cucumis-sativus_Red
+Carica-papaya_Red
+Arabidopsis-thaliana_Red

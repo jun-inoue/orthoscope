@@ -1,0 +1,300 @@
+BLASTP 2.7.1+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: 000_PEP_Botryllus-schlosseri_start_stop_transcripts30.fa.txt
+           30,910 sequences; 8,860,472 total letters
+
+
+
+Query= Homo-sapiens-RS2_YOURSEQ1_NP001353214.1_T-box-transcription
+
+Length=436
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  botctg002459g63408_NONE gene:botctg002459g63408 transcript:botc...  228     3e-74
+  botctg007226g53212_NONE gene:botctg007226g53212 transcript:botc...  168     3e-46
+  botctg005874g48703_NONE gene:botctg005874g48703 transcript:botc...  151     1e-41
+
+
+> botctg002459g63408_NONE gene:botctg002459g63408 transcript:botctg002459g63408 
+gene_biotype:protein_coding DBNLINE|27025|
+Length=155
+
+ Score = 228 bits (582),  Expect = 3e-74, Method: Compositional matrix adjust.
+ Identities = 107/146 (73%), Positives = 122/146 (84%), Gaps = 4/146 (3%)
+
+Query  62   MIVTKNGRRMFPVLKVNVSGLDPNAMYSFLLDFVAADNHRWKYVNGEWVPGGKPEPQAPS  121
+            MIVTK+GRRMFPVLKV  +GL+P +MYSF L F ++D HRWKYVNG+W+PGGKPEP  P 
+Sbjct  1    MIVTKSGRRMFPVLKVTATGLEPTSMYSFHLYFASSDLHRWKYVNGDWIPGGKPEPHTPP  60
+
+Query  122  CVYIHPDSPNFGAHWMKAPVSFSKVKLTNKLNGGG-QIMLNSLHKYEPRIHIVRVG---G  177
+            CVY+HPDSPNFGAHWMK PVSF+KVKLTNK NGG  QIMLNSLHKYEPRI +V+VG    
+Sbjct  61   CVYVHPDSPNFGAHWMKQPVSFNKVKLTNKGNGGSQQIMLNSLHKYEPRIQVVKVGVDSS  120
+
+Query  178  PQRMITSHCFPETQFIAVTAYQNEEI  203
+             QR I +  FPET+FIAVTAYQNEE+
+Sbjct  121  SQRTIATFSFPETKFIAVTAYQNEEV  146
+
+
+> botctg007226g53212_NONE gene:botctg007226g53212 transcript:botctg007226g53212 
+gene_biotype:protein_coding DBNLINE|22172|
+Length=604
+
+ Score = 168 bits (425),  Expect = 3e-46, Method: Compositional matrix adjust.
+ Identities = 81/156 (52%), Positives = 105/156 (67%), Gaps = 6/156 (4%)
+
+Query  71   MFPVLKVNVSGLDPNAMYSFLLDFVAADNHRWKYVNGEWVPGGKPEPQAPSCVYIHPDSP  130
+            MFP  KV V+ L+ NA Y  L+D VAAD+ R+K+ N  W+  GK +P+ P  +YIHPDSP
+Sbjct  1    MFPSXKVKVTXLNKNAKYIMLMDIVAADDCRYKFHNSRWMVAGKADPELPKRMYIHPDSP  60
+
+Query  131  NFGAHWMKAP-VSFSKVKLTNKL-NGGGQIMLNSLHKYEPRIHIVRVGGPQRM----ITS  184
+              G  WM  P VSF K+KLTN + +  G  +LNS+HKY+PR H+VR G   ++      +
+Sbjct  61   ATGEQWMNRPGVSFHKLKLTNNIADPHGHTILNSMHKYQPRFHVVRCGDLSKLPYCHFRT  120
+
+Query  185  HCFPETQFIAVTAYQNEEITALKIKYNPFAKAFLDA  220
+            + F E QFIAVTAYQNE+IT LKI +NPFAK F D+
+Sbjct  121  YVFKEMQFIAVTAYQNEKITQLKIDHNPFAKGFRDS  156
+
+
+> botctg005874g48703_NONE gene:botctg005874g48703 transcript:botctg005874g48703 
+gene_biotype:protein_coding DBNLINE|20153|
+Length=408
+
+ Score = 151 bits (382),  Expect = 1e-41, Method: Compositional matrix adjust.
+ Identities = 98/305 (32%), Positives = 147/305 (48%), Gaps = 39/305 (13%)
+
+Query  21   LSAVENELQAGSEKGDPTERELRVGLEESELWLRFKELTNEMIVTKNGRRMFPVLKVNVS  80
+            L A  +E  A  +     E  +R+ L +  LW +F  +  EM++ K GRR+FP  +V  S
+Sbjct  32   LRAAPDEAYARRDLAQCRESAVRITLCDQALWNQFNSIGTEMVLNKVGRRIFPSFRVTFS  91
+
+Query  81   GLDPNAMYSFLLDFVAADNHRWKYVNGEWVPGGKPEPQAPSCVYIHPDSPNFGAHWMKAP  140
+            GL+P A Y  ++D    D +R+K+ +G W+  G+ +      V++HP S + G   M   
+Sbjct  92   GLEPCARYKIMMDVERVDENRYKFQDGRWIVAGRADLPYHQQVFVHPLSSSTGEDIMNKI  151
+
+Query  141  VSFSKVKLTN---KLNGGGQIMLNSLHKYEPRIHIVRVGGPQRMITSHCFPETQFIAVTA  197
+            VSF KVKLTN   KL   G+ +L+SLH+Y+ R++I R    +  I S  F ET FI VTA
+Sbjct  152  VSFHKVKLTNSPLKLQ-NGKFLLHSLHRYQLRVYIARCDSLED-IFSFSFVETNFITVTA  209
+
+Query  198  YQNEEITALKIKYNPFAKAFLDAKERSDHKEMMEEPGDSQQPGYSQSGGWLLPGTSTLCP  257
+            YQN +++ LKI  NP++K FL    R   K+  +   +   PG  +S         T C 
+Sbjct  210  YQNSQLSQLKIATNPYSKGFLPGGTRRRVKQSRKHE-ECDLPGPKRS--------RTECT  260
+
+Query  258  PANPHPQFGGALSLPS-----------THSCDRYPTLRSHRSSPYPSPYAHRNNSPTYSD  306
+            P  P  +   A  + S             +CDR+                H+ N   Y++
+Sbjct  261  PIRPQRKQNDAQMMNSASAPISNIGHYVENCDRHQL--------------HQFNEVYYAN  306
+
+Query  307  NSPAC  311
+            + P C
+Sbjct  307  HIPGC  311
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.129    0.399    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1954728734
+
+
+Query= Ciona-intestinalis_YOURSEQ2_ENSCINT00000001477.3_brachyury-
+
+Length=439
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  botctg002459g63408_NONE gene:botctg002459g63408 transcript:botc...  222     9e-72
+  botctg005874g48703_NONE gene:botctg005874g48703 transcript:botc...  149     1e-40
+  botctg007226g53212_NONE gene:botctg007226g53212 transcript:botc...  144     7e-38
+
+
+> botctg002459g63408_NONE gene:botctg002459g63408 transcript:botctg002459g63408 
+gene_biotype:protein_coding DBNLINE|27025|
+Length=155
+
+ Score = 222 bits (566),  Expect = 9e-72, Method: Compositional matrix adjust.
+ Identities = 102/147 (69%), Positives = 121/147 (82%), Gaps = 1/147 (1%)
+
+Query  42   MIVTKNGRRMFPVLKTSITGLDPTAMYSVMLDFVPVDNNRWKYVNGEWIPGGKPEPHVSS  101
+            MIVTK+GRRMFPVLK + TGL+PT+MYS  L F   D +RWKYVNG+WIPGGKPEPH   
+Sbjct  1    MIVTKSGRRMFPVLKVTATGLEPTSMYSFHLYFASSDLHRWKYVNGDWIPGGKPEPHTPP  60
+
+Query  102  CAYIHPDSPNFGSHWMKQPVGFSRVKLTNKATGNPQQIMLNSLHKYEPRIHIMRVG-GAE  160
+            C Y+HPDSPNFG+HWMKQPV F++VKLTNK  G  QQIMLNSLHKYEPRI +++VG  + 
+Sbjct  61   CVYVHPDSPNFGAHWMKQPVSFNKVKLTNKGNGGSQQIMLNSLHKYEPRIQVVKVGVDSS  120
+
+Query  161  SQQVVASHSFQETRFIAVTAYQNEDVT  187
+            SQ+ +A+ SF ET+FIAVTAYQNE+V 
+Sbjct  121  SQRTIATFSFPETKFIAVTAYQNEEVC  147
+
+
+> botctg005874g48703_NONE gene:botctg005874g48703 transcript:botctg005874g48703 
+gene_biotype:protein_coding DBNLINE|20153|
+Length=408
+
+ Score = 149 bits (375),  Expect = 1e-40, Method: Compositional matrix adjust.
+ Identities = 73/187 (39%), Positives = 111/187 (59%), Gaps = 4/187 (2%)
+
+Query  21   AVKMALIEHGLWSRFHAFVNEMIVTKNGRRMFPVLKTSITGLDPTAMYSVMLDFVPVDNN  80
+            AV++ L +  LW++F++   EM++ K GRR+FP  + + +GL+P A Y +M+D   VD N
+Sbjct  52   AVRITLCDQALWNQFNSIGTEMVLNKVGRRIFPSFRVTFSGLEPCARYKIMMDVERVDEN  111
+
+Query  81   RWKYVNGEWIPGGKPEPHVSSCAYIHPDSPNFGSHWMKQPVGFSRVKLTNKATG-NPQQI  139
+            R+K+ +G WI  G+ +       ++HP S + G   M + V F +VKLTN        + 
+Sbjct  112  RYKFQDGRWIVAGRADLPYHQQVFVHPLSSSTGEDIMNKIVSFHKVKLTNSPLKLQNGKF  171
+
+Query  140  MLNSLHKYEPRIHIMRVGGAESQQVVASHSFQETRFIAVTAYQNEDVTSLKIKYNPFAKA  199
+            +L+SLH+Y+ R++I R    E    + S SF ET FI VTAYQN  ++ LKI  NP++K 
+Sbjct  172  LLHSLHRYQLRVYIARCDSLED---IFSFSFVETNFITVTAYQNSQLSQLKIATNPYSKG  228
+
+Query  200  FLDAKER  206
+            FL    R
+Sbjct  229  FLPGGTR  235
+
+
+> botctg007226g53212_NONE gene:botctg007226g53212 transcript:botctg007226g53212 
+gene_biotype:protein_coding DBNLINE|22172|
+Length=604
+
+ Score = 144 bits (364),  Expect = 7e-38, Method: Compositional matrix adjust.
+ Identities = 69/156 (44%), Positives = 95/156 (61%), Gaps = 3/156 (2%)
+
+Query  51   MFPVLKTSITGLDPTAMYSVMLDFVPVDNNRWKYVNGEWIPGGKPEPHVSSCAYIHPDSP  110
+            MFP  K  +T L+  A Y +++D V  D+ R+K+ N  W+  GK +P +    YIHPDSP
+Sbjct  1    MFPSXKVKVTXLNKNAKYIMLMDIVAADDCRYKFHNSRWMVAGKADPELPKRMYIHPDSP  60
+
+Query  111  NFGSHWMKQP-VGFSRVKLTNKATGNPQQIMLNSLHKYEPRIHIMRVGGAESQQVV--AS  167
+              G  WM +P V F ++KLTN         +LNS+HKY+PR H++R G           +
+Sbjct  61   ATGEQWMNRPGVSFHKLKLTNNIADPHGHTILNSMHKYQPRFHVVRCGDLSKLPYCHFRT  120
+
+Query  168  HSFQETRFIAVTAYQNEDVTSLKIKYNPFAKAFLDA  203
+            + F+E +FIAVTAYQNE +T LKI +NPFAK F D+
+Sbjct  121  YVFKEMQFIAVTAYQNEKITQLKIDHNPFAKGFRDS  156
+
+
+
+Lambda      K        H        a         alpha
+   0.314    0.129    0.393    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1972129880
+
+
+Query= Branchiostoma-floridae-RS2_YOURSEQ3_XP035687366.1_T-box-tra
+
+Length=440
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  botctg002459g63408_NONE gene:botctg002459g63408 transcript:botc...  236     3e-77
+  botctg005874g48703_NONE gene:botctg005874g48703 transcript:botc...  160     6e-45
+  botctg007226g53212_NONE gene:botctg007226g53212 transcript:botc...  162     3e-44
+
+
+> botctg002459g63408_NONE gene:botctg002459g63408 transcript:botctg002459g63408 
+gene_biotype:protein_coding DBNLINE|27025|
+Length=155
+
+ Score = 236 bits (603),  Expect = 3e-77, Method: Compositional matrix adjust.
+ Identities = 110/147 (75%), Positives = 126/147 (86%), Gaps = 1/147 (1%)
+
+Query  55   MIVTKSGRRMFPVLKVNVSGLDPNAMYSFLLDFTAADNHRWKYVNGEWVPGGKPEPSVPS  114
+            MIVTKSGRRMFPVLKV  +GL+P +MYSF L F ++D HRWKYVNG+W+PGGKPEP  P 
+Sbjct  1    MIVTKSGRRMFPVLKVTATGLEPTSMYSFHLYFASSDLHRWKYVNGDWIPGGKPEPHTPP  60
+
+Query  115  CVYIHPDSPNFGAHWMKSPVSFSKVKLTNKLNGGGQQIMLNSLHKYEPRIHIVKVG-GPD  173
+            CVY+HPDSPNFGAHWMK PVSF+KVKLTNK NGG QQIMLNSLHKYEPRI +VKVG    
+Sbjct  61   CVYVHPDSPNFGAHWMKQPVSFNKVKLTNKGNGGSQQIMLNSLHKYEPRIQVVKVGVDSS  120
+
+Query  174  NQRTLSTHTFAETQFIAVTAYQNEELT  200
+            +QRT++T +F ET+FIAVTAYQNEE+ 
+Sbjct  121  SQRTIATFSFPETKFIAVTAYQNEEVC  147
+
+
+> botctg005874g48703_NONE gene:botctg005874g48703 transcript:botctg005874g48703 
+gene_biotype:protein_coding DBNLINE|20153|
+Length=408
+
+ Score = 160 bits (405),  Expect = 6e-45, Method: Compositional matrix adjust.
+ Identities = 81/213 (38%), Positives = 122/213 (57%), Gaps = 8/213 (4%)
+
+Query  14   LSAVESEISAGSEKGDPTERDLKVTLGEKPLWEKFKSLTNEMIVTKSGRRMFPVLKVNVS  73
+            L A   E  A  +     E  +++TL ++ LW +F S+  EM++ K GRR+FP  +V  S
+Sbjct  32   LRAAPDEAYARRDLAQCRESAVRITLCDQALWNQFNSIGTEMVLNKVGRRIFPSFRVTFS  91
+
+Query  74   GLDPNAMYSFLLDFTAADNHRWKYVNGEWVPGGKPEPSVPSCVYIHPDSPNFGAHWMKSP  133
+            GL+P A Y  ++D    D +R+K+ +G W+  G+ +      V++HP S + G   M   
+Sbjct  92   GLEPCARYKIMMDVERVDENRYKFQDGRWIVAGRADLPYHQQVFVHPLSSSTGEDIMNKI  151
+
+Query  134  VSFSKVKLTN---KLNGGGQQIMLNSLHKYEPRIHIVKVGGPDNQRTLSTHTFAETQFIA  190
+            VSF KVKLTN   KL  G  + +L+SLH+Y+ R++I +    D+   + + +F ET FI 
+Sbjct  152  VSFHKVKLTNSPLKLQNG--KFLLHSLHRYQLRVYIARC---DSLEDIFSFSFVETNFIT  206
+
+Query  191  VTAYQNEELTALKIKHNPFAKAFLDAKERNDTK  223
+            VTAYQN +L+ LKI  NP++K FL    R   K
+Sbjct  207  VTAYQNSQLSQLKIATNPYSKGFLPGGTRRRVK  239
+
+
+> botctg007226g53212_NONE gene:botctg007226g53212 transcript:botctg007226g53212 
+gene_biotype:protein_coding DBNLINE|22172|
+Length=604
+
+ Score = 162 bits (411),  Expect = 3e-44, Method: Compositional matrix adjust.
+ Identities = 80/158 (51%), Positives = 102/158 (65%), Gaps = 7/158 (4%)
+
+Query  64   MFPVLKVNVSGLDPNAMYSFLLDFTAADNHRWKYVNGEWVPGGKPEPSVPSCVYIHPDSP  123
+            MFP  KV V+ L+ NA Y  L+D  AAD+ R+K+ N  W+  GK +P +P  +YIHPDSP
+Sbjct  1    MFPSXKVKVTXLNKNAKYIMLMDIVAADDCRYKFHNSRWMVAGKADPELPKRMYIHPDSP  60
+
+Query  124  NFGAHWMKSP-VSFSKVKLTNKLNGGGQQIMLNSLHKYEPRIHIVKVGGPDNQRT----L  178
+              G  WM  P VSF K+KLTN +       +LNS+HKY+PR H+V+ G  D  +      
+Sbjct  61   ATGEQWMNRPGVSFHKLKLTNNIADPHGHTILNSMHKYQPRFHVVRCG--DLSKLPYCHF  118
+
+Query  179  STHTFAETQFIAVTAYQNEELTALKIKHNPFAKAFLDA  216
+             T+ F E QFIAVTAYQNE++T LKI HNPFAK F D+
+Sbjct  119  RTYVFKEMQFIAVTAYQNEKITQLKIDHNPFAKGFRDS  156
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.129    0.404    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1977930262
+
+
+  Database: 000_PEP_Botryllus-schlosseri_start_stop_transcripts30.fa.txt
+    Posted date:  Dec 27, 2020  1:21 PM
+  Number of letters in database: 8,860,472
+  Number of sequences in database:  30,910
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

@@ -1,0 +1,350 @@
+BLASTP 2.7.1+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: 000_OnlyLongestPEP_Caenorhabditis_elegans.WBcel235.pep.all.fa
+           19,985 sequences; 8,169,893 total letters
+
+
+
+Query= Homo-sapiens-RS2_YOURSEQ1_NP001353214.1_T-box-transcription
+
+Length=436
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  F21H11.3.1_tbx-2-T-box-protein-2 F21H11.3.1 pep chromosome:WBce...  206     5e-62
+  H14A12.4.1_mls-1-T-box-transcription-factor-mls-1 H14A12.4.1 pe...  186     2e-56
+  T27A1.6.1_mab-9-T-box-protein-12 T27A1.6.1 pep chromosome:WBcel...  183     3e-54
+
+
+> F21H11.3.1_tbx-2-T-box-protein-2 F21H11.3.1 pep chromosome:WBcel235:III:5130923:5136296:-1 
+gene:WBGene00006543 transcript:F21H11.3.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+gene_symbol:tbx-2 description:T-box protein 2 
+[Source:NCBI gene;Acc:175698] DBNLINE|4443|
+Length=423
+
+ Score = 206 bits (523),  Expect = 5e-62, Method: Compositional matrix adjust.
+ Identities = 106/255 (42%), Positives = 152/255 (60%), Gaps = 24/255 (9%)
+
+Query  43   RVGLEESELWLRFKELTNEMIVTKNGRRMFPVLKVNVSGLDPNAMYSFLLDFVAADNHRW  102
+            +V L+E ELW +F +   EM++TK+GRR+FP  +V +SGLD  + Y  ++D V AD HR+
+Sbjct  62   KVELDERELWQQFSQCGTEMVITKSGRRIFPAYRVKISGLDKKSQYFVMMDLVPADEHRY  121
+
+Query  103  KYVNGEWVPGGKPEPQAPSCVYIHPDSPNFGAHWMKAPVSFSKVKLTNKL-NGGGQIMLN  161
+            K+ N  W+  GK +P+ P  +YIHPDSP+ G HWM    +F K+KLTN + +  G  +LN
+Sbjct  122  KFNNSRWMIAGKADPEMPKTLYIHPDSPSTGEHWMSKGANFHKLKLTNNISDKHGYTILN  181
+
+Query  162  SLHKYEPRIHIVRVGGPQRMITS----HCFPETQFIAVTAYQNEEITALKIKYNPFAKAF  217
+            S+HKY+PR+H+VR      ++ S      F ET+FIAVTAYQNE++T LKI+ NPFAK F
+Sbjct  182  SMHKYQPRLHVVRCADRHNLMYSTFRTFVFRETEFIAVTAYQNEKVTELKIENNPFAKGF  241
+
+Query  218  LD--AKERSDHKEMMEEPGDSQQPGYSQSGGWLLPGTSTLCPPANPHPQFGGALSLPSTH  275
+             D  A +R   +++    GD+ Q           PG +   P  +PHP          ++
+Sbjct  242  RDAGAGKREKKRQLHRMNGDATQSP---------PGKTASLPTHSPHPS--------ESN  284
+
+Query  276  SCDRYPTLRSHRSSP  290
+            S D  PTL+  +  P
+Sbjct  285  SEDDEPTLKKCKPEP  299
+
+
+> H14A12.4.1_mls-1-T-box-transcription-factor-mls-1 H14A12.4.1 
+pep chromosome:WBcel235:III:7460341:7461934:1 gene:WBGene00003376 
+transcript:H14A12.4.1 gene_biotype:protein_coding transcript_biotype:protein_coding 
+gene_symbol:mls-1 description:T-box 
+transcription factor mls-1 [Source:NCBI gene;Acc:186741] 
+DBNLINE|2066|
+Length=252
+
+ Score = 186 bits (472),  Expect = 2e-56, Method: Compositional matrix adjust.
+ Identities = 99/222 (45%), Positives = 135/222 (61%), Gaps = 6/222 (3%)
+
+Query  42   LRVGLEESELWLRFKELTNEMIVTKNGRRMFPVLKVNVSGLDPNAMYSFLLDFVAADNHR  101
+            +RV L+ S LW RF  L  EMIVTK+GRRMFP L V ++GLDP   Y  ++D    +  R
+Sbjct  31   IRVFLQSSNLWRRFHNLGTEMIVTKSGRRMFPTLSVIIAGLDPVKSYVVMVDLECIEMKR  90
+
+Query  102  WKYV--NGEWVPGGKPEPQAPSCVYIHPDSPNFGAHWMKAPVSFSKVKLT-NKLNGGGQI  158
+            ++Y     +W+  G  E + PS +++H DSP  GAHWM+APVSF K+KLT N+L+  G I
+Sbjct  91   FRYSFHQSKWISTGPGESELPSRMFVHTDSPARGAHWMRAPVSFDKMKLTNNQLDNNGHI  150
+
+Query  159  MLNSLHKYEPRIHIVRVGGPQRMITSHCFPETQFIAVTAYQNEEITALKIKYNPFAKAFL  218
+            ++NS+HKY PR+HI+     Q+  T   F ET+FIAVTAYQN  IT+LKI+ NPFAK F 
+Sbjct  151  IVNSMHKYRPRVHIIEQDDSQKRHT-FSFEETEFIAVTAYQNHRITSLKIESNPFAKGFR  209
+
+Query  219  DAKERSDHKEMMEEPGDSQQPGYSQSGGWLLPGTSTLCPPAN  260
+            + + +    EM    G +  P +      + P  + L    N
+Sbjct  210  ECEVQG--IEMNSVGGMTGGPAFQSVFPLIFPYFANLASNMN  249
+
+
+> T27A1.6.1_mab-9-T-box-protein-12 T27A1.6.1 pep chromosome:WBcel235:II:516024:521635:1 
+gene:WBGene00003106 transcript:T27A1.6.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+gene_symbol:mab-9 description:T-box protein 12 [Source:NCBI 
+gene;Acc:173441] DBNLINE|1966|
+Length=346
+
+ Score = 183 bits (464),  Expect = 3e-54, Method: Compositional matrix adjust.
+ Identities = 99/219 (45%), Positives = 135/219 (62%), Gaps = 15/219 (7%)
+
+Query  42   LRVGLEESELWLRFKELTNEMIVTKNGRRMFPVLKVNVSGLDPNAMYSFLLDFVAADNHR  101
+            +   LE SELW +F +L  EMI+TK+GRRMFP +KV+ + +  +A+Y   LD V  D+ R
+Sbjct  77   IECKLEGSELWAKFFDLGTEMIITKSGRRMFPTVKVSFTNVILDALYYIFLDVVPVDSKR  136
+
+Query  102  WKYVNGE--WVPGGKPEPQAPSCVYIHPDSPNFGAHWMKAPVSFSKVKLT-NKLNGGGQI  158
+            ++Y+  +  W+  GK EP   +  Y+HPDSP  G   +K  +SF K KLT N+++  G +
+Sbjct  137  YRYIYNKSAWLTAGKAEPVPKNRYYLHPDSPFTGDQLLKHVISFEKTKLTNNEVDKTGHL  196
+
+Query  159  MLNSLHKYEPRIHIVRVG-----GPQRMITS---HC---FPETQFIAVTAYQNEEITALK  207
+            +LNS+HKY+PRIHIV+        P +++ S   HC   FPETQF+AVTAYQN+ IT LK
+Sbjct  197  ILNSMHKYQPRIHIVQRQKANPLDPNKVVMSEEKHCTYTFPETQFMAVTAYQNQLITKLK  256
+
+Query  208  IKYNPFAKAFLDAKERSDHKEMMEEPGDSQQPGYSQSGG  246
+            I+ NPFAK F D   RS   EM   PGD     +  S  
+Sbjct  257  IEKNPFAKGFRDPTGRSPD-EMERSPGDMMLSNFYHSSA  294
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.129    0.399    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2086494386
+
+
+Query= Ciona-intestinalis_YOURSEQ2_ENSCINT00000001477.3_brachyury-
+
+Length=439
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  F21H11.3.1_tbx-2-T-box-protein-2 F21H11.3.1 pep chromosome:WBce...  182     4e-53
+  H14A12.4.1_mls-1-T-box-transcription-factor-mls-1 H14A12.4.1 pe...  174     6e-52
+  T27A1.6.1_mab-9-T-box-protein-12 T27A1.6.1 pep chromosome:WBcel...  166     1e-47
+
+
+> F21H11.3.1_tbx-2-T-box-protein-2 F21H11.3.1 pep chromosome:WBcel235:III:5130923:5136296:-1 
+gene:WBGene00006543 transcript:F21H11.3.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+gene_symbol:tbx-2 description:T-box protein 2 
+[Source:NCBI gene;Acc:175698] DBNLINE|4443|
+Length=423
+
+ Score = 182 bits (463),  Expect = 4e-53, Method: Compositional matrix adjust.
+ Identities = 85/183 (46%), Positives = 116/183 (63%), Gaps = 2/183 (1%)
+
+Query  23   KMALIEHGLWSRFHAFVNEMIVTKNGRRMFPVLKTSITGLDPTAMYSVMLDFVPVDNNRW  82
+            K+ L E  LW +F     EM++TK+GRR+FP  +  I+GLD  + Y VM+D VP D +R+
+Sbjct  62   KVELDERELWQQFSQCGTEMVITKSGRRIFPAYRVKISGLDKKSQYFVMMDLVPADEHRY  121
+
+Query  83   KYVNGEWIPGGKPEPHVSSCAYIHPDSPNFGSHWMKQPVGFSRVKLTNKATGNPQQIMLN  142
+            K+ N  W+  GK +P +    YIHPDSP+ G HWM +   F ++KLTN  +      +LN
+Sbjct  122  KFNNSRWMIAGKADPEMPKTLYIHPDSPSTGEHWMSKGANFHKLKLTNNISDKHGYTILN  181
+
+Query  143  SLHKYEPRIHIMRVGGAESQQ--VVASHSFQETRFIAVTAYQNEDVTSLKIKYNPFAKAF  200
+            S+HKY+PR+H++R     +       +  F+ET FIAVTAYQNE VT LKI+ NPFAK F
+Sbjct  182  SMHKYQPRLHVVRCADRHNLMYSTFRTFVFRETEFIAVTAYQNEKVTELKIENNPFAKGF  241
+
+Query  201  LDA  203
+             DA
+Sbjct  242  RDA  244
+
+
+> H14A12.4.1_mls-1-T-box-transcription-factor-mls-1 H14A12.4.1 
+pep chromosome:WBcel235:III:7460341:7461934:1 gene:WBGene00003376 
+transcript:H14A12.4.1 gene_biotype:protein_coding transcript_biotype:protein_coding 
+gene_symbol:mls-1 description:T-box 
+transcription factor mls-1 [Source:NCBI gene;Acc:186741] 
+DBNLINE|2066|
+Length=252
+
+ Score = 174 bits (442),  Expect = 6e-52, Method: Compositional matrix adjust.
+ Identities = 85/185 (46%), Positives = 116/185 (63%), Gaps = 5/185 (3%)
+
+Query  22   VKMALIEHGLWSRFHAFVNEMIVTKNGRRMFPVLKTSITGLDPTAMYSVMLDFVPVDNNR  81
+            +++ L    LW RFH    EMIVTK+GRRMFP L   I GLDP   Y VM+D   ++  R
+Sbjct  31   IRVFLQSSNLWRRFHNLGTEMIVTKSGRRMFPTLSVIIAGLDPVKSYVVMVDLECIEMKR  90
+
+Query  82   WKYV--NGEWIPGGKPEPHVSSCAYIHPDSPNFGSHWMKQPVGFSRVKLTNKATGNPQQI  139
+            ++Y     +WI  G  E  + S  ++H DSP  G+HWM+ PV F ++KLTN    N   I
+Sbjct  91   FRYSFHQSKWISTGPGESELPSRMFVHTDSPARGAHWMRAPVSFDKMKLTNNQLDNNGHI  150
+
+Query  140  MLNSLHKYEPRIHIMRVGGAESQQVVASHSFQETRFIAVTAYQNEDVTSLKIKYNPFAKA  199
+            ++NS+HKY PR+HI+    ++ +    + SF+ET FIAVTAYQN  +TSLKI+ NPFAK 
+Sbjct  151  IVNSMHKYRPRVHIIEQDDSQKRH---TFSFEETEFIAVTAYQNHRITSLKIESNPFAKG  207
+
+Query  200  FLDAK  204
+            F + +
+Sbjct  208  FRECE  212
+
+
+> T27A1.6.1_mab-9-T-box-protein-12 T27A1.6.1 pep chromosome:WBcel235:II:516024:521635:1 
+gene:WBGene00003106 transcript:T27A1.6.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+gene_symbol:mab-9 description:T-box protein 12 [Source:NCBI 
+gene;Acc:173441] DBNLINE|1966|
+Length=346
+
+ Score = 166 bits (420),  Expect = 1e-47, Method: Compositional matrix adjust.
+ Identities = 83/191 (43%), Positives = 117/191 (61%), Gaps = 11/191 (6%)
+
+Query  31   LWSRFHAFVNEMIVTKNGRRMFPVLKTSITGLDPTAMYSVMLDFVPVDNNRWKYV--NGE  88
+            LW++F     EMI+TK+GRRMFP +K S T +   A+Y + LD VPVD+ R++Y+     
+Sbjct  86   LWAKFFDLGTEMIITKSGRRMFPTVKVSFTNVILDALYYIFLDVVPVDSKRYRYIYNKSA  145
+
+Query  89   WIPGGKPEPHVSSCAYIHPDSPNFGSHWMKQPVGFSRVKLTNKATGNPQQIMLNSLHKYE  148
+            W+  GK EP   +  Y+HPDSP  G   +K  + F + KLTN        ++LNS+HKY+
+Sbjct  146  WLTAGKAEPVPKNRYYLHPDSPFTGDQLLKHVISFEKTKLTNNEVDKTGHLILNSMHKYQ  205
+
+Query  149  PRIHIMRVGGAE---------SQQVVASHSFQETRFIAVTAYQNEDVTSLKIKYNPFAKA  199
+            PRIHI++   A          S++   +++F ET+F+AVTAYQN+ +T LKI+ NPFAK 
+Sbjct  206  PRIHIVQRQKANPLDPNKVVMSEEKHCTYTFPETQFMAVTAYQNQLITKLKIEKNPFAKG  265
+
+Query  200  FLDAKERSGSE  210
+            F D   RS  E
+Sbjct  266  FRDPTGRSPDE  276
+
+
+
+Lambda      K        H        a         alpha
+   0.314    0.129    0.393    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2105068520
+
+
+Query= Branchiostoma-floridae-RS2_YOURSEQ3_XP035687366.1_T-box-tra
+
+Length=440
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  F21H11.3.1_tbx-2-T-box-protein-2 F21H11.3.1 pep chromosome:WBce...  201     4e-60
+  H14A12.4.1_mls-1-T-box-transcription-factor-mls-1 H14A12.4.1 pe...  179     7e-54
+  T27A1.6.1_mab-9-T-box-protein-12 T27A1.6.1 pep chromosome:WBcel...  164     6e-47
+
+
+> F21H11.3.1_tbx-2-T-box-protein-2 F21H11.3.1 pep chromosome:WBcel235:III:5130923:5136296:-1 
+gene:WBGene00006543 transcript:F21H11.3.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+gene_symbol:tbx-2 description:T-box protein 2 
+[Source:NCBI gene;Acc:175698] DBNLINE|4443|
+Length=423
+
+ Score = 201 bits (511),  Expect = 4e-60, Method: Compositional matrix adjust.
+ Identities = 92/192 (48%), Positives = 126/192 (66%), Gaps = 2/192 (1%)
+
+Query  27   KGDPTERDLKVTLGEKPLWEKFKSLTNEMIVTKSGRRMFPVLKVNVSGLDPNAMYSFLLD  86
+            + D    D KV L E+ LW++F     EM++TKSGRR+FP  +V +SGLD  + Y  ++D
+Sbjct  53   EDDGVTDDPKVELDERELWQQFSQCGTEMVITKSGRRIFPAYRVKISGLDKKSQYFVMMD  112
+
+Query  87   FTAADNHRWKYVNGEWVPGGKPEPSVPSCVYIHPDSPNFGAHWMKSPVSFSKVKLTNKLN  146
+               AD HR+K+ N  W+  GK +P +P  +YIHPDSP+ G HWM    +F K+KLTN ++
+Sbjct  113  LVPADEHRYKFNNSRWMIAGKADPEMPKTLYIHPDSPSTGEHWMSKGANFHKLKLTNNIS  172
+
+Query  147  GGGQQIMLNSLHKYEPRIHIVKVGGPDN--QRTLSTHTFAETQFIAVTAYQNEELTALKI  204
+                  +LNS+HKY+PR+H+V+     N    T  T  F ET+FIAVTAYQNE++T LKI
+Sbjct  173  DKHGYTILNSMHKYQPRLHVVRCADRHNLMYSTFRTFVFRETEFIAVTAYQNEKVTELKI  232
+
+Query  205  KHNPFAKAFLDA  216
+            ++NPFAK F DA
+Sbjct  233  ENNPFAKGFRDA  244
+
+
+> H14A12.4.1_mls-1-T-box-transcription-factor-mls-1 H14A12.4.1 
+pep chromosome:WBcel235:III:7460341:7461934:1 gene:WBGene00003376 
+transcript:H14A12.4.1 gene_biotype:protein_coding transcript_biotype:protein_coding 
+gene_symbol:mls-1 description:T-box 
+transcription factor mls-1 [Source:NCBI gene;Acc:186741] 
+DBNLINE|2066|
+Length=252
+
+ Score = 179 bits (455),  Expect = 7e-54, Method: Compositional matrix adjust.
+ Identities = 86/185 (46%), Positives = 121/185 (65%), Gaps = 5/185 (3%)
+
+Query  35   LKVTLGEKPLWEKFKSLTNEMIVTKSGRRMFPVLKVNVSGLDPNAMYSFLLDFTAADNHR  94
+            ++V L    LW +F +L  EMIVTKSGRRMFP L V ++GLDP   Y  ++D    +  R
+Sbjct  31   IRVFLQSSNLWRRFHNLGTEMIVTKSGRRMFPTLSVIIAGLDPVKSYVVMVDLECIEMKR  90
+
+Query  95   WKYV--NGEWVPGGKPEPSVPSCVYIHPDSPNFGAHWMKSPVSFSKVKLTNKLNGGGQQI  152
+            ++Y     +W+  G  E  +PS +++H DSP  GAHWM++PVSF K+KLTN        I
+Sbjct  91   FRYSFHQSKWISTGPGESELPSRMFVHTDSPARGAHWMRAPVSFDKMKLTNNQLDNNGHI  150
+
+Query  153  MLNSLHKYEPRIHIVKVGGPDNQRTLSTHTFAETQFIAVTAYQNEELTALKIKHNPFAKA  212
+            ++NS+HKY PR+HI++    D+ +   T +F ET+FIAVTAYQN  +T+LKI+ NPFAK 
+Sbjct  151  IVNSMHKYRPRVHIIE---QDDSQKRHTFSFEETEFIAVTAYQNHRITSLKIESNPFAKG  207
+
+Query  213  FLDAK  217
+            F + +
+Sbjct  208  FRECE  212
+
+
+> T27A1.6.1_mab-9-T-box-protein-12 T27A1.6.1 pep chromosome:WBcel235:II:516024:521635:1 
+gene:WBGene00003106 transcript:T27A1.6.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+gene_symbol:mab-9 description:T-box protein 12 [Source:NCBI 
+gene;Acc:173441] DBNLINE|1966|
+Length=346
+
+ Score = 164 bits (415),  Expect = 6e-47, Method: Compositional matrix adjust.
+ Identities = 86/192 (45%), Positives = 117/192 (61%), Gaps = 11/192 (6%)
+
+Query  35   LKVTLGEKPLWEKFKSLTNEMIVTKSGRRMFPVLKVNVSGLDPNAMYSFLLDFTAADNHR  94
+            ++  L    LW KF  L  EMI+TKSGRRMFP +KV+ + +  +A+Y   LD    D+ R
+Sbjct  77   IECKLEGSELWAKFFDLGTEMIITKSGRRMFPTVKVSFTNVILDALYYIFLDVVPVDSKR  136
+
+Query  95   WKYV--NGEWVPGGKPEPSVPSCVYIHPDSPNFGAHWMKSPVSFSKVKLTNKLNGGGQQI  152
+            ++Y+     W+  GK EP   +  Y+HPDSP  G   +K  +SF K KLTN        +
+Sbjct  137  YRYIYNKSAWLTAGKAEPVPKNRYYLHPDSPFTGDQLLKHVISFEKTKLTNNEVDKTGHL  196
+
+Query  153  MLNSLHKYEPRIHIVKVGGPD----NQRTLS-----THTFAETQFIAVTAYQNEELTALK  203
+            +LNS+HKY+PRIHIV+    +    N+  +S     T+TF ETQF+AVTAYQN+ +T LK
+Sbjct  197  ILNSMHKYQPRIHIVQRQKANPLDPNKVVMSEEKHCTYTFPETQFMAVTAYQNQLITKLK  256
+
+Query  204  IKHNPFAKAFLD  215
+            I+ NPFAK F D
+Sbjct  257  IEKNPFAKGFRD  268
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.129    0.404    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2098273620
+
+
+  Database: 000_OnlyLongestPEP_Caenorhabditis_elegans.WBcel235.pep.all.fa
+    Posted date:  Mar 3, 2024  6:47 AM
+  Number of letters in database: 8,169,893
+  Number of sequences in database:  19,985
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40
