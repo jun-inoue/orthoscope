@@ -1,50 +1,65 @@
 # ORTHOSCOPE
 
-
+<!-- 
 ---
 
-## Sites for analyses
-Mirror AORI - viento (fast)  
-[http://157.82.133.212/orthoscope/Deuterostomia.html](http://157.82.133.212/orthoscope/Deuterostomia.html)
+## NEWS
+Mirror viento has been accidentally stopped on 19 Jan 2024 morning. Please use Mirror Osaka until recovery of viento.
 
-Mirror AORI - yurai  
-[http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html)
+---
+-->
 
-<!-- Osaka   
+## Mirror sites for analyses
+viento (fast)  
+[https://orthoscope.jp/orthoscope/Deuterostomia.html](https://orthoscope.jp/orthoscope/Deuterostomia.html)
+
+<!-- 
+yurai  
+Under construction
+[http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html) 
+-->
+
+Osaka   
 [http://133.167.86.72/orthoscope/Deuterostomia.html](http://133.167.86.72/orthoscope/Deuterostomia.html)
 
+<!--
 OIST   
 [https://fish-evol.unit.oist.jp/orthoscope/Deuterostomia.html](https://fish-evol.unit.oist.jp/orthoscope/Deuterostomia.html)
--->
-   
+-->  
 
 ---
 
 ## Abstract   
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="60%">
+<td width="55%">
 <div align="left">
 ORTHOSCOPE (<a href="https://academic.oup.com/mbe/article/36/3/621/5229933" target="_blank">Inoue and Satoh 2019</a>) is a web tool to identify orthogroup members (orthologs and paralogs, see below) of a specific protein-coding gene of animals and plants. By uploading gene sequences of interest and by selecting species genomes from >600 animals/plants, users can infer their functions and copy numbers, according to results reported by ORTHOSCOPE in the form of gene trees.
 <br><br>
-By using sequences collected by the BLAST search, ORTHOSCOPE estimates the gene tree, compares it with the <a href="https://github.com/jun-inoue/Species_tree" target="_blank">species tree</a>, and identifies a orthogroup.
+By using sequences collected by the BLAST search, ORTHOSCOPE estimates the gene tree, compares it with the <a href="https://github.com/jun-inoue/Species_tree" target="_blank">species tree</a>, and identifies an orthogroup.
 <br><br>
 ORTHOSCOPE works only for a specific molecule and does not allow genome-scale analyses. Recently I developed the downloaded version, <a href="https://github.com/jun-inoue/ORTHOSCOPE_STAR" target="_blank">ORTHOSCOPE*</a> (star). This analytic pipeline accommodates genome-wide data of protein-coding genes and infers genome-scale events.
 </div>
 </td>
-<td width="40%">
+<td width="45%">
 <img src="images/abstract_fig3.jpg">
+</td>
+
+<tr valign="top">
+<td>
+<b>Japanese instruction (日本語の説明):</b><br>
+<a href="http://www.fish-evol.org/orthoscope_ji.html" target="_blank">http://www.fish-evol.org/orthoscope_ji.html</a><br>
+<b>Togo TV (日本語の動画):</b><br>
+<a href="https://togotv.dbcls.jp/20220815.html" target="_blank">https://togotv.dbcls.jp/20220815.html</a><br>
+</td>
+<td>
+<b>Genome wide analayses:</b><br>
+<a href="https://github.com/jun-inoue/ORTHOSCOPE_STAR" target="_blank">https://github.com/jun-inoue/ORTHOSCOPE_STAR</a><br>
+<b>non-coding analyses:</b><br>
+<a href="https://github.com/jun-inoue/dbCNS" target="_blank">https://github.com/jun-inoue/dbCNS</a><br>
 </td>
 </tr>
 </table>
-
-
-<b>Japanese instruction (日本語の説明1):</b>  
-[http://www.fish-evol.org/orthoscope_ji.html](http://www.fish-evol.org/orthoscope_ji.html).   
-<b>Genome wide analayses:</b>  
-[ORTHOSCOPE*](https://github.com/jun-inoue/ORTHOSCOPE_STAR).   
-<b>non-coding analyses:</b>  
-[dbCNS](http://yamasati.nig.ac.jp/dbcns/index.html).   
 
 
 ---
@@ -258,13 +273,14 @@ NJ analysis is conducted using the software package [Ape](https://cran.r-project
 ---
 ## Genome Taxon Sampling
 
-Feasibility of completion
+To reduce computational burden, "Number of species" is restricted.    
+For example, if a user selected "Number of hits to report per genome" as 3, "Number of species" should be less than 50 spp.
 
 Number of hits to report per genome | Number of species
 :---: | :---:
-3 | <50
-5 | <40 
-10 | <30 
+3 | <120
+5 | <70 
+10 | <50 
 
 <br />
 <br />  
@@ -397,6 +413,24 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
+1 May 2024 |  | Data of two tunicates (Halocynthia roretzi and H.aurantium) were newly added. 
+26 Mar. 2024 |  | Data of two sharks (Mobula-hypostoma and Hemiscyllium-ocellatum) were newly added. 
+11 Mar. 2024 |  | Data of an Echinoderm (Lytechinus-pictus) were newly added. Updated verions of two vertebrates (Homo sapiens and Gallus gallus) data were added.
+3 Mar. 2024 |  | New version data of C.elegans and D. melanogaster were newly added.
+29 Feb. 2024 |  | Data of three flowering plants (Phragmites-australis, Carica-papaya, and Raphanus-sativus) were newly added.
+14 Feb. 2024 |  | Data of seven eudicot plants (Eucalyptus grandis, Pistacia vera, Gossypium raimondii, Arabis alpina, Eutrema salsugineum, Brassica rapa, and  Arabidopsis lyrata) were newly added.
+9 Feb. 2024 |  | Data of five anthozoans (Dendronephthya-gigantea, Actinia-tenebrosa, Xenia-sp, Exaiptasia-diaphana, and Pocillopora-verrucosa) were newly added.
+3 Feb. 2024 |  | Data of seven bivalves (Mercenaria-mercenaria, Pecten-maximus, Ylistrum-balloti, Mytilus-californianus, Saccostrea-echinata, Ostrea-edulis, and Crassostrea-angulata) were newly added.
+1 Feb. 2024 |  | Data of seven teleosts (Coregonus clupeaformis, Salmo trutta, Salvelinus namaycush, Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, and Cololabis saira) were newly added.
+31 Jan. 2024 |  | Data of a perl oyster (Chromosome-scale, haplotype-phased genome assembly A and B) were newly added.
+28 Jan. 2024 |  | Data of a conger eel (Conger conger) and a confer (Cryptomeria japonica) were newly added.
+24 Aug. 2023 |  | Data of a rayfinned fish (Amia calva) were newly added.
+23 Apr. 2023 |  | Data of a coral (Pocillopora damicornis) were newly added.
+21 Jan. 2023 |  | Data of two ferns (Marsilea vestita and Ceratopteris richardii) were newly added.
+18 Dec. 2022 |  | Data of a skate (Pristis pectinata) were newly added.
+28 Aug. 2022 |  | Data of Maidenhair tree (Ginkgo biloba), two ferns (Azolla filiculoides and Salvinia cucullata), and gymnosperms (Ginkgo biloba, Cycas-micholitzii, Gnetum-montanum, Taxus-baccata, Pseudotsuga-menziesii, Picea-glauca, and Pinus sylvestris) were newly added.
+9 Aug. 2022 |  | Data of a hornworts (Anthoceros angustus), liverworts (Marchantia polymorpha, Male Tak1 and Male and femele) were newly added.
+9 Aug. 2022 |  | Data of a basal streptophyte alga (Penium-margaritaceum) were newly added.
 2 Jul. 2022 |  | Data of two plants (Leersia perrieri and Camelina sativa) were newly added.
 2 Jul. 2022 |  | Data of two sharks (C.plagiosum and S.fasciatum) and 5 plants (Brachypodium.distachyon, Hordeum.vulgare, Secale.cereale, Aegilops.tauschii, Triticum.spelta, and Actinidia.chinensis) were newly added.
 9 Jun. 2022 |  | Data of an sweet orange were newly added.
@@ -494,6 +528,15 @@ The chordate ancestor possessed a single copy of the Brachyury gene for notochor
 
 <br />
 <br />  
+
+---
+## Installation　　　
+If users install orthoscope on your own web server, download Source code from [Releases](https://github.com/jun-inoue/orthoscope/releases) and set up the server as follows:
+- save downloaded scripts_serverConstruction/html and cgi-bin directories in /var/www/.
+- install R and a package, [ape](https://github.com/emmanuelparadis/ape?tab=readme-ov-file).
+- save dowlonaded dependencies in the /cgi-bin/orthoscopeScripts directory (see cgi-bin/orthoscopeScripts/README.txt).   
+
+Those scripts were confirmed to run on the Linux operating system with an Apache HTTP Server Server.   
 
 ---
 ## Citation
