@@ -532,7 +532,7 @@ The chordate ancestor possessed a single copy of the Brachyury gene for notochor
 ---
 ## Installation　　　
 If users install orthoscope on your own web server, download Source code from [Releases](https://github.com/jun-inoue/orthoscope/releases) and set up the server as follows:
-- save downloaded html and cgi-bin directories in /var/www/.
+- save downloaded scripts_serverConstruction/html and cgi-bin directories in /var/www/.
 - install R and a package, [ape](https://github.com/emmanuelparadis/ape?tab=readme-ov-file).
 - save dowlonaded dependencies in the /cgi-bin/orthoscopeScripts directory (see cgi-bin/orthoscopeScripts/README.txt).   
 
