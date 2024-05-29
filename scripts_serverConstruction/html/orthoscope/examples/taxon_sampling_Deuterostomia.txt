@@ -1,8 +1,0 @@
-Bombyx-mori_Black
-Saccoglossus-kowalevskii_Green
-Acanthaster-planci_Purple
-Branchiostoma-belcheri-RS2_Orange
-Ciona-intestinalis_Orange
-Gallus-gallus-E104_Blue
-Heterocephalus-glaber_Red
-Homo-sapiens-E102_Blue

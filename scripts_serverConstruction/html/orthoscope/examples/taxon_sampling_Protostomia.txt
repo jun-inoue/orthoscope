@@ -1,8 +1,0 @@
-Nematostella-vectensis_Black
-Branchiostoma-belcheri_Black
-Lingula-anatina_Green
-Octopus-bimaculoides_Purple
-Caenorhabditis-elegans_Orange
-Limulus-polyphemus_Magenta
-Bombyx-mori_Red
-Drosophila-melanogaster-1_Blue
