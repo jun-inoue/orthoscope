@@ -1,0 +1,11 @@
+Branchiostoma-floridae_Black
+Ciona-intestinalis_Black
+Petromyzon-marinus_Green
+Lepisosteus-oculatus_Purple
+Latimeria-chalumnae_Orange
+Xenopus-tropicalis_Orange
+Gallus-gallus-E102_Magenta
+Heterocephalus-glaber_Red
+Mus-musculus_Blue
+Homo-sapiens-E102_Blue
+

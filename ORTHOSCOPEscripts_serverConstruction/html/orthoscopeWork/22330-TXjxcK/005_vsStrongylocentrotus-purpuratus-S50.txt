@@ -1,0 +1,346 @@
+BLASTP 2.7.1+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: 000_OnlyLongestPEP_Strongylocentrotus-purpuratus-
+Spur50_GCF_000002235.5_Spur_5.0_rna.gbff.txt
+           27,434 sequences; 15,849,376 total letters
+
+
+
+Query= Homo-sapiens-RS2_YOURSEQ1_NP001353214.1_T-box-transcription
+
+Length=436
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  XP030850404.1_T-box-transcription-factor-T-homolog-isoform- XP0...  394     8e-134
+  XP797010.4_T-box-transcription-factor-TBX3-isoform-X1 XP797010....  211     1e-61 
+  XP011662833.1_T-box-transcription-factor-TBX1-isoform-X1 XP0116...  200     4e-58 
+
+
+> XP030850404.1_T-box-transcription-factor-T-homolog-isoform- XP030850404.1 
+gene:576774 transcript:XP030850404.1 description:T-box-transcription-factor-T-homolog-isoform-X1 
+ DBNLINE|17064|
+Length=504
+
+ Score = 394 bits (1012),  Expect = 8e-134, Method: Compositional matrix adjust.
+ Identities = 221/433 (51%), Positives = 277/433 (64%), Gaps = 31/433 (7%)
+
+Query  15   YRVDHLLSAVENELQAGSEKGDPTERELRVGLEESELWLRFKELTNEMIVTKNGRRMFPV  74
+            Y V HLL+AV++E+  GSEKGDP+E+ L+V L++ ELW +F +LTNEMIVTK+GRRMFPV
+Sbjct  14   YNVSHLLNAVQSEMNRGSEKGDPSEKGLKVRLDDVELWKKFHKLTNEMIVTKSGRRMFPV  73
+
+Query  75   LKVNVSGLDPNAMYSFLLDFVAADNHRWKYVNGEWVPGGKPEPQAPSCVYIHPDSPNFGA  134
+            L  +++GLDPN+MYS LLDF AAD+HRWKYVNGEW+PGGKP+   P+  YIHPDSPNFGA
+Sbjct  74   LSASIAGLDPNSMYSVLLDFSAADDHRWKYVNGEWIPGGKPDGSPPTTAYIHPDSPNFGA  133
+
+Query  135  HWMKAPVSFSKVKLTNKLNGGGQIMLNSLHKYEPRIHIVRVGG--PQRMITSHCFPETQF  192
+            HWMK  V+FSKVKL+NKLNG GQ+MLNSLHKYEPRIHI+RVGG   QR++ S+ F ET+F
+Sbjct  134  HWMKQAVNFSKVKLSNKLNGSGQVMLNSLHKYEPRIHIIRVGGREKQRLVGSYSFTETRF  193
+
+Query  193  IAVTAYQNEEITALKIKYNPFAKAFLDAKE-RSDHKEMMEEPGDSQQPGYSQSGGWLLPG  251
+            IAVTAYQNE+IT LKIKYNPFAKAFLD K+ R+D  ++ ++  D Q   Y Q GGW LPG
+Sbjct  194  IAVTAYQNEDITQLKIKYNPFAKAFLDIKDNRNDGHDLFDDVHDFQGSKYPQFGGWFLPG  253
+
+Query  252  TSTLCPPANPHPQFGGALSLPSTHSCDRYPTLRSHRSSPYPSPYAHRNNSPTYSDNSPAC  311
+            +    P  +PH QF  ++ LPS   CDRY  LR HR+SPYP P  H+  S   +      
+Sbjct  254  SGAFGP--SPH-QFAPSIGLPSHAGCDRYGGLRGHRTSPYPPPPYHQKYSAAGAGYGAEA  310
+
+Query  312  LSMLQSH------DNWSSLGMPAHPSMLPVSHNASPPTSSSQYPSLWSVSNGAVTPGSQA  365
+             + L S       D+WSSL           +  AS   + SQY S+W  S  A +     
+Sbjct  311  SAGLSSSISLLAADSWSSLAN--------STSAASSMPACSQYGSMWP-STAATSGFPHV  361
+
+Query  366  AAVSNGLGAQFFRG------SPAHYTPLTHPVSAPSSSGSPLYEGAAAATDIVDSQYDAA  419
+            ++  + L    FR        P H    T    AP +SG P    +AA T    S+  A 
+Sbjct  362  SSPQSPLPTGLFRNPHPTSSHPQHNLASTAHGMAPVTSGLP----SAAVTTANSSEAHAL  417
+
+Query  420  AQGRLIASWTPVS  432
+             Q  +     P+S
+Sbjct  418  GQSVMAPISVPIS  430
+
+
+> XP797010.4_T-box-transcription-factor-TBX3-isoform-X1 XP797010.4 
+gene:592389 transcript:XP797010.4 description:T-box-transcription-factor-TBX3-isoform-X1 
+ DBNLINE|24335|
+Length=616
+
+ Score = 211 bits (536),  Expect = 1e-61, Method: Compositional matrix adjust.
+ Identities = 109/221 (49%), Positives = 140/221 (63%), Gaps = 21/221 (10%)
+
+Query  36   DPTERELRVGLEESELWLRFKELTNEMIVTKNGRRMFPVLKVNVSGLDPNAMYSFLLDFV  95
+            +P  ++++V LE  ELW +F E+  EMI+TK GRRMFP  + +++GL+ NA Y  L+D V
+Sbjct  98   NPATKDIKVTLEGRELWTKFHEIGTEMIITKAGRRMFPTFRCSITGLEQNAKYILLMDIV  157
+
+Query  96   AADNHRWKYVNGEWVPGGKPEPQAPSCVYIHPDSPNFGAHWMKAPVSFSKVKLT-NKLNG  154
+              D+ R+KY N EWV  GK EP  PS +YIHPDSP  GA WMK  V+F K+KLT N L+ 
+Sbjct  158  PVDDTRYKYHNSEWVVSGKAEPHMPSRLYIHPDSPATGAVWMKQVVTFHKLKLTNNNLDQ  217
+
+Query  155  GGQ----IMLNSLHKYEPRIHIVRVGGPQRM----ITSHCFPETQFIAVTAYQNEEITAL  206
+             G     I+LNS+HKY+PR HIV+      +      +  FPET FIAVTAYQNE+IT L
+Sbjct  218  HGHVSSIIILNSMHKYQPRFHIVQANDVFSLRWNSFVTFAFPETTFIAVTAYQNEKITQL  277
+
+Query  207  KIKYNPFAKAFLD----------AKERSDHK--EMMEEPGD  235
+            KI +NPFAK F D          A +RS+ K  E+ EE  D
+Sbjct  278  KIDHNPFAKGFRDNGMARRGSRLALKRSNSKMDELDEEKKD  318
+
+
+> XP011662833.1_T-box-transcription-factor-TBX1-isoform-X1 XP011662833.1 
+gene:585491 transcript:XP011662833.1 description:T-box-transcription-factor-TBX1-isoform-X1 
+ DBNLINE|21412|
+Length=579
+
+ Score = 200 bits (508),  Expect = 4e-58, Method: Compositional matrix adjust.
+ Identities = 101/216 (47%), Positives = 132/216 (61%), Gaps = 17/216 (8%)
+
+Query  22   SAVENELQAGSEKGDPTEREL-------RVGLEESELWLRFKELTNEMIVTKNGRRMFPV  74
+            S+ E E+QA  ++ +  E+ +        V LE   LW  F  L  EMIVTK GRRMFP 
+Sbjct  151  SSGEQEMQALKKRREADEKPMSAKVAGVEVRLEMKALWDEFHSLGTEMIVTKAGRRMFPT  210
+
+Query  75   LKVNVSGLDPNAMYSFLLDFVAADNHRWKYV--NGEWVPGGKPEPQAPSCVYIHPDSPNF  132
+             +V +SG+DP A Y  ++DFV  D+ R++Y   +  W+  GK +P+ P  +++HPDSP  
+Sbjct  211  FQVKISGMDPMAEYILMMDFVPVDDKRYRYAFHSSSWLVAGKADPEMPGRIHVHPDSPAR  270
+
+Query  133  GAHWMKAPVSFSKVKLTNK-LNGGGQIMLNSLHKYEPRIHIVRVGG-------PQRMITS  184
+            GA WMK  VSF K+KLTN  L+  G I+LNS+H+Y+PR H+V V G       P+R    
+Sbjct  271  GAMWMKQIVSFDKLKLTNNLLDDNGHIILNSMHRYQPRFHVVHVSGRKDFENAPERDFKC  330
+
+Query  185  HCFPETQFIAVTAYQNEEITALKIKYNPFAKAFLDA  220
+              FPETQF AVTAYQN  IT LKI  NPFAK F + 
+Sbjct  331  FIFPETQFTAVTAYQNHRITQLKIASNPFAKGFREC  366
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.129    0.399    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4292674786
+
+
+Query= Ciona-intestinalis_YOURSEQ2_ENSCINT00000001477.3_brachyury-
+
+Length=439
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  XP030850404.1_T-box-transcription-factor-T-homolog-isoform- XP0...  285     3e-91
+  XP797010.4_T-box-transcription-factor-TBX3-isoform-X1 XP797010....  196     4e-56
+  XP791266.2_optomotor-blind-protein XP791266.2 gene:586389 trans...  193     7e-54
+
+
+> XP030850404.1_T-box-transcription-factor-T-homolog-isoform- XP030850404.1 
+gene:576774 transcript:XP030850404.1 description:T-box-transcription-factor-T-homolog-isoform-X1 
+ DBNLINE|17064|
+Length=504
+
+ Score = 285 bits (729),  Expect = 3e-91, Method: Compositional matrix adjust.
+ Identities = 133/196 (68%), Positives = 157/196 (80%), Gaps = 2/196 (1%)
+
+Query  21   AVKMALIEHGLWSRFHAFVNEMIVTKNGRRMFPVLKTSITGLDPTAMYSVMLDFVPVDNN  80
+             +K+ L +  LW +FH   NEMIVTK+GRRMFPVL  SI GLDP +MYSV+LDF   D++
+Sbjct  40   GLKVRLDDVELWKKFHKLTNEMIVTKSGRRMFPVLSASIAGLDPNSMYSVLLDFSAADDH  99
+
+Query  81   RWKYVNGEWIPGGKPEPHVSSCAYIHPDSPNFGSHWMKQPVGFSRVKLTNKATGNPQQIM  140
+            RWKYVNGEWIPGGKP+    + AYIHPDSPNFG+HWMKQ V FS+VKL+NK  G+  Q+M
+Sbjct  100  RWKYVNGEWIPGGKPDGSPPTTAYIHPDSPNFGAHWMKQAVNFSKVKLSNKLNGS-GQVM  158
+
+Query  141  LNSLHKYEPRIHIMRVGGAESQQVVASHSFQETRFIAVTAYQNEDVTSLKIKYNPFAKAF  200
+            LNSLHKYEPRIHI+RVGG E Q++V S+SF ETRFIAVTAYQNED+T LKIKYNPFAKAF
+Sbjct  159  LNSLHKYEPRIHIIRVGGREKQRLVGSYSFTETRFIAVTAYQNEDITQLKIKYNPFAKAF  218
+
+Query  201  LDAKE-RSGSENYFKD  215
+            LD K+ R+   + F D
+Sbjct  219  LDIKDNRNDGHDLFDD  234
+
+
+> XP797010.4_T-box-transcription-factor-TBX3-isoform-X1 XP797010.4 
+gene:592389 transcript:XP797010.4 description:T-box-transcription-factor-TBX3-isoform-X1 
+ DBNLINE|24335|
+Length=616
+
+ Score = 196 bits (497),  Expect = 4e-56, Method: Compositional matrix adjust.
+ Identities = 102/211 (48%), Positives = 132/211 (63%), Gaps = 7/211 (3%)
+
+Query  13   SSESIETCAVKMALIEHGLWSRFHAFVNEMIVTKNGRRMFPVLKTSITGLDPTAMYSVML  72
+            S+++  T  +K+ L    LW++FH    EMI+TK GRRMFP  + SITGL+  A Y +++
+Sbjct  95   SAQNPATKDIKVTLEGRELWTKFHEIGTEMIITKAGRRMFPTFRCSITGLEQNAKYILLM  154
+
+Query  73   DFVPVDNNRWKYVNGEWIPGGKPEPHVSSCAYIHPDSPNFGSHWMKQPVGFSRVKLTNKA  132
+            D VPVD+ R+KY N EW+  GK EPH+ S  YIHPDSP  G+ WMKQ V F ++KLTN  
+Sbjct  155  DIVPVDDTRYKYHNSEWVVSGKAEPHMPSRLYIHPDSPATGAVWMKQVVTFHKLKLTNNN  214
+
+Query  133  TGNPQQ----IMLNSLHKYEPRIHIMRVGGAESQQ--VVASHSFQETRFIAVTAYQNEDV  186
+                      I+LNS+HKY+PR HI++     S +     + +F ET FIAVTAYQNE +
+Sbjct  215  LDQHGHVSSIIILNSMHKYQPRFHIVQANDVFSLRWNSFVTFAFPETTFIAVTAYQNEKI  274
+
+Query  187  TSLKIKYNPFAKAFLD-AKERSGSENYFKDS  216
+            T LKI +NPFAK F D    R GS    K S
+Sbjct  275  TQLKIDHNPFAKGFRDNGMARRGSRLALKRS  305
+
+
+> XP791266.2_optomotor-blind-protein XP791266.2 gene:586389 transcript:XP791266.2 
+description:optomotor-blind-protein  DBNLINE|21785|
+Length=948
+
+ Score = 193 bits (491),  Expect = 7e-54, Method: Compositional matrix adjust.
+ Identities = 92/179 (51%), Positives = 122/179 (68%), Gaps = 6/179 (3%)
+
+Query  26   LIEHGLWSRFHAFVNEMIVTKNGRRMFPVLKTSITGLDPTAMYSVMLDFVPVDNNRWKYV  85
+            L    LW +FH    EMI+TK GRRMFP L   +TGL+PT+ Y+V +D V  D N+WK+ 
+Sbjct  374  LCNRDLWRKFHQHKTEMIITKQGRRMFPQLVFKLTGLNPTSQYNVFVDMVLCDPNQWKFQ  433
+
+Query  86   NGEWIPGGKPE--PHVSSCAYIHPDSPNFGSHWMKQPVGFSRVKLTNKATGNPQQIMLNS  143
+             G+WIP G+ E  P VS+  Y+HPDSP+ G HWM Q + FS++KLTN    +   ++LNS
+Sbjct  434  CGKWIPCGQAENIPKVSN-IYLHPDSPSNGLHWMHQDIVFSKLKLTNHRAKDNGFVILNS  492
+
+Query  144  LHKYEPRIHIMRVGGAESQQVVASHSFQETRFIAVTAYQNEDVTSLKIKYNPFAKAFLD  202
+            +H+Y+PRIH++ +  + S   + +HSF ET+F  VTAYQN DVT LKI YNPFAK F D
+Sbjct  493  MHQYQPRIHVLELSESRS---IQTHSFPETQFFGVTAYQNTDVTQLKIDYNPFAKGFRD  548
+
+
+
+Lambda      K        H        a         alpha
+   0.314    0.129    0.393    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4331581204
+
+
+Query= Branchiostoma-floridae-RS2_YOURSEQ3_XP035687366.1_T-box-tra
+
+Length=440
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  XP030850404.1_T-box-transcription-factor-T-homolog-isoform- XP0...  409     1e-139
+  XP797010.4_T-box-transcription-factor-TBX3-isoform-X1 XP797010....  207     3e-60 
+  XP011678443.1_T-box-2-3-protein-isoform-X1 XP011678443.1 gene:5...  200     2e-57 
+
+
+> XP030850404.1_T-box-transcription-factor-T-homolog-isoform- XP030850404.1 
+gene:576774 transcript:XP030850404.1 description:T-box-transcription-factor-T-homolog-isoform-X1 
+ DBNLINE|17064|
+Length=504
+
+ Score = 409 bits (1051),  Expect = 1e-139, Method: Compositional matrix adjust.
+ Identities = 208/348 (60%), Positives = 261/348 (75%), Gaps = 22/348 (6%)
+
+Query  8    FSVSHLLSAVESEISAGSEKGDPTERDLKVTLGEKPLWEKFKSLTNEMIVTKSGRRMFPV  67
+            ++VSHLL+AV+SE++ GSEKGDP+E+ LKV L +  LW+KF  LTNEMIVTKSGRRMFPV
+Sbjct  14   YNVSHLLNAVQSEMNRGSEKGDPSEKGLKVRLDDVELWKKFHKLTNEMIVTKSGRRMFPV  73
+
+Query  68   LKVNVSGLDPNAMYSFLLDFTAADNHRWKYVNGEWVPGGKPEPSVPSCVYIHPDSPNFGA  127
+            L  +++GLDPN+MYS LLDF+AAD+HRWKYVNGEW+PGGKP+ S P+  YIHPDSPNFGA
+Sbjct  74   LSASIAGLDPNSMYSVLLDFSAADDHRWKYVNGEWIPGGKPDGSPPTTAYIHPDSPNFGA  133
+
+Query  128  HWMKSPVSFSKVKLTNKLNGGGQQIMLNSLHKYEPRIHIVKVGGPDNQRTLSTHTFAETQ  187
+            HWMK  V+FSKVKL+NKLNG G Q+MLNSLHKYEPRIHI++VGG + QR + +++F ET+
+Sbjct  134  HWMKQAVNFSKVKLSNKLNGSG-QVMLNSLHKYEPRIHIIRVGGREKQRLVGSYSFTETR  192
+
+Query  188  FIAVTAYQNEELTALKIKHNPFAKAFLDAKE-RNDTKSGHDDLTD-QQPQFSQLGGWFLP  245
+            FIAVTAYQNE++T LKIK+NPFAKAFLD K+ RND     DD+ D Q  ++ Q GGWFLP
+Sbjct  193  FIAVTAYQNEDITQLKIKYNPFAKAFLDIKDNRNDGHDLFDDVHDFQGSKYPQFGGWFLP  252
+
+Query  246  GTGPICPPPNPHQFAPSLGLPSH-GCDRYSTLRNHRSAPYPHP--YQRSSPPTNYGHDT-  301
+            G+G     P+PHQFAPS+GLPSH GCDRY  LR HR++PYP P  +Q+ S          
+Sbjct  253  GSGAFG--PSPHQFAPSIGLPSHAGCDRYGGLRGHRTSPYPPPPYHQKYSAAGAGYGAEA  310
+
+Query  302  ----AASLPMMPTHDNWSGLPVSTHNMLSMSAMPHTTTSTHAQYPNLW  345
+                ++S+ ++   D+WS L  ST    SM A         +QY ++W
+Sbjct  311  SAGLSSSISLLAA-DSWSSLANSTSAASSMPAC--------SQYGSMW  349
+
+
+> XP797010.4_T-box-transcription-factor-TBX3-isoform-X1 XP797010.4 
+gene:592389 transcript:XP797010.4 description:T-box-transcription-factor-TBX3-isoform-X1 
+ DBNLINE|24335|
+Length=616
+
+ Score = 207 bits (526),  Expect = 3e-60, Method: Compositional matrix adjust.
+ Identities = 102/193 (53%), Positives = 130/193 (67%), Gaps = 6/193 (3%)
+
+Query  29   DPTERDLKVTLGEKPLWEKFKSLTNEMIVTKSGRRMFPVLKVNVSGLDPNAMYSFLLDFT  88
+            +P  +D+KVTL  + LW KF  +  EMI+TK+GRRMFP  + +++GL+ NA Y  L+D  
+Sbjct  98   NPATKDIKVTLEGRELWTKFHEIGTEMIITKAGRRMFPTFRCSITGLEQNAKYILLMDIV  157
+
+Query  89   AADNHRWKYVNGEWVPGGKPEPSVPSCVYIHPDSPNFGAHWMKSPVSFSKVKLT-NKLNG  147
+              D+ R+KY N EWV  GK EP +PS +YIHPDSP  GA WMK  V+F K+KLT N L+ 
+Sbjct  158  PVDDTRYKYHNSEWVVSGKAEPHMPSRLYIHPDSPATGAVWMKQVVTFHKLKLTNNNLDQ  217
+
+Query  148  GGQQ---IMLNSLHKYEPRIHIVKVGGPDNQR--TLSTHTFAETQFIAVTAYQNEELTAL  202
+             G     I+LNS+HKY+PR HIV+     + R  +  T  F ET FIAVTAYQNE++T L
+Sbjct  218  HGHVSSIIILNSMHKYQPRFHIVQANDVFSLRWNSFVTFAFPETTFIAVTAYQNEKITQL  277
+
+Query  203  KIKHNPFAKAFLD  215
+            KI HNPFAK F D
+Sbjct  278  KIDHNPFAKGFRD  290
+
+
+> XP011678443.1_T-box-2-3-protein-isoform-X1 XP011678443.1 gene:575938 
+transcript:XP011678443.1 description:T-box-2-3-protein-isoform-X1 
+ DBNLINE|16609|
+Length=658
+
+ Score = 200 bits (508),  Expect = 2e-57, Method: Compositional matrix adjust.
+ Identities = 99/186 (53%), Positives = 122/186 (66%), Gaps = 6/186 (3%)
+
+Query  34   DLKVTLGEKPLWEKFKSLTNEMIVTKSGRRMFPVLKVNVSGLDPNAMYSFLLDFTAADNH  93
+            D +VTL  K LWEKF     EM++TKSGRRMFP  KV VSGLD  A Y  L+D  AAD+ 
+Sbjct  96   DPQVTLESKELWEKFHKRGTEMVITKSGRRMFPSFKVRVSGLDKKAKYILLMDIVAADDC  155
+
+Query  94   RWKYVNGEWVPGGKPEPSVPSCVYIHPDSPNFGAHWMKSPVSFSKVKLTNKLNGGGQQIM  153
+            R+K+ N  W+  GK +P +P  +YIHPDSP+ G  WM+  VSF K+KLTN ++      +
+Sbjct  156  RYKFHNSRWMVAGKADPEMPKRMYIHPDSPSTGEQWMQKCVSFHKLKLTNNISDKHGFTI  215
+
+Query  154  LNSLHKYEPRIHIVKVGG----PDNQRTLSTHTFAETQFIAVTAYQNEELTALKIKHNPF  209
+            LNS+HKY+PR HIVK       P +Q    T  F ET FI VTAYQNE++T LKI +NPF
+Sbjct  216  LNSMHKYQPRFHIVKANDILKLPWSQ--FRTFVFVETVFIGVTAYQNEKITQLKIDYNPF  273
+
+Query  210  AKAFLD  215
+            AK F D
+Sbjct  274  AKGFRD  279
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.129    0.404    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4344550010
+
+
+  Database: 000_OnlyLongestPEP_Strongylocentrotus-purpuratus-
+Spur50_GCF_000002235.5_Spur_5.0_rna.gbff.txt
+    Posted date:  Mar 11, 2024  9:06 PM
+  Number of letters in database: 15,849,376
+  Number of sequences in database:  27,434
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

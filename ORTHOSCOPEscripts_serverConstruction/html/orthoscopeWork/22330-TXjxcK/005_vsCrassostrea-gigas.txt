@@ -1,0 +1,375 @@
+BLASTP 2.7.1+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: 000_OnlyLongestPEP_Crassostrea_gigas.oyster_v9.pep.all.fa
+           26,089 sequences; 11,669,853 total letters
+
+
+
+Query= Homo-sapiens-RS2_YOURSEQ1_NP001353214.1_T-box-transcription
+
+Length=436
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  EKC28765_Brachyury-protein EKC28765 pep supercontig:oyster_v9:s...  390     3e-133
+  EKC20476_T-box-transcription-factor-TBX2 EKC20476 pep supercont...  228     1e-69 
+  EKC26469_T-box-transcription-factor-TBX2 EKC26469 pep supercont...  200     1e-61 
+
+
+> EKC28765_Brachyury-protein EKC28765 pep supercontig:oyster_v9:scaffold1255:81662:93486:1 
+gene:CGI_10018059 transcript:EKC28765 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:Brachyury protein  [Source:UniProtKB/TrEMBL;Acc:K1QIN9] 
+DBNLINE|22268|
+Length=441
+
+ Score = 390 bits (1002),  Expect = 3e-133, Method: Compositional matrix adjust.
+ Identities = 228/448 (51%), Positives = 289/448 (65%), Gaps = 56/448 (13%)
+
+Query  7    ESAGKSLQYRVDHLLSAVENELQAGSEKGDPTERELRVGLEESELWLRFKELTNEMIVTK  66
+            +S  KS Q  V HLLSAV++E+  GSEKGDPTER+L+V LE+ ELW +FKE TNEMIVTK
+Sbjct  28   KSEMKSTQLNVSHLLSAVDSEMTVGSEKGDPTERQLKVNLEDKELWGKFKEFTNEMIVTK  87
+
+Query  67   NGR--------RMFPVLKVNVSGLDPNAMYSFLLDFVAADNHRWKYVNGEWVPGGKPEPQ  118
+            NGR        RMFPV KV++SGLDPN+MY+ LLDFV  D HRWKYVNG+WV GGK EP 
+Sbjct  88   NGRQVFIRGRRRMFPVFKVSISGLDPNSMYTLLLDFVQVDTHRWKYVNGDWVAGGKAEPA  147
+
+Query  119  APSCVYIHPDSPNFGAHWMKAPVSFSKVKLTNKLNGGGQIMLNSLHKYEPRIHIVRVGG-  177
+            AP+CVYIHPDSPNFGAHWMK  VSFSKVKLTNKLNGGGQIMLNSLHKYEPR+H+V+VG  
+Sbjct  148  APNCVYIHPDSPNFGAHWMKETVSFSKVKLTNKLNGGGQIMLNSLHKYEPRLHLVKVGAN  207
+
+Query  178  -PQRMITSHCFPETQFIAVTAYQNEEITALKIKYNPFAKAFLDAKERSDHKEMMEEPGDS  236
+              ++ I+S  FPETQFIAVTAYQNEEITALKIK+NPFAKAFLDAKER D +++ ++  D+
+Sbjct  208  SQKKRISSFSFPETQFIAVTAYQNEEITALKIKHNPFAKAFLDAKERPDGRDLGDDGLDN  267
+
+Query  237  QQPGYSQ-SGGWLL-PGTSTLCPPANPHPQFGGALSLPSTHSCDRYPTLRSHRSSPYPSP  294
+            QQ   S  +  W + PG   L PP  P  QF  AL+L S H CDR  +LR          
+Sbjct  268  QQRSLSHLASTWYIPPGGHALVPP--PAHQFPNALNLSSPH-CDRL-SLR----------  313
+
+Query  295  YAHRNNSPTYSDNSPACLSMLQSHDNWSSLGMPAHPSMLPVSHNASPPTSSSQYPSLWSV  354
+                  +  +S +  + + ML   DNW +   P +P ML     ++ P   SQY S+W  
+Sbjct  314  ------NAGFSRDVTSNIPMLNIPDNWMT---PTNPGML----QSNTPAPQSQY-SMWMG  359
+
+Query  355  SNGAVTPGSQAAAVSNGLGAQFFRGSPAHYTPLTHPVSAPSSSGSPLYEGAAAATDIVDS  414
+            ++    P +Q  A+        +  SP  Y P T   ++ SS  +      AA++    S
+Sbjct  360  NHMGNIPTNQNCAMP-------YLRSPNPY-PFTSSNTSISSVPNVTVSNPAASSSFDTS  411
+
+Query  415  QYDAA-----AQGRLI---ASWTPVSPP  434
+            ++++      A  R +   ++W+P++PP
+Sbjct  412  KFESCDISSFAPNRDVLRTSAWSPLTPP  439
+
+
+> EKC20476_T-box-transcription-factor-TBX2 EKC20476 pep supercontig:oyster_v9:scaffold41998:90606:99007:-1 
+gene:CGI_10005914 
+transcript:EKC20476 gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:T-box transcription factor 
+TBX2  [Source:UniProtKB/TrEMBL;Acc:K1QG03] DBNLINE|18023|
+Length=503
+
+ Score = 228 bits (582),  Expect = 1e-69, Method: Compositional matrix adjust.
+ Identities = 110/221 (50%), Positives = 145/221 (66%), Gaps = 6/221 (3%)
+
+Query  20   LLSAVENELQAGSEKGDPTERELRVGLEESELWLRFKELTNEMIVTKNGRRMFPVLKVNV  79
+            L S  +++   G  +GD  ++ +++ LE  +LW +F  +  EMI+TK GRRMFP LKVN+
+Sbjct  55   LSSHSDHKRMLGPAQGDTMDKNIKITLENRDLWSKFHSIGTEMIITKTGRRMFPTLKVNL  114
+
+Query  80   SGLDPNAMYSFLLDFVAADNHRWKYVNGEWVPGGKPEPQAPSCVYIHPDSPNFGAHWMKA  139
+             GLDP++ Y  L+D V  D+ R+KY N EWV  GK EP  P  +YIHPDSP  G+HWMK 
+Sbjct  115  EGLDPHSKYILLIDIVPVDDCRYKYHNSEWVVTGKAEPHMPGRLYIHPDSPASGSHWMKQ  174
+
+Query  140  PVSFSKVKLT-NKLNGGGQIMLNSLHKYEPRIHIVRVGGPQRM----ITSHCFPETQFIA  194
+            P+SF K+KLT N L+  G I+LNS+HKY+PR+H+V+      M      ++ F ET FIA
+Sbjct  175  PMSFHKLKLTNNNLDQNGHIILNSMHKYQPRVHVVQANDIFTMRWNSFNTYAFEETVFIA  234
+
+Query  195  VTAYQNEEITALKIKYNPFAKAFLD-AKERSDHKEMMEEPG  234
+            VTAYQNE+IT LKI  NPFAK F D    R DH+  M+ P 
+Sbjct  235  VTAYQNEQITQLKIDNNPFAKGFRDNGMGRRDHRLSMKRPA  275
+
+
+> EKC26469_T-box-transcription-factor-TBX2 EKC26469 pep supercontig:oyster_v9:scaffold1574:257630:269496:1 
+gene:CGI_10016325 
+transcript:EKC26469 gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:T-box transcription factor 
+TBX2  [Source:UniProtKB/TrEMBL;Acc:K1Q595] DBNLINE|1621|
+Length=258
+
+ Score = 200 bits (509),  Expect = 1e-61, Method: Compositional matrix adjust.
+ Identities = 95/183 (52%), Positives = 123/183 (67%), Gaps = 5/183 (3%)
+
+Query  43   RVGLEESELWLRFKELTNEMIVTKNGRRMFPVLKVNVSGLDPNAMYSFLLDFVAADNHRW  102
+            +V +E  ELW +F  L  EM++TK+GRRMFP  KV VSGLD  A Y  L+D VA D+ R+
+Sbjct  12   KVEIESKELWEQFHNLGTEMVITKSGRRMFPPYKVRVSGLDKRAKYILLMDIVAVDDCRY  71
+
+Query  103  KYVNGEWVPGGKPEPQAPSCVYIHPDSPNFGAHWMKAPVSFSKVKLTNKL-NGGGQIMLN  161
+            K+ N  W+  GK +P+ P  +YIHPDSP+ G  WM+  VSF K+KLTN + +  G  +LN
+Sbjct  72   KFHNSRWMVAGKADPEMPKRMYIHPDSPSTGEQWMQKVVSFHKLKLTNNISDKHGYTILN  131
+
+Query  162  SLHKYEPRIHIVRVGG----PQRMITSHCFPETQFIAVTAYQNEEITALKIKYNPFAKAF  217
+            S+HKY+PR H+VR       P     ++ F ET+FIAVTAYQNE+IT LKI  NPFAK F
+Sbjct  132  SMHKYQPRFHLVRANDILKLPYSAFRTYVFKETEFIAVTAYQNEKITQLKIDNNPFAKGF  191
+
+Query  218  LDA  220
+             D+
+Sbjct  192  RDS  194
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.129    0.399    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 3008930850
+
+
+Query= Ciona-intestinalis_YOURSEQ2_ENSCINT00000001477.3_brachyury-
+
+Length=439
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  EKC28765_Brachyury-protein EKC28765 pep supercontig:oyster_v9:s...  269     7e-86
+  EKC20476_T-box-transcription-factor-TBX2 EKC20476 pep supercont...  208     6e-62
+  EKC26469_T-box-transcription-factor-TBX2 EKC26469 pep supercont...  178     4e-53
+
+
+> EKC28765_Brachyury-protein EKC28765 pep supercontig:oyster_v9:scaffold1255:81662:93486:1 
+gene:CGI_10018059 transcript:EKC28765 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:Brachyury protein  [Source:UniProtKB/TrEMBL;Acc:K1QIN9] 
+DBNLINE|22268|
+Length=441
+
+ Score = 269 bits (687),  Expect = 7e-86, Method: Compositional matrix adjust.
+ Identities = 127/218 (58%), Positives = 158/218 (72%), Gaps = 9/218 (4%)
+
+Query  22   VKMALIEHGLWSRFHAFVNEMIVTKNGR--------RMFPVLKTSITGLDPTAMYSVMLD  73
+            +K+ L +  LW +F  F NEMIVTKNGR        RMFPV K SI+GLDP +MY+++LD
+Sbjct  63   LKVNLEDKELWGKFKEFTNEMIVTKNGRQVFIRGRRRMFPVFKVSISGLDPNSMYTLLLD  122
+
+Query  74   FVPVDNNRWKYVNGEWIPGGKPEPHVSSCAYIHPDSPNFGSHWMKQPVGFSRVKLTNKAT  133
+            FV VD +RWKYVNG+W+ GGK EP   +C YIHPDSPNFG+HWMK+ V FS+VKLTNK  
+Sbjct  123  FVQVDTHRWKYVNGDWVAGGKAEPAAPNCVYIHPDSPNFGAHWMKETVSFSKVKLTNKLN  182
+
+Query  134  GNPQQIMLNSLHKYEPRIHIMRVGGAESQQVVASHSFQETRFIAVTAYQNEDVTSLKIKY  193
+            G   QIMLNSLHKYEPR+H+++VG    ++ ++S SF ET+FIAVTAYQNE++T+LKIK+
+Sbjct  183  GG-GQIMLNSLHKYEPRLHLVKVGANSQKKRISSFSFPETQFIAVTAYQNEEITALKIKH  241
+
+Query  194  NPFAKAFLDAKERSGSENYFKDSTKAGSSQNYSRANTW  231
+            NPFAKAFLDAKER    +   D            A+TW
+Sbjct  242  NPFAKAFLDAKERPDGRDLGDDGLDNQQRSLSHLASTW  279
+
+
+> EKC20476_T-box-transcription-factor-TBX2 EKC20476 pep supercontig:oyster_v9:scaffold41998:90606:99007:-1 
+gene:CGI_10005914 
+transcript:EKC20476 gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:T-box transcription factor 
+TBX2  [Source:UniProtKB/TrEMBL;Acc:K1QG03] DBNLINE|18023|
+Length=503
+
+ Score = 208 bits (530),  Expect = 6e-62, Method: Compositional matrix adjust.
+ Identities = 95/183 (52%), Positives = 127/183 (69%), Gaps = 2/183 (1%)
+
+Query  22   VKMALIEHGLWSRFHAFVNEMIVTKNGRRMFPVLKTSITGLDPTAMYSVMLDFVPVDNNR  81
+            +K+ L    LWS+FH+   EMI+TK GRRMFP LK ++ GLDP + Y +++D VPVD+ R
+Sbjct  77   IKITLENRDLWSKFHSIGTEMIITKTGRRMFPTLKVNLEGLDPHSKYILLIDIVPVDDCR  136
+
+Query  82   WKYVNGEWIPGGKPEPHVSSCAYIHPDSPNFGSHWMKQPVGFSRVKLTNKATGNPQQIML  141
+            +KY N EW+  GK EPH+    YIHPDSP  GSHWMKQP+ F ++KLTN        I+L
+Sbjct  137  YKYHNSEWVVTGKAEPHMPGRLYIHPDSPASGSHWMKQPMSFHKLKLTNNNLDQNGHIIL  196
+
+Query  142  NSLHKYEPRIHIMRVGGAESQQ--VVASHSFQETRFIAVTAYQNEDVTSLKIKYNPFAKA  199
+            NS+HKY+PR+H+++     + +     +++F+ET FIAVTAYQNE +T LKI  NPFAK 
+Sbjct  197  NSMHKYQPRVHVVQANDIFTMRWNSFNTYAFEETVFIAVTAYQNEQITQLKIDNNPFAKG  256
+
+Query  200  FLD  202
+            F D
+Sbjct  257  FRD  259
+
+
+> EKC26469_T-box-transcription-factor-TBX2 EKC26469 pep supercontig:oyster_v9:scaffold1574:257630:269496:1 
+gene:CGI_10016325 
+transcript:EKC26469 gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:T-box transcription factor 
+TBX2  [Source:UniProtKB/TrEMBL;Acc:K1Q595] DBNLINE|1621|
+Length=258
+
+ Score = 178 bits (451),  Expect = 4e-53, Method: Compositional matrix adjust.
+ Identities = 83/183 (45%), Positives = 116/183 (63%), Gaps = 2/183 (1%)
+
+Query  23   KMALIEHGLWSRFHAFVNEMIVTKNGRRMFPVLKTSITGLDPTAMYSVMLDFVPVDNNRW  82
+            K+ +    LW +FH    EM++TK+GRRMFP  K  ++GLD  A Y +++D V VD+ R+
+Sbjct  12   KVEIESKELWEQFHNLGTEMVITKSGRRMFPPYKVRVSGLDKRAKYILLMDIVAVDDCRY  71
+
+Query  83   KYVNGEWIPGGKPEPHVSSCAYIHPDSPNFGSHWMKQPVGFSRVKLTNKATGNPQQIMLN  142
+            K+ N  W+  GK +P +    YIHPDSP+ G  WM++ V F ++KLTN  +      +LN
+Sbjct  72   KFHNSRWMVAGKADPEMPKRMYIHPDSPSTGEQWMQKVVSFHKLKLTNNISDKHGYTILN  131
+
+Query  143  SLHKYEPRIHIMRVGGAESQQVVA--SHSFQETRFIAVTAYQNEDVTSLKIKYNPFAKAF  200
+            S+HKY+PR H++R          A  ++ F+ET FIAVTAYQNE +T LKI  NPFAK F
+Sbjct  132  SMHKYQPRFHLVRANDILKLPYSAFRTYVFKETEFIAVTAYQNEKITQLKIDNNPFAKGF  191
+
+Query  201  LDA  203
+             D+
+Sbjct  192  RDS  194
+
+
+
+Lambda      K        H        a         alpha
+   0.314    0.129    0.393    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 3035957175
+
+
+Query= Branchiostoma-floridae-RS2_YOURSEQ3_XP035687366.1_T-box-tra
+
+Length=440
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  EKC28765_Brachyury-protein EKC28765 pep supercontig:oyster_v9:s...  391     2e-133
+  EKC20476_T-box-transcription-factor-TBX2 EKC20476 pep supercont...  223     2e-67 
+  EKC26469_T-box-transcription-factor-TBX2 EKC26469 pep supercont...  198     5e-61 
+
+
+> EKC28765_Brachyury-protein EKC28765 pep supercontig:oyster_v9:scaffold1255:81662:93486:1 
+gene:CGI_10018059 transcript:EKC28765 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:Brachyury protein  [Source:UniProtKB/TrEMBL;Acc:K1QIN9] 
+DBNLINE|22268|
+Length=441
+
+ Score = 391 bits (1004),  Expect = 2e-133, Method: Compositional matrix adjust.
+ Identities = 229/450 (51%), Positives = 279/450 (62%), Gaps = 53/450 (12%)
+
+Query  1    MKQTPDQFSVSHLLSAVESEISAGSEKGDPTERDLKVTLGEKPLWEKFKSLTNEMIVTKS  60
+            MK T  Q +VSHLLSAV+SE++ GSEKGDPTER LKV L +K LW KFK  TNEMIVTK+
+Sbjct  31   MKST--QLNVSHLLSAVDSEMTVGSEKGDPTERQLKVNLEDKELWGKFKEFTNEMIVTKN  88
+
+Query  61   GR--------RMFPVLKVNVSGLDPNAMYSFLLDFTAADNHRWKYVNGEWVPGGKPEPSV  112
+            GR        RMFPV KV++SGLDPN+MY+ LLDF   D HRWKYVNG+WV GGK EP+ 
+Sbjct  89   GRQVFIRGRRRMFPVFKVSISGLDPNSMYTLLLDFVQVDTHRWKYVNGDWVAGGKAEPAA  148
+
+Query  113  PSCVYIHPDSPNFGAHWMKSPVSFSKVKLTNKLNGGGQQIMLNSLHKYEPRIHIVKVGGP  172
+            P+CVYIHPDSPNFGAHWMK  VSFSKVKLTNKLNGGG QIMLNSLHKYEPR+H+VKVG  
+Sbjct  149  PNCVYIHPDSPNFGAHWMKETVSFSKVKLTNKLNGGG-QIMLNSLHKYEPRLHLVKVGAN  207
+
+Query  173  DNQRTLSTHTFAETQFIAVTAYQNEELTALKIKHNPFAKAFLDAKERNDTKS-GHDDLTD  231
+              ++ +S+ +F ETQFIAVTAYQNEE+TALKIKHNPFAKAFLDAKER D +  G D L +
+Sbjct  208  SQKKRISSFSFPETQFIAVTAYQNEEITALKIKHNPFAKAFLDAKERPDGRDLGDDGLDN  267
+
+Query  232  QQPQFSQLGG-WFLPGTGPICPPPNPHQFAPSLGLPSHGCDRYSTLRNHRSAPYPHPYQR  290
+            QQ   S L   W++P  G    PP  HQF  +L L S  CDR S LRN            
+Sbjct  268  QQRSLSHLASTWYIPPGGHALVPPPAHQFPNALNLSSPHCDRLS-LRN------------  314
+
+Query  291  SSPPTNYGHDTAASLPMMPTHDNWSGLPVSTHNMLSMSAMPHTTTSTHAQYPNLWSVSNN  350
+                  +  D  +++PM+   DNW  +  +   ML        T +  +QY ++W  ++ 
+Sbjct  315  ----AGFSRDVTSNIPMLNIPDNW--MTPTNPGMLQ-----SNTPAPQSQY-SMWMGNHM  362
+
+Query  351  NLTPTTHAQTHMSGTMGTGLPHQFLRTTAPAPYHSIPT--CTVPTTASSSPVYHDSHEVS  408
+               PT              +P  +LR+  P P+ S  T   +VP    S+P    S + S
+Sbjct  363  GNIPTNQ---------NCAMP--YLRSPNPYPFTSSNTSISSVPNVTVSNPAASSSFDTS  411
+
+Query  409  STDSGYGHSTTPPAPQTRITSNNWSPMTMP  438
+              +S    S  P     R ++  WSP+T P
+Sbjct  412  KFESCDISSFAPNRDVLRTSA--WSPLTPP  439
+
+
+> EKC20476_T-box-transcription-factor-TBX2 EKC20476 pep supercontig:oyster_v9:scaffold41998:90606:99007:-1 
+gene:CGI_10005914 
+transcript:EKC20476 gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:T-box transcription factor 
+TBX2  [Source:UniProtKB/TrEMBL;Acc:K1QG03] DBNLINE|18023|
+Length=503
+
+ Score = 223 bits (567),  Expect = 2e-67, Method: Compositional matrix adjust.
+ Identities = 103/194 (53%), Positives = 136/194 (70%), Gaps = 2/194 (1%)
+
+Query  24   GSEKGDPTERDLKVTLGEKPLWEKFKSLTNEMIVTKSGRRMFPVLKVNVSGLDPNAMYSF  83
+            G  +GD  ++++K+TL  + LW KF S+  EMI+TK+GRRMFP LKVN+ GLDP++ Y  
+Sbjct  66   GPAQGDTMDKNIKITLENRDLWSKFHSIGTEMIITKTGRRMFPTLKVNLEGLDPHSKYIL  125
+
+Query  84   LLDFTAADNHRWKYVNGEWVPGGKPEPSVPSCVYIHPDSPNFGAHWMKSPVSFSKVKLTN  143
+            L+D    D+ R+KY N EWV  GK EP +P  +YIHPDSP  G+HWMK P+SF K+KLTN
+Sbjct  126  LIDIVPVDDCRYKYHNSEWVVTGKAEPHMPGRLYIHPDSPASGSHWMKQPMSFHKLKLTN  185
+
+Query  144  KLNGGGQQIMLNSLHKYEPRIHIVKVGGPDNQR--TLSTHTFAETQFIAVTAYQNEELTA  201
+                    I+LNS+HKY+PR+H+V+       R  + +T+ F ET FIAVTAYQNE++T 
+Sbjct  186  NNLDQNGHIILNSMHKYQPRVHVVQANDIFTMRWNSFNTYAFEETVFIAVTAYQNEQITQ  245
+
+Query  202  LKIKHNPFAKAFLD  215
+            LKI +NPFAK F D
+Sbjct  246  LKIDNNPFAKGFRD  259
+
+
+> EKC26469_T-box-transcription-factor-TBX2 EKC26469 pep supercontig:oyster_v9:scaffold1574:257630:269496:1 
+gene:CGI_10016325 
+transcript:EKC26469 gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:T-box transcription factor 
+TBX2  [Source:UniProtKB/TrEMBL;Acc:K1Q595] DBNLINE|1621|
+Length=258
+
+ Score = 198 bits (504),  Expect = 5e-61, Method: Compositional matrix adjust.
+ Identities = 94/185 (51%), Positives = 123/185 (66%), Gaps = 2/185 (1%)
+
+Query  34   DLKVTLGEKPLWEKFKSLTNEMIVTKSGRRMFPVLKVNVSGLDPNAMYSFLLDFTAADNH  93
+            D KV +  K LWE+F +L  EM++TKSGRRMFP  KV VSGLD  A Y  L+D  A D+ 
+Sbjct  10   DPKVEIESKELWEQFHNLGTEMVITKSGRRMFPPYKVRVSGLDKRAKYILLMDIVAVDDC  69
+
+Query  94   RWKYVNGEWVPGGKPEPSVPSCVYIHPDSPNFGAHWMKSPVSFSKVKLTNKLNGGGQQIM  153
+            R+K+ N  W+  GK +P +P  +YIHPDSP+ G  WM+  VSF K+KLTN ++      +
+Sbjct  70   RYKFHNSRWMVAGKADPEMPKRMYIHPDSPSTGEQWMQKVVSFHKLKLTNNISDKHGYTI  129
+
+Query  154  LNSLHKYEPRIHIVKVGGPDN--QRTLSTHTFAETQFIAVTAYQNEELTALKIKHNPFAK  211
+            LNS+HKY+PR H+V+             T+ F ET+FIAVTAYQNE++T LKI +NPFAK
+Sbjct  130  LNSMHKYQPRFHLVRANDILKLPYSAFRTYVFKETEFIAVTAYQNEKITQLKIDNNPFAK  189
+
+Query  212  AFLDA  216
+             F D+
+Sbjct  190  GFRDS  194
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.129    0.404    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 3044965950
+
+
+  Database: 000_OnlyLongestPEP_Crassostrea_gigas.oyster_v9.pep.all.fa
+    Posted date:  Dec 27, 2020  1:19 PM
+  Number of letters in database: 11,669,853
+  Number of sequences in database:  26,089
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40
