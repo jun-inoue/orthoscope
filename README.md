@@ -407,6 +407,7 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
+2 Oct. 2024 |  | Version 1.5.5 is released.
 24 July 2024 |  | Updated data of an appendicularian (Oikopleura-dioica-OKI2018) were newly added. 
 4 July 2024 |  | Updated data of a tunicate (Ciona instestinalis KY21) were newly added. 
 6 June 2024 | Version 1.5.3 | Released. The Downloading gene modes mode was newly constructed.
