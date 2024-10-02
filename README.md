@@ -10,16 +10,14 @@ Mirror viento has been accidentally stopped on 19 Jan 2024 morning. Please use M
 -->
 
 ## Mirror sites for analyses
-yurai (fast)   
+yurai (fastest)   
 [http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html)   
 
 viento (fast)  
 [https://orthoscope.jp/orthoscope/Deuterostomia.html](https://orthoscope.jp/orthoscope/Deuterostomia.html)   
 
-<!--
 Osaka   
 [http://133.167.86.72/orthoscope/Deuterostomia.html](http://133.167.86.72/orthoscope/Deuterostomia.html)
--->  
 
 ---
 
