@@ -405,6 +405,7 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
+26 Dec. 2024 |  | Version 1.5.6 is under construction. trimal1.5 will be used to cope with * in amino acid sequence (e.g. Homo-sapiens-RS2_NP036380.2).
 2 Oct. 2024 |  | Version 1.5.5 is released.
 24 July 2024 |  | Updated data of an appendicularian (Oikopleura-dioica-OKI2018) were newly added. 
 4 July 2024 |  | Updated data of a tunicate (Ciona instestinalis KY21) were newly added. 
