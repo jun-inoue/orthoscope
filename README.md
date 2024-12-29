@@ -255,7 +255,7 @@ Rearrangement BS value threshold
 
 Node name in rearranged gene tree 
 
-![Node_name_in_rearranged_gene_tree](Node_name_in_rearranged_gene_tree.jpg)
+![Node_name_in_rearranged_gene_tree](images/Node_name_in_rearranged_gene_tree.jpg)
 
 Gene description in gene tree leaf
 
