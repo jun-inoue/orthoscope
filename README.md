@@ -401,7 +401,7 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
-XX Dec. 2024 |  | Version 1.5.6b will show detailed node lavels in rearranged trees.
+XX Dec. 2024 |  | Version 1.5.6b will (1) show detailed node lavels in rearranged trees (2) on/off gene description.
 28 Dec. 2024 |  | Version 1.5.6 is released. trimal1.5 is used to handle stop codons (*) in amino acid sequence (e.g. Homo-sapiens-RS2_NP036380.2).
 2 Oct. 2024 |  | Version 1.5.5 is released.
 24 July 2024 |  | Updated data of an appendicularian (Oikopleura-dioica-OKI2018) were newly added. 
