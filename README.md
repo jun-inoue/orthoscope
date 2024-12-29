@@ -1,31 +1,19 @@
 # ORTHOSCOPE
 
 <!-- 
----
-
 ## NEWS
 Mirror viento has been accidentally stopped on 19 Jan 2024 morning. Please use Mirror Osaka until recovery of viento.
-
----
 -->
 
 ## Mirror sites for analyses
-viento (fast)  
-[https://orthoscope.jp/orthoscope/Deuterostomia.html](https://orthoscope.jp/orthoscope/Deuterostomia.html)
+yurai (fastest)   
+[http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html)   
 
-<!-- 
-yurai  
-Under construction
-[http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html) 
--->
+viento (mediam)  
+[https://orthoscope.jp/orthoscope/Deuterostomia.html](https://orthoscope.jp/orthoscope/Deuterostomia.html)   
 
-Osaka   
+Osaka (slow)   
 [http://133.167.86.72/orthoscope/Deuterostomia.html](http://133.167.86.72/orthoscope/Deuterostomia.html)
-
-<!--
-OIST   
-[https://fish-evol.unit.oist.jp/orthoscope/Deuterostomia.html](https://fish-evol.unit.oist.jp/orthoscope/Deuterostomia.html)
--->  
 
 ---
 
@@ -265,6 +253,14 @@ Rearrangement BS value threshold
 
 ![branch rearrangement](images/rearrangeBS.jpg)
 
+Node name in rearranged gene tree 
+
+![Node_name_in_rearranged_gene_tree](Node_name_in_rearranged_gene_tree.jpg)
+
+Gene description in gene tree leaf
+
+![branch rearrangement](images/rearrangeBS.jpg)
+
 NJ analysis is conducted using the software package [Ape](https://cran.r-project.org/web/packages/ape/ape.pdf) in R (coding) and [FastME](http://www.atgc-montpellier.fr/fastme/) (amino acid). Rearrangement analysis is done using a method implemented in [NOTUNG](http://www.cs.cmu.edu/~durand/Notung/).
 
 <br />
@@ -413,6 +409,12 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
+XX Dec. 2024 |  | Version 1.5.6b will (1) show detailed node lavels in rearranged trees (2) on/off gene description.
+28 Dec. 2024 |  | Version 1.5.6 is released. trimal1.5 is used to handle stop codons (*) in amino acid sequence (e.g. Homo-sapiens-RS2_NP036380.2).
+2 Oct. 2024 |  | Version 1.5.5 is released.
+24 July 2024 |  | Updated data of an appendicularian (Oikopleura-dioica-OKI2018) were newly added. 
+4 July 2024 |  | Updated data of a tunicate (Ciona instestinalis KY21) were newly added. 
+6 June 2024 | Version 1.5.3 | Released. The Downloading gene modes mode was newly constructed.
 1 May 2024 |  | Data of two tunicates (Halocynthia roretzi and H.aurantium) were newly added. 
 26 Mar. 2024 |  | Data of two sharks (Mobula-hypostoma and Hemiscyllium-ocellatum) were newly added. 
 11 Mar. 2024 |  | Data of an Echinoderm (Lytechinus-pictus) were newly added. Updated verions of two vertebrates (Homo sapiens and Gallus gallus) data were added.
@@ -532,6 +534,11 @@ The chordate ancestor possessed a single copy of the Brachyury gene for notochor
 ---
 ## Citation
 Inoue J. and Satoh N. 2019. ORTHOSCOPE: An automatic web tool for phylogenetically inferring bilaterian orthogroups with user-selected taxa. Molecular Biology and Evolution, 36, 621–631. [Link](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msy226/5229933).
+
+---
+## Old versions
+v1.5.5   
+[http://yurai.aori.u-tokyo.ac.jp/orthoscope155/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope155/Deuterostomia.html)   
 
 ---
 ## Contact 
