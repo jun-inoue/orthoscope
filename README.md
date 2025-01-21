@@ -409,7 +409,7 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
-XX Dec. 2024 |  | Version 1.5.6b will 
+21 Jan. 2025 |  | Bootstrap analyses are started with the same seed number by the R script, set.seed(123).
 28 Dec. 2024 |  | Version 1.5.6 is released. (1) trimal1.5 is used to handle stop codons (*) in amino acid sequence (e.g. Homo-sapiens-RS2_NP036380.2).(2) In rearranged trees, detailed node lavels are shown. (3) Gene description can be deleted.
 2 Oct. 2024 |  | Version 1.5.5 is released.
 24 July 2024 |  | Updated data of an appendicularian (Oikopleura-dioica-OKI2018) were newly added. 
