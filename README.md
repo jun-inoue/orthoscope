@@ -8,11 +8,11 @@ Mirror viento has been accidentally stopped on 19 Jan 2024 morning. Please use M
 ## Mirror sites for analyses
 yurai (fastest)   
 [http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html)   
-
+<!-- 
 viento (mediam)   
 [https://orthoscope.jp/orthoscope/Deuterostomia.html](https://orthoscope.jp/orthoscope/Deuterostomia.html)   
  This server will close soon (1 Feb 2025)   
-
+-->
 
 Osaka (slow)   
 [http://133.167.86.72/orthoscope/Deuterostomia.html](http://133.167.86.72/orthoscope/Deuterostomia.html)
