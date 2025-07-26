@@ -14,7 +14,7 @@ viento (mediam)
  This server will close soon (1 Feb 2025)   
 -->
 
-Osaka2 (slow)   
+osaka2 (slow)   
 [http://49.212.178.185/orthoscope/Deuterostomia.html](http://49.212.178.185/orthoscope/Deuterostomia.html)
 
 ---
