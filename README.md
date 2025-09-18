@@ -8,6 +8,7 @@ Mirror viento has been accidentally stopped on 19 Jan 2024 morning. Please use M
 ## Mirror sites for analyses
 yurai (fastest)   
 [http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html)   
+"Due to a scheduled power outage, the system will be suspended from 3:00 PM on September 27, 2025, until noon on September 30."   
 <!-- 
 viento (mediam)   
 [https://orthoscope.jp/orthoscope/Deuterostomia.html](https://orthoscope.jp/orthoscope/Deuterostomia.html)   
