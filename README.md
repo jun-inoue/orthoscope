@@ -411,6 +411,7 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
+28 Oct 2025 |  | New data added: Phaeophyceae (brown algae) (Ectocarpus-siliculosus, Nemacystus-decipiens, and Cladosiphon-okamuranus) and Rhodophyta (red algae) (Chondrus-crispus, Galdieria-sulphuraria, and Cyanidioschyzon-merolae).
 27 Oct 2025 |  | New data added: Dinoflagellate (Durusdinium-trenchii) and Fungi (Chaetomium-globosum, Neurospora-crassa, Trichoderma-reesei, Batrachochytrium-dendrobatidis).
 19 Oct 2025 | Version 1.5.8 | Released. New data added: Tunitate, Bacteria (Kitasatospora-setae and Streptomyces-griseus), and Viridiplantae (Chlamydomonas-reinhardtii). 
 19 May 2025 | Version 1.5.7 | Released. The updated data of a tunitate, Clavelina-lepadiformis-SU, were added. 
