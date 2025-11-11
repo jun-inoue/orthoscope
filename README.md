@@ -411,6 +411,7 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
+Updated script for secondary tree estimation: 100_2ndTree_v2. Added a script that displays an overview of the full alignment.
 5 Nov 2025 |  | New data added: Caphlochordata(Branchiostoma-belcheri-R3, Branchiostoma-floridae-RS3).
 4 Nov 2025 |  | New data added: Hemichordata(Saccoglossus-kowalevskii-E), Echinodermata(Anneissia-japonica-E,Asterias-rubens-E,Acanthaster-planci-E,Strongylocentrotus-purpuratus-E62), Caphlochordata(Branchiostoma-lanceolatum-kl), Vertebrata(Gallus-gallus-Ens115,Homo-sapiens-Ens115).
 28 Oct 2025 |  | New data added: Phaeophyceae (brown algae) (Ectocarpus-siliculosus, Nemacystus-decipiens, and Cladosiphon-okamuranus) and Rhodophyta (red algae) (Chondrus-crispus, Galdieria-sulphuraria, and Cyanidioschyzon-merolae).
