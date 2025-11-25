@@ -413,7 +413,7 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
-26 Nov 2025 |  | New data added: Symbiodiniaceae (Durusdinium trenchii), Phaeophyceae (brown algae) (Ectocarpus-siliculosus, Nemacystus-decipiens, Cladosiphon-okamuranus), Rhodophyta (red algae) (Chondrus-crispus, Galdieria-sulphuraria, Cyanidioschyzon-merolae)
+26 Nov 2025 |  | New data added: Symbiodiniaceae (Durusdinium trenchii), Phaeophyceae (brown algae) (Ectocarpus-siliculosus, Nemacystus-decipiens, Cladosiphon-okamuranus), Rhodophyta (red algae) (Chondrus-crispus, Galdieria-sulphuraria, Cyanidioschyzon-merolae), Viridiplantae (Chlamydomonas-reinhardtii)
 24 Nov 2025 |  | New data added: Zebrafish, Danio-rerio-Ens115 and Danio-rerio-RS.
 23 Nov 2025 |  | New data added: Green bottle fly, Lucilia-sericata.
 5 Nov 2025 |  | New data added: Caphlochordata(Branchiostoma-belcheri-R3, Branchiostoma-floridae-RS3).
