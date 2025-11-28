@@ -413,8 +413,9 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
+28 Nov 2025 |  | New data added: Phaeophyceae (brown algae) (Cladosiphon-okamuranus-K, -O, -C).
 26 Nov 2025 |  | New data added: Symbiodiniaceae (Durusdinium trenchii), Phaeophyceae (brown algae) (Ectocarpus-siliculosus, Nemacystus-decipiens, Cladosiphon-okamuranus), Rhodophyta (red algae) (Chondrus-crispus, Galdieria-sulphuraria, Cyanidioschyzon-merolae), Viridiplantae (Chlamydomonas-reinhardtii), Bacteria(Rhodobacter-sphaeroides, Komagataeibacter-xylinus, Pseudomonas-fluorescens, Escherichia-coli)
-24 Nov 2025 |  | New data added: Zebrafish, Danio-rerio-Ens115 and Danio-rerio-RS.
+24 Nov 2025 |  | New data added: Zebrafish (Danio-rerio-Ens115 and Danio-rerio-RS).
 23 Nov 2025 |  | New data added: Green bottle fly, Lucilia-sericata.
 5 Nov 2025 |  | New data added: Caphlochordata(Branchiostoma-belcheri-R3, Branchiostoma-floridae-RS3).
 4 Nov 2025 |  | New data added: Hemichordata(Saccoglossus-kowalevskii-E), Echinodermata(Anneissia-japonica-E,Asterias-rubens-E,Acanthaster-planci-E,Strongylocentrotus-purpuratus-E62), Caphlochordata(Branchiostoma-lanceolatum-kl), Vertebrata(Gallus-gallus-Ens115,Homo-sapiens-Ens115).
