@@ -413,6 +413,7 @@ Supported | Supported | 11.0 or later | Not supported
 
 Date | Version | Revision
 --- | --- | ---
+3 Dec 2025 |  | New data added: Fungi (Trametes-versicolor, Phanerochaete-chrysosporium).
 28 Nov 2025 |  | New data added: Phaeophyceae (brown algae) (Cladosiphon-okamuranus-K, -O, -C).
 26 Nov 2025 |  | New data added: Symbiodiniaceae (Durusdinium trenchii), Phaeophyceae (brown algae) (Ectocarpus-siliculosus, Nemacystus-decipiens, Cladosiphon-okamuranus), Rhodophyta (red algae) (Chondrus-crispus, Galdieria-sulphuraria, Cyanidioschyzon-merolae), Viridiplantae (Chlamydomonas-reinhardtii), Bacteria(Rhodobacter-sphaeroides, Komagataeibacter-xylinus, Pseudomonas-fluorescens, Escherichia-coli)
 24 Nov 2025 |  | New data added: Zebrafish (Danio-rerio-Ens115 and Danio-rerio-RS).
