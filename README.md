@@ -19,39 +19,24 @@ osaka2 (slow)
 
 ---
 
-## Abstract   
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="55%">
-<div align="left">
-ORTHOSCOPE (<a href="https://academic.oup.com/mbe/article/36/3/621/5229933" target="_blank">Inoue and Satoh 2019</a>) is a web tool to identify orthogroup members (orthologs and paralogs, see below) of a specific protein-coding gene of animals and plants. By uploading gene sequences of interest and by selecting species genomes from >600 animals/plants, users can infer their functions and copy numbers, according to results reported by ORTHOSCOPE in the form of gene trees.
-<br><br>
-By using sequences collected by the BLAST search, ORTHOSCOPE estimates the gene tree, compares it with the <a href="https://github.com/jun-inoue/Species_tree" target="_blank">species tree</a>, and identifies an orthogroup.
-<br><br>
-ORTHOSCOPE works only for a specific molecule and does not allow genome-scale analyses. Recently I developed the downloaded version, <a href="https://github.com/jun-inoue/ORTHOSCOPE_STAR" target="_blank">ORTHOSCOPE*</a> (star). This analytic pipeline accommodates genome-wide data of protein-coding genes and infers genome-scale events.
-</div>
-</td>
-<td width="45%">
-<img src="images/abstract_fig3.jpg">
-</td>
+## Abstract
 
-<tr valign="top">
-<td>
-<b>Japanese instruction (日本語の説明):</b><br>
-<a href="http://www.fish-evol.org/orthoscope_ji.html" target="_blank">http://www.fish-evol.org/orthoscope_ji.html</a><br>
-<b>Togo TV (日本語の動画):</b><br>
-<a href="https://togotv.dbcls.jp/20220815.html" target="_blank">https://togotv.dbcls.jp/20220815.html</a><br>
-</td>
-<td>
-<b>Genome wide analayses:</b><br>
-<a href="https://github.com/jun-inoue/ORTHOSCOPE_STAR" target="_blank">https://github.com/jun-inoue/ORTHOSCOPE_STAR</a><br>
-<b>non-coding analyses:</b><br>
-<a href="https://github.com/jun-inoue/dbCNS" target="_blank">https://github.com/jun-inoue/dbCNS</a><br>
-</td>
-</tr>
-</table>
+ORTHOSCOPE (https://academic.oup.com/mbe/article/36/3/621/5229933) is a web tool to identify orthogroup members (orthologs and paralogs; see below) of a specific protein‑coding gene of animals and plants.
 
+By uploading gene sequences of interest and selecting species genomes from more than 600 animals and plants, users can infer their functions and copy numbers according to gene‑tree‑based results.
 
+Using sequences collected by BLAST search, ORTHOSCOPE estimates the gene tree, compares it with the https://github.com/jun-inoue/Species_tree, and identifies an orthogroup.
+
+ORTHOSCOPE works only for a specific gene and does not allow genome‑scale analyses.  
+A downloadable genome‑wide pipeline is available as https://github.com/jun-inoue/ORTHOSCOPE_STAR.
+
+![Abstract](images/abstract_fig3.jpg)
+
+**Japanese instruction (日本語の説明):**  
+http://www.fish-evol.org/orthoscope_ji.html
+
+**Togo TV (日本語の動画):**  
+https://togotv.dbcls.jp/20220815.html
 
 ---
 
