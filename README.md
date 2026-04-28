@@ -18,6 +18,10 @@ osaka2 (slow)
 [http://49.212.178.185/orthoscope/Deuterostomia.html](http://49.212.178.185/orthoscope/Deuterostomia.html)
 
 ---
+## Instruction　　　
+[https://fish-evol.org/orthoscope_instruction/index.html](https://fish-evol.org/orthoscope_instruction/index.html)   
+
+---
 
 ## Abstract
 
