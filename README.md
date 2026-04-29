@@ -34,7 +34,7 @@ Using sequences collected by BLAST search, ORTHOSCOPE estimates the gene tree, c
 ORTHOSCOPE works only for a specific gene and does not allow genome‑scale analyses.  
 A downloadable genome‑wide pipeline is available as https://github.com/jun-inoue/ORTHOSCOPE_STAR.
 
-![Abstract](images/abstract_fig3.jpg)
+<img src="images/abstract_fig3.jpg" alt="Abstract" width="400">
 
 **Japanese instruction (日本語の説明):**  
 http://www.fish-evol.org/orthoscope_ji.html
