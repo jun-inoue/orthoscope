@@ -36,11 +36,6 @@ A downloadable genome‑wide pipeline is available as https://github.com/jun-ino
 
 <img src="images/abstract_fig3.jpg" alt="Abstract" width="400">
 
-**Japanese instruction (日本語の説明):**  
-http://www.fish-evol.org/orthoscope_ji.html
-
-**Togo TV (日本語の動画):**  
-https://togotv.dbcls.jp/20220815.html
 
 ---
 ## Contact 
