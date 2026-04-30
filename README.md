@@ -5,7 +5,7 @@
 Mirror viento has been accidentally stopped on 19 Jan 2024 morning. Please use Mirror Osaka until recovery of viento.
 -->
 
-## Mirror sites for analyses
+## Web Servers for Online Analysis
 yurai (fast)   
 [http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html)    
 <!-- 
