@@ -8,6 +8,7 @@ Mirror viento has been accidentally stopped on 19 Jan 2024 morning. Please use M
 ## Web Servers for Online Analysis
 yurai (fast)   
 [http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html](http://yurai.aori.u-tokyo.ac.jp/orthoscope/Deuterostomia.html)    
+The server will be offline Sept 25, 15:00 JST – Sept 28, 12:00 JST due to scheduled campus power maintenance.   
 <!-- 
 viento (mediam)   
 [https://orthoscope.jp/orthoscope/Deuterostomia.html](https://orthoscope.jp/orthoscope/Deuterostomia.html)   
