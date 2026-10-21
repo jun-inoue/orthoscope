@@ -27,7 +27,7 @@ osaka2 (slow)
 
 <img src="images/abstract_fig3.jpg" alt="Abstract" width="400">
 
-[Overview and instructions](https://fish-evol.org/orthoscope_instruction/index.html) · [Original publication](https://academic.oup.com/mbe/article/36/3/621/5229933)
+[Original publication](https://academic.oup.com/mbe/article/36/3/621/5229933)
 
 
 ---
