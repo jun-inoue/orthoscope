@@ -25,7 +25,9 @@ osaka2 (slow)
 
 <img src="images/abstract_fig3.jpg" alt="Abstract" width="400">
 
-[Original publication](https://academic.oup.com/mbe/article/36/3/621/5229933)
+## Citation
+
+Inoue J, Satoh N. 2019. ORTHOSCOPE: An automatic web tool for phylogenetically inferring bilaterian orthogroups with user-selected taxa. Molecular Biology and Evolution 36:621–631. [Link](https://academic.oup.com/mbe/article/36/3/621/5229933?login=false).
 
 
 ---
