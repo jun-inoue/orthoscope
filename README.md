@@ -1,7 +1,5 @@
 # ORTHOSCOPE
 
-<img src="images/abstract_fig3.jpg" alt="Abstract" width="400">
-
 <!-- 
 ## NEWS
 Mirror viento has been accidentally stopped on 19 Jan 2024 morning. Please use Mirror Osaka until recovery of viento.
@@ -24,6 +22,8 @@ osaka2 (slow)
 [https://fish-evol.org/orthoscope_instruction/index.html](https://fish-evol.org/orthoscope_instruction/index.html)   
 
 ---
+
+<img src="images/abstract_fig3.jpg" alt="Abstract" width="400">
 
 [Original publication](https://academic.oup.com/mbe/article/36/3/621/5229933)
 
